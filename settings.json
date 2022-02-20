@@ -1,0 +1,50 @@
+// VSCode Workspace settings
+{
+  "cSpell.allowCompoundWords": true,
+  "cSpell.import": [
+    "${workspaceRoot}/../pob-spell/cspell.json"
+  ],
+  // "cSpell.dictionaries": [
+  //   "!poe-words"
+  // ],
+  "cSpell.enabledLanguageIds": [
+    "asciidoc",
+    "c",
+    "cpp",
+    "csharp",
+    "css",
+    "git-commit",
+    "go",
+    "graphql",
+    "handlebars",
+    "haskell",
+    "html",
+    "jade",
+    "java",
+    "javascript",
+    "javascriptreact",
+    "json",
+    "jsonc",
+    "jupyter",
+    "latex",
+    "less",
+    "markdown",
+    "php",
+    "plaintext",
+    "python",
+    "pug",
+    "restructuredtext",
+    "rust",
+    "scala",
+    "scss",
+    "swift",
+    "text",
+    "typescript",
+    "typescriptreact",
+    "vue",
+    "yaml",
+    "yml",
+    "lua",
+    "xml"
+  ]
+}

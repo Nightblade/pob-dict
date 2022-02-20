@@ -1,0 +1,36 @@
+// cSpell Settings
+{
+    "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+    "version": "0.2",
+    "language": "en,en-GB",
+    "allowCompoundWords": true,
+    // paths/files to ignore in addition to anything in .gitignore
+    "ignorePaths": [
+        // ".git",
+        // "*.dll",
+        // "LICENSE.md",
+        // "manifest.xml",
+        "ModCache.lua",
+        "runtime/*",
+        "src/Export/Tree/**",
+        "src/TreeData/**"
+    ],
+    "dictionaries": [
+        "poe-words",
+        "pob-words"
+    ],
+    "dictionaryDefinitions": [
+        {
+            "name": "poe-words",
+            "path": "./poe-words.txt",
+            "description": "Words used in Path of Exile",
+            "addWords": true
+        },
+        {
+            "name": "pob-words",
+            "path": "./pob-words.txt",
+            "description": "Words used in Path of Building Community",
+            "addWords": true
+        }
+    ]
+}
