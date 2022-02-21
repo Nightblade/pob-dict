@@ -4,7 +4,8 @@
 Dictionary and config files for [Path Of Building Community](https://github.com/PathOfBuildingCommunity/PathOfBuilding) (POBC) code development in [VSCode](https://code.visualstudio.com/) with the [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) extension.
 
 ## Components
-| --------------- | ----------- |
+| Filename        | Description
+| --------------- | -----------
 | `settings.json` | VSCode workspace settings.
 | `cspell.json`   | [CSpell](https://cspell.org/) settings.
 | `poe-words.txt` | List of valid [Path of Exile](https://www.pathofexile.com/) words.  <br />Straight plaintext with "`'s`" stripped.
