@@ -6,12 +6,8 @@
     "allowCompoundWords": true,
     // paths/files to ignore in addition to anything in .gitignore
     "ignorePaths": [
-        // ".git",
-        // "*.dll",
-        // "LICENSE.md",
-        // "manifest.xml",
-        "ModCache.lua",
-        "runtime/*",
+        "runtime/**",
+        "src/Data/**",
         "src/Export/Tree/**",
         "src/TreeData/**"
     ],

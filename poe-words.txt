@@ -12,7 +12,6 @@ Ahuatotli
 akhara
 Akoya
 Alberon
-aletrop
 Alira
 Amanamu
 Ambu
@@ -26,6 +25,7 @@ Arbalists
 Arborix
 Arcanist
 Archdemon
+Arcmage
 Arn
 Arohongui
 Arohungui
@@ -113,7 +113,6 @@ Dreadbeak
 Dreadsurge
 Drox
 Druggery
-Dullson
 Duskblight
 Dyadian
 Dyadus
@@ -152,8 +151,6 @@ Garena
 Garukhan
 Gemling
 Geofri
-GGG
-GGPK
 Gladius
 Goldwyrm
 Goroshi
@@ -252,7 +249,6 @@ Murgeth
 Mutewind
 Nashta
 Nasima
-nathanrobb
 Nebulis
 Nebuloch
 nenet
@@ -301,7 +297,6 @@ Ralakesh
 Rasa
 Rathpith
 Reanimator
-Regisle
 Rhex
 Rhoa
 Rigwald
@@ -329,9 +324,6 @@ Skyforth
 Solarine
 Specularity
 Starkonja
-statdesc
-statlist
-steamapps
 Synthesised
 Synthete
 Tacati
@@ -344,8 +336,8 @@ Tecton
 Temu
 Thaumophage
 Theia
+Theia
 Titucius
-tommysays
 Topotante
 Toxicist
 Trisula
@@ -394,7 +386,6 @@ Xibaqua
 Xirgil
 Xopec
 Xoph
-Yamin
 Ylfeban
 Yriel
 Yugul

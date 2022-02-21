@@ -2,7 +2,7 @@
 {
   "cSpell.allowCompoundWords": true,
   "cSpell.import": [
-    "${workspaceRoot}/../pob-spell/cspell.json"
+    "./cspell.json"
   ],
   // "cSpell.dictionaries": [
   //   "!poe-words"
