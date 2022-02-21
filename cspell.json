@@ -3,13 +3,19 @@
     "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
     "version": "0.2",
     "language": "en,en-GB",
-    "allowCompoundWords": true,
-    // paths/files to ignore in addition to anything in .gitignore
+    // "allowCompoundWords": true,
+    "useGitignore": false,
     "ignorePaths": [
-        "runtime/**",
-        "src/Data/**",
-        "src/Export/Tree/**",
-        "src/TreeData/**"
+        ".git",
+        "*.dll",
+        "*.exe",
+        "*.png",
+        "*.tga",
+        "*.zip"
+        // "./runtime",
+        // "./src/Data",
+        // "./src/Export/Tree",
+        // "./src/TreeData",
     ],
     "dictionaries": [
         "poe-words",
@@ -25,7 +31,7 @@
         {
             "name": "pob-words",
             "path": "./pob-words.txt",
-            "description": "Words used in Path of Building Community",
+            "description": "Words used in Path Of Building Community",
             "addWords": true
         }
     ]

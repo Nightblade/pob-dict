@@ -1,8 +1,9 @@
 // VSCode Workspace settings
 {
-  "cSpell.allowCompoundWords": true,
+  // "cSpell.allowCompoundWords": true,
+  "cSpell.useGitignore": false,
   "cSpell.import": [
-    "./cspell.json"
+    "${workspacefolder}/.vscode/cspell.json"
   ],
   // "cSpell.dictionaries": [
   //   "!poe-words"
