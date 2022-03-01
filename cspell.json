@@ -3,8 +3,8 @@
     "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
     "version": "0.2",
     "language": "en,en-GB",
-    // "allowCompoundWords": true,
-    "useGitignore": true,
+    "enableGlobDot": true,
+    "useGitignore": false,
     "ignorePaths": [
         ".git",
         "*.dll",
@@ -36,14 +36,15 @@
             "addWords": true
         }
     ],
+    // Known misspellings are listed here until I can find a better solution.
     "flagWords": [
         "actic",
-        "activiation",
+        "activiation",      // src/Data/Skills/*_str.lua:*:*
         "Aliies",
         "allys",
         "Atack",
         "atzitis",
-        "AvoidInteruptStun", // comments allowed?
+        "AvoidInteruptStun",
         "Beastial",
         "bleeing",
         "blobe",
@@ -120,7 +121,6 @@
         "spead",
         "spltting",
         "tentalces",
-        "the the",
         "Thundrous",
         "Tukomaha",
         "unqiue",
