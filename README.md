@@ -25,8 +25,8 @@ to it.
 
 ## Example command-line usage
 If you also have the [CSpell NPM package](https://www.npmjs.com/package/cspell) installed, 
-you can initiate a full scan of your POBC repo from a VSCode terminal
- and it will use the settings in your `.vscode` folder:
+you can initiate a full scan of your POBC repo from a VSCode terminal and it will use 
+the settings in your `.vscode` folder:
 ```powershell
 cspell "**"
 ```

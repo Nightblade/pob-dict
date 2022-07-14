@@ -1,11 +1,11 @@
 // VSCode-specific Workspace settings
 {
   "cSpell.useGitignore": false,
-  // Load consolidated settings from the command-line version of cSpell
+  // Load consolidated settings from the command-line version of cSpell:
   "cSpell.import": [
     ".vscode/cspell.json"
   ],
-  // Uncomment the following to disable specific dictionaries for testing
+  // Uncomment the following to disable specific dictionaries for testing:
   // "cSpell.dictionaries": [
   //   "!poe-words"
   // ],

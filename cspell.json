@@ -39,7 +39,7 @@
     // Known misspellings are listed here until I can find a better solution.
     "flagWords": [
         "actic",
-        "activiation",      // src/Data/Skills/*_str.lua:*:*
+        "activiation",
         "Aliies",
         "allys",
         "Atack",
