@@ -10,8 +10,8 @@ extension.
 | Filename       | Description
 | -------------- | -----------
 | `cspell.json`  | [CSpell](https://cspell.org/) settings.
-| `poe-dict.txt` | Plaintext list of valid words specific to [Path of Exile](https://www.pathofexile.com/), with any "`'s`" removed.
-| `pob-dict.txt` | Plaintext list of words deemed acceptable for use with developing the POBC source-code, with any "`'s`" removed.
+| `poe-dict.txt` | Plaintext list of valid words specific to [Path of Exile](https://www.pathofexile.com/).
+| `pob-dict.txt` | Plaintext list of valid words for use with developing the POBC source-code.
 
 ## Installation
 * Ensure [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) 
