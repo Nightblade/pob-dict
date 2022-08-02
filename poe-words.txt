@@ -23,6 +23,7 @@ Apep
 Arachnoxia
 Arakaali
 Araku
+Kineticism
 Arbalists
 Arborix
 arcanepotency
@@ -31,6 +32,7 @@ Archdemon
 Archmage
 Arcmage
 arenalord
+Armala
 armourmastery
 Arn
 Arohongui
@@ -40,6 +42,7 @@ Ashblessed
 Ashcaller
 Ashrend
 Ashscale
+Ashweaver
 Assailum
 Astramentis
 Atziri
@@ -53,6 +56,7 @@ Auxium
 Avarius
 Aventail
 Aylardex
+Azmeri
 Balbala
 Bameth
 Baran
@@ -93,6 +97,7 @@ Bloodplay
 Bloodreap
 Bloodscent
 Bloodseeker
+Bloodsoaked
 Bloodstorm
 Bloodthirst
 Blunderbore
@@ -100,9 +105,12 @@ bodyswap
 Bogsong
 Bonechill
 Bonecruncher
+Bonereaver
+Boneshaper
 Boneshatter
 Bonespire
 Bonestalker
+Bonewarped
 Bramblejack
 Brandsurge
 Breachlord
@@ -137,6 +145,7 @@ Chayula
 Chernobog
 Cherrubim
 Chestplate
+Chillcaller
 Chimeral
 Chitus
 Chober
@@ -204,6 +213,7 @@ Dragonscale
 Dreadarc
 Dreadbeak
 Dreadsurge
+Dreadwheel
 Dreamfeather
 Dreamquest
 Drillneck
@@ -256,11 +266,14 @@ Fencoil
 Fenumus
 Fidelitas
 Fireborn
+Fireshot
 Fishscale
 Flamebearer
 flameblast
 flameborn
+Flameguard
 Flamesight
+Flametosser
 Flashfire
 Flashfires
 Fleshbinding
@@ -276,6 +289,7 @@ frostborn
 Frostbreath
 frostburn
 Frostferno
+Frostguard
 furybolts
 Fusilade
 Galecaller
@@ -286,6 +300,7 @@ gemcutter
 gemcutters
 Gemling
 Geofri
+GGG
 ghostreaver
 Giantsbane
 glacialcage
@@ -337,6 +352,7 @@ Hellscape
 hellscaping
 heroicspirit
 Heup
+Undeath
 hexblast
 Hexclaw
 hexproof
@@ -364,6 +380,7 @@ iceheart
 Icestorm
 Icestorms
 Icetomb
+Iceweaver
 Ichimonji
 Ignomon
 Immortalis
@@ -371,6 +388,7 @@ Impresence
 incaminion
 Incanter
 Indigon
+Infernomage
 Infractem
 Innsbury
 Inpulsa
@@ -411,7 +429,6 @@ Lanternbearer
 lavalash
 Lavianga
 Lazhwar
-lcurl
 Leaguestone
 Leaguestones
 leapslam
@@ -437,6 +454,7 @@ Loreweave
 Loricated
 Lunaris
 Lunarsworn
+Lycius
 Lycosidae
 Machinarium
 Maelström
@@ -516,6 +534,7 @@ onehand
 oriath
 Oriathan
 Oskarm
+Ossecati
 Overcapped
 Overshock
 Painforged
@@ -565,6 +584,7 @@ Reanimator
 Redbeak
 Redblade
 Reefbane
+Relicguard
 Rhex
 Rhoa
 Rigwald
@@ -575,6 +595,7 @@ Romira
 Rotblood
 Rotfeather
 Royale
+Rukuku
 Rumi
 Runebinder
 Runeblazing
@@ -606,6 +627,7 @@ Serpentscale
 serpentstance
 Shadowstitch
 Shakari
+Shambler
 Sharktooth
 Shattershard
 Shavronne
@@ -624,6 +646,7 @@ Sirus
 skillduration
 Skitterbot
 skitterbots
+Skullbeak
 Skullbreaker
 skullcracking
 Skullhead
@@ -662,6 +685,7 @@ Steelscale
 Steelskin
 Steelwood
 Steelworm
+Steppan
 stonegaze
 Stoneskin
 Stormbind
@@ -671,9 +695,11 @@ Stormbrewer
 stormcall
 Stormcharger
 Stormfire
+Stormguard
 Stormheart
 Stormrider
 Stormsail
+Stormtouched
 Stormwall
 Stranglegasp
 strongarm
@@ -692,15 +718,16 @@ Tawhoa
 Tawm'r
 Tecrod
 Tecton
-teleportations
 Temu
 Thaumophage
 Theia
 thickskin
 Throatseeker
 Thunderfist
+Thunderguard
 Thunderhand
 Thundersight
+Thundrous
 Tidebreaker
 Timeclasp
 Timetwist
@@ -740,6 +767,7 @@ Vagan
 Valako
 Valyrium
 Vapourising
+Varhesh
 Varunastra
 Venarius
 Venopuncture
@@ -778,6 +806,7 @@ warcry
 Wardbreaker
 Warstaff
 watchstone
+watchstones
 waterdancing
 Waystone
 Waystones

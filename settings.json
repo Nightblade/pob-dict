@@ -1,50 +1,13 @@
 // VSCode-specific Workspace settings
 {
   "cSpell.import": [
-    ".vscode/cspell.json"
-  ],
+    "cspell.json"
+  ]
+  // "cSpell.ignorePaths": [
+
+  // ],
   // Uncomment the following to disable specific dictionaries for testing
   // "cSpell.dictionaries": [
   //   "!poe-words"
-  // ],
-  "cSpell.enabledLanguageIds": [
-    "asciidoc",
-    "c",
-    "cpp",
-    "csharp",
-    "css",
-    "git-commit",
-    "go",
-    "graphql",
-    "handlebars",
-    "haskell",
-    "html",
-    "jade",
-    "java",
-    "javascript",
-    "javascriptreact",
-    "json",
-    "jsonc",
-    "jupyter",
-    "latex",
-    "less",
-    "markdown",
-    "php",
-    "plaintext",
-    "python",
-    "pug",
-    "restructuredtext",
-    "rust",
-    "scala",
-    "scss",
-    "swift",
-    "text",
-    "typescript",
-    "typescriptreact",
-    "vue",
-    "yaml",
-    "yml",
-    "lua",
-    "xml"
-  ]
+  // ]
 }
