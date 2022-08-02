@@ -1,4 +1,4 @@
-# pob-words
+# pob-dict
 
 Dictionary and config files for 
 [Path Of Building Community](https://github.com/PathOfBuildingCommunity/PathOfBuilding) (POBC) 
@@ -18,8 +18,8 @@ extension.
 ## Installation
 * Ensure [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) 
 VSCode extension is installed.
-* Download `pob-words` and unpack.
-* Copy/move the component files listed above to the `.vscode` folder of your POBC repo.
+* Download/checkout this repo and unpack.
+* Copy the component files listed above to the `.vscode` folder of your POBC repo.
 * NOTE:  If `settings.json` already exists in your repo, you'll need to append this one 
 to it.
 
