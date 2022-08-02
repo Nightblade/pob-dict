@@ -6,26 +6,30 @@
     "enableGlobDot": true,
     "useGitignore": true,
     "dictionaries": [
-        "poe-words",
-        "pob-words"
+        "poe-dict",
+        "pob-dict",
+        "!aws",
+        "!cryptocurrencies",
+        "!ada"
     ],
     "dictionaryDefinitions": [
         {
-            "name": "poe-words",
-            "path": "./poe-words.txt",
-            "description": "Words used in Path of Exile",
+            "name": "poe-dict",
+            "path": "./poe-dict.txt",
+            "description": "Path of Exile dictionary",
             "addWords": true
         },
         {
-            "name": "pob-words",
-            "path": "./pob-words.txt",
-            "description": "Words used in Path Of Building Community",
+            "name": "pob-dict",
+            "path": "./pob-dict.txt",
+            "description": "Path Of Building Community dictionary",
             "addWords": true
         }
     ],
     "ignoreRegExpList": [
         "/\\^x[\\d\\w]{6}/"
     ],
+    "globRoot": "${cwd}",
     "ignorePaths": [
         "./.gitattributes",
         "./runtime",

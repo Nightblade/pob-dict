@@ -7,26 +7,29 @@ with the [Code Spell Checker](https://marketplace.visualstudio.com/items?itemNam
 extension.
 
 ## Components
-| Filename        | Description
-| --------------- | -----------
-| `settings.json` | VSCode workspace settings.
-| `cspell.json`   | [CSpell](https://cspell.org/) settings.
+| Filename       | Description
+| -------------- | -----------
+| `cspell.json`  | [CSpell](https://cspell.org/) settings.
 | `poe-dict.txt` | Plaintext list of valid words specific to [Path of Exile](https://www.pathofexile.com/), with any "`'s`" removed.
-| `pob-dict.txt` | Plaintext list of words deemed acceptable for use with developing the POBC source-code.
+| `pob-dict.txt` | Plaintext list of words deemed acceptable for use with developing the POBC source-code, with any "`'s`" removed.
 
 ## Installation
 * Ensure [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) 
 VSCode extension is installed.
-* Checkout or download & unzip this repo.
-* Copy the component files listed above to the `.vscode` folder of your POBC repo.
-* NOTE:  If `settings.json` already exists in your repo, you'll need to append this one 
-to it.
+* Checkout (or download & unzip) this repo to a sub-directory that shares its parent dir with your POBC repo.
+* Add the following lines to `settings.json` in the `.vscode` folder of your POBC repo:
+```json
+{
+  "cSpell.import": [ "../../pob-dict/cspell.json" ],
+  "cSpell.language": "en,en-GB"
+}
+```
 
-## Example command-line usage
-If you also have the [CSpell NPM package](https://www.npmjs.com/package/cspell) installed, 
+## Command-line usage
+If you also have the [CSpell NPM package](https://www.npmjs.com/package/cspell) installed 
 you can initiate a full scan of your POBC repo from a VSCode terminal using a command like this:
 ```powershell
-cspell --config C:\PathOfBuilding\.vscode\cspell.json --root C:\PathOfBuilding\ --relative --show-context --no-progress "**"
+cspell --config "..\pob-dict\cspell.json" --relative --show-context --no-progress "**"
 ```
 
 ---

@@ -248,6 +248,7 @@ Peechey
 Perc
 PERCENT
 perhundredthousand
+perma
 pfeigl
 pHiney
 PJacek
@@ -291,6 +292,7 @@ Rigwalds
 roastpiece
 rshift
 Sakux323
+SaloEater
 SAPBG
 SCORCHBG
 scristall

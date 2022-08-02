@@ -23,7 +23,6 @@ Apep
 Arachnoxia
 Arakaali
 Araku
-Kineticism
 Arbalists
 Arborix
 arcanepotency
@@ -352,7 +351,6 @@ Hellscape
 hellscaping
 heroicspirit
 Heup
-Undeath
 hexblast
 Hexclaw
 hexproof
@@ -410,6 +408,7 @@ Kiara
 Kikazaru
 Killstreak
 Kiloava
+Kineticism
 Kingsguard
 Kintsugi
 Kirac
@@ -759,6 +758,7 @@ Uhtred
 Ulaman
 Ullr
 Unaff
+Undeath
 Ungil
 Unshattered
 Uzaza
