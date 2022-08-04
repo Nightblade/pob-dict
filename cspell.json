@@ -34,7 +34,8 @@
         }
     ],
     "ignoreRegExpList": [
-        "/\\^x[\\d\\w]{6}/"
+        "/\\^x[\\d\\w]{6}/",
+        "/manifeste\\?/"
     ],
     "globRoot": "${cwd}",
     "ignorePaths": [
