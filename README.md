@@ -23,13 +23,13 @@ Which dictionary do I add this flagged word to?
 
 Examples:
 | Word            | Dictionary          | Reason
--------------------------------------------------------------
+|-----------------|---------------------|------------------------------
 | Atziri          | `poe-dict.txt`      | Correct spelling of POE NPC.
-| REGENPERCENT    | `pob-dict.txt`      | Correct combination of two words used in POB source code.
+| REGENPERCENT    | `pob-dict.txt`      | Correct combination of two words, used in POB source code.
 | Lilylicious     | `pob-dict.txt`      | Correct spelling of a POB contributor's name/handle.
-| CritsDontAlways | `ignore-dict.txt`   | Incorrect spelling but we are aware and don't want a warning. (1)
+| CritsDontAlways | `ignore-dict.txt`   | Incorrect spelling but we are aware and don't want a warning. *(1)*
 
-(1) Note that just adding the word "dont" to the ignore dict would most likely create unwanted false negatives elsewhere.
+*(1)* Note that just adding the word "dont" to the ignore dict would most likely create unwanted false negatives elsewhere.
 
 ## Installation
 * Ensure [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) 
