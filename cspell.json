@@ -8,6 +8,7 @@
     "dictionaries": [
         "poe-dict",
         "pob-dict",
+        "ignore-dict",
         "!aws",
         "!cryptocurrencies",
         "!ada"
@@ -23,6 +24,12 @@
             "name": "pob-dict",
             "path": "./pob-dict.txt",
             "description": "Path Of Building Community dictionary",
+            "addWords": true
+        },
+        {
+            "name": "ignore-dict",
+            "path": "./ignore-dict.txt",
+            "description": "Path Of Building Community ignore dictionary",
             "addWords": true
         }
     ],
@@ -62,7 +69,6 @@
         "./src/Data/Spectres.lua",
         "./src/Data/StatDescriptions/*.lua",
         "./src/Data/TimelessJewelData",
-        "./src/Data/Uniques/Special/Generated.lua",
         "./src/Data/Uniques/Special/WatchersEye.lua",
         "./src/Export/ggpk/*.dll",
         "./src/Export/ggpk/*.exe",

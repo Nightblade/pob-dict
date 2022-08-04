@@ -1,0 +1,13 @@
+abberaths
+BlockedDamageDoesntBypassES
+cospris_malice
+CosprisMalice
+CritsDontAlways
+dontCache
+dontCallSelFunc
+dontDisplay
+dontSplitEvade
+dontUseCache
+hyrris
+SummonRigwaldsPack
+triggeredByCospris

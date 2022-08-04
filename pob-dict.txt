@@ -1,4 +1,3 @@
-abberaths
 abyssa
 accountname
 accuracydex
@@ -28,7 +27,6 @@ baranio
 Basicsof
 bblarney
 benjaminysmall
-BlockedDamageDoesntBypassES
 boogaloo
 borisbsv
 BOTTOMLEFT
@@ -60,15 +58,12 @@ conv
 cooldown
 Cooldown
 cooldowns
-cospris_malice
-CosprisMalice
 Cousine
 cpath
 craftable
 criticaldaggerdex
 Criticals
 Crits
-CritsDontAlways
 ctof
 ctrpetersen
 curr
@@ -99,11 +94,6 @@ dlmalloc
 DMGATTACKS
 DMGBOTH
 DMGSPELLS
-dontCache
-dontCallSelFunc
-dontDisplay
-dontSplitEvade
-dontUseCache
 DOWNLOADCHARLIST
 dropdowns
 Dullson
@@ -116,7 +106,6 @@ etojuice
 Eyeofthe
 facepalmgamer
 Fanof
-FFCC
 FINDEXPLICIT
 FINDIMPLICIT
 firstword
@@ -138,14 +127,12 @@ GLEXT
 glovesatlasdex
 Gowor
 groupless
-Havinga
 hdfg
 hdgf
 hdwatts
 Helyos96
 Heraldof
 hgdf
-hyrris
 ICDR
 Ierusalimschy
 ifnjeff
@@ -201,7 +188,6 @@ makensis
 Mallah
 malloc
 manatext
-manifeste
 matchstring
 maxdepth
 Melnichenko
@@ -231,7 +217,6 @@ NSIS
 OFFHANDBG
 oidx
 olop4444
-Ondars
 Oodle
 Openarl
 otherwords
@@ -286,9 +271,7 @@ Rentry
 respec
 RFES
 RGBWA
-Rhoas
 RIGHTBUTTON
-Rigwalds
 roastpiece
 rshift
 Sakux323
@@ -339,7 +322,6 @@ Torchery
 Totemable
 totemified
 Triggerable
-triggeredByCospris
 twiz-ahk
 uilman
 unalloc
@@ -351,12 +333,9 @@ USERAGENT
 USERPROFILE
 vari
 viar
-vinktars
 viromancer
-volkuurs
 Voronoff
 vuln
-warcies
 WHEELDOWN
 WHEELUP
 wjdeclan
