@@ -87,7 +87,8 @@
         "*.png",
         "*.tga",
         "*.zip.part*",
-        "*.zip"
+        "*.zip",
+        "cspell.json"
     ],
     "flagWords": [
         "and and",
