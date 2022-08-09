@@ -12,3 +12,11 @@ hyrris
 SummonRigwaldsPack
 triggeredByCospris
 RejuvinationTotem
+AtlasCruasderJudgeFadingNova
+SummonBeastialRhoa
+SummonBeastialSnake
+SummonBeastialUrsa
+FireballIncusionFire
+FireballIncusionLightning
+intimidating_cry_empowerd_
+incinerate_is_gem_ingite
