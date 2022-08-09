@@ -11,3 +11,4 @@ dontUseCache
 hyrris
 SummonRigwaldsPack
 triggeredByCospris
+RejuvinationTotem

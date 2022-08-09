@@ -75,6 +75,7 @@
         "./src/Export/ggpk/*.exe",
         "./src/Export/ggpk/Data/",
         "./src/Export/ggpk/Metadata/",
+        "./src/Export/Minions/Minions.txt",
         "./src/Export/Minions/Spectres.txt",
         "./src/Export/Skills/",
         "./src/Export/spec.lua",
