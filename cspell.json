@@ -57,7 +57,7 @@
         "./src/Data/LegionPassives.lua",
         "./src/Data/Minions.lua",
         "./src/Data/Misc.lua",
-        "./src/Data/ModCache.lua",
+        "./src/Data/ModCache.lua",  // Automatically generated
         "./src/Data/ModFlask.lua",
         "./src/Data/ModItem.lua",
         "./src/Data/ModJewel.lua",
@@ -68,7 +68,7 @@
         "./src/Data/Pantheons.lua",
         "./src/Data/Skills/*.lua",
         "./src/Data/Spectres.lua",
-        "./src/Data/StatDescriptions/*.lua",    // full of GGG internal mispellings
+        "./src/Data/StatDescriptions/*.lua",    // Full of GGG internal mispellings
         "./src/Data/TimelessJewelData",
         "./src/Data/Uniques/Special/WatchersEye.lua",
         "./src/Export/ggpk/*.dll",
@@ -80,7 +80,7 @@
         "./src/Export/spec.lua",
         "./src/Export/Tree/",
         "./src/Settings.xml",
-        "./src/TreeData",   // full of GGG internal mispellings
+        "./src/TreeData",   // Full of GGG internal mispellings
         ".git",
         "*.dll",
         "*.exe",
@@ -93,7 +93,6 @@
     "flagWords": [
         "and and",
         "becouse",
-        "cant",
         "Casted",
         "is is",
         "it it",
