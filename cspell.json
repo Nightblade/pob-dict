@@ -68,7 +68,7 @@
         "./src/Data/Pantheons.lua",
         "./src/Data/Skills/*.lua",
         "./src/Data/Spectres.lua",
-        "./src/Data/StatDescriptions/*.lua", // Full of GGG internal mispellings
+        "./src/Data/StatDescriptions/*.lua", // Contains GGG internal misspellings
         "./src/Data/TimelessJewelData",
         "./src/Data/Uniques/Special/WatchersEye.lua",
         "./src/Export/ggpk/*.dll",
@@ -77,10 +77,10 @@
         "./src/Export/ggpk/Metadata/",
         "./src/Export/Minions/Minions.txt",
         "./src/Export/Minions/Spectres.txt",
-        "./src/Export/spec.lua",
+        "./src/Export/spec.lua",  // Contains GGG internal misspellings
         "./src/Export/Tree/",
         "./src/Settings.xml",
-        "./src/TreeData", // Full of GGG internal mispellings
+        "./src/TreeData", // Contains GGG internal misspellings
         ".git",
         "*.dll",
         "*.exe",
@@ -127,6 +127,5 @@
         "yml",
         "lua",
         "xml"
-    ],
-    "enabled": false
+    ]
 }
