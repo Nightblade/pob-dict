@@ -20,3 +20,11 @@ FireballIncusionFire
 FireballIncusionLightning
 intimidating_cry_empowerd_
 incinerate_is_gem_ingite
+SharpandBrittle
+AffectedByPurityof
+Upconversion
+ingame
+skillset
+probs
+basetakenFlat
+_atleast_
