@@ -891,3 +891,4 @@ Maroider
 Firebreath
 Deathnotch
 Evocationist
+Elevore
