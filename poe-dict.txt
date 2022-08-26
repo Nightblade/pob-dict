@@ -109,6 +109,7 @@ Bladestorm
 Bladestorms
 Blaidd
 Blastchain
+Blightblade
 Blightwell
 Bloodboil
 Bloodbond
@@ -134,9 +135,11 @@ Boneshatter
 Bonespire
 Bonestalker
 Bonewarped
+Boulderback
 Braeta
 Bramblejack
 Brandsurge
+Bravalo
 Breachlord
 Breachlords
 Breachstone
@@ -144,6 +147,7 @@ Breachstones
 Breakrib
 Breathstealer
 Brightbeak
+Brinecrack
 Brinerot
 Briskwrap
 Broadhead
@@ -255,11 +259,13 @@ Drakeling
 Dreadarc
 Dreadbeak
 Dreadspire
+Dreadstone
 Dreadsurge
 Dreadwheel
 Dreamfeather
 Dreamquest
 Drillneck
+Droolmaw
 Drox
 Druggery
 Duskblight
@@ -332,12 +338,14 @@ Flamesight
 Flametosser
 Flashfire
 Flashfires
+Fleetfreak
 Fleshbinding
 Fleshcrafter
 Fleshrend
 Fleshripper
 Flickerflame
 Flickershade
+Foxfly
 Foxshade
 Freezebolt
 Frostblink
@@ -437,6 +445,7 @@ Hezmana
 Hezmin
 Hinekora
 Hollowpoint
+Hollowskull
 Honourhome
 Hoofprints
 Hopeshredder
@@ -490,6 +499,7 @@ Kadaka
 Kadavrus
 Kalandra
 Kalisa
+Kall
 Kaltenhalt
 Kaltensoul
 Kaom
@@ -624,6 +634,7 @@ newshocknova
 Ngamahu
 Ngamaku
 Nightblade
+Nightbringer
 Nightgrip
 Nightstalker
 Nightwane
@@ -700,6 +711,7 @@ Quecholli
 rageblade
 ragestorm
 Ragestorms
+Raihara
 Rainbowstride
 Rakango
 Rakiata
@@ -764,6 +776,7 @@ Secutor
 Sekhem
 Sekhema
 Selenia
+Seleslatha
 Sentari
 Serpentscale
 serpentstance
@@ -819,6 +832,7 @@ spellslinger
 Spidersilk
 Spinecrack
 Spinefuse
+Spinesnap
 Spiritblade
 Splintermind
 Splitnewt
@@ -872,6 +886,7 @@ Synthete
 Tabula
 Tacati
 Tahsin
+Tailsinger
 Talin
 Tasalio
 Tavukai
@@ -884,6 +899,7 @@ Temu
 Thaumophage
 Theia
 Thena
+Theopolis
 thickskin
 Thistlesage
 Thraxia
@@ -911,6 +927,7 @@ trapsduration
 Trialmaster
 Trickshot
 Trinian
+Triskeriaki
 Trisula
 Trolltimber
 Trypanon
@@ -923,11 +940,13 @@ Tulborn
 Tulfall
 Tullina
 Tunneltrap
+Tunnelworm
 Tupuna
 twinslice
 Twohand
 Twyzel
 Typepluto
+Tyrannursus
 Tzteosh
 Uhtred
 Ulaman
@@ -936,6 +955,7 @@ Unaff
 Unbreathing
 Undeath
 Ungil
+Ungulath
 Unshattered
 Utula
 Uzaza
@@ -947,6 +967,7 @@ Vapourising
 Varhesh
 Varunastra
 Venarius
+Vendigo
 Venenum
 Venopuncture
 Ventor
