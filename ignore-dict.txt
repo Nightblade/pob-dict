@@ -28,3 +28,4 @@ skillset
 probs
 basetakenFlat
 _atleast_
+BoltSpammableLeft
