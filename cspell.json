@@ -30,7 +30,8 @@
             "name": "ignore-dict",
             "path": "./ignore-dict.txt",
             "description": "Path Of Building Community ignore dictionary",
-            "addWords": false
+            "addWords": false,
+            "noSuggest": true
         }
     ],
     "ignoreRegExpList": [
