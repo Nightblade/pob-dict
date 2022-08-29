@@ -34,7 +34,6 @@ jobs:
         with:
           ref: "refs/pull/${{ inputs.pr_num }}/merge"
           repository:  ${{ env.ORIGIN }}
-          fetch-depth: 0
 
       - name: Fetch config file and dictionaries
         run: |
