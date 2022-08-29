@@ -32,7 +32,7 @@ jobs:
         if: ${{ inputs.pr_num != '' }}
         uses: actions/checkout@v3
         with:
-          ref: "refs/pull/${{ inputs.pr_num }}/merge"
+          ref: "refs/pull/${{ inputs.pr_num }}/head"
           repository:  ${{ env.ORIGIN }}
 
       - name: Fetch config file and dictionaries
