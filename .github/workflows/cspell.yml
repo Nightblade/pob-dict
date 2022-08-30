@@ -6,11 +6,11 @@ on:
     branches: [ main ]
   workflow_dispatch:
     inputs:
-      branch:
+      ref:
         description: Branch, tag or SHA to checkout
         # default: dev
         default: main
-        required: true
+        required: false
 
 jobs:
   spelling:
@@ -22,7 +22,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          ref: ${{ inputs.branch }}
+          ref: ${{ inputs.ref }}
 
       - name: Fetch config file and dictionaries
         run: |
