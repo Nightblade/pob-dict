@@ -2,12 +2,14 @@ name: 'cspell'
 
 on:
   pull_request:
-    branches: [ dev ]
+    # branches: [ dev ]
+    branches: [ main ]
   workflow_dispatch:
     inputs:
       branch:
         description: Branch, tag or SHA to checkout
-        default: dev
+        # default: dev
+        default: main
         required: true
 
 jobs:
