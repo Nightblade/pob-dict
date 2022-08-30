@@ -1,7 +1,7 @@
 name: 'debug'
 
 on:
-  push:
+  # push:
   pull_request:
   workflow_dispatch:
     inputs:
@@ -19,8 +19,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
+      - name: Checkout
+        if: ${{ inputs.pr_num == '' }}
+        uses: actions/checkout@v3
+
+      - name: Checkout PR ${{ inputs.pr_num }}
+        if: ${{ inputs.pr_num != '' }}
+        uses: actions/checkout@v3
+        with:
+          ref: "refs/pull/${{ inputs.pr_num }}/merge"
+
       - name: Dump GitHub context
-        id: github_context_step
         run: echo '${{ toJSON(github) }}'
 
       - name: Dump job context
@@ -38,15 +47,6 @@ jobs:
       - name: Dump matrix context
         run: echo '${{ toJSON(matrix) }}'
 
-      - name: Show default environment variables
-        run: |
-          echo "The job_id is: $GITHUB_JOB"   # reference the default environment variables
-          echo "The id of this action is: $GITHUB_ACTION"   # reference the default environment variables
-          echo "The run id is: $GITHUB_RUN_ID"
-          echo "The GitHub Actor's username is: $GITHUB_ACTOR"
-          echo "GitHub SHA: $GITHUB_SHA"
 
-      - run: echo " Print a single environment variable (the commit SHA ) - ${{ github.sha }} "
-
-      - run: echo "Print all environment variables"
+      - name: Print all environment variables
       - run:  env
