@@ -49,4 +49,4 @@ jobs:
 
 
       - name: Print all environment variables
-      - run:  env
+        run:  env
