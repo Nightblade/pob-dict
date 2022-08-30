@@ -1,0 +1,52 @@
+name: 'debug'
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      pr_num:
+        description: Pull Request Number (optional)
+        required: false
+
+env:
+  ACTIONS_RUNNER_DEBUG: true
+  ACTIONS_STEP_DEBUG: true
+
+jobs:
+
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Dump GitHub context
+        id: github_context_step
+        run: echo '${{ toJSON(github) }}'
+
+      - name: Dump job context
+        run: echo '${{ toJSON(job) }}'
+
+      - name: Dump steps context
+        run: echo '${{ toJSON(steps) }}'
+
+      - name: Dump runner context
+        run: echo '${{ toJSON(runner) }}'
+
+      - name: Dump strategy context
+        run: echo '${{ toJSON(strategy) }}'
+
+      - name: Dump matrix context
+        run: echo '${{ toJSON(matrix) }}'
+
+      - name: Show default environment variables
+        run: |
+          echo "The job_id is: $GITHUB_JOB"   # reference the default environment variables
+          echo "The id of this action is: $GITHUB_ACTION"   # reference the default environment variables
+          echo "The run id is: $GITHUB_RUN_ID"
+          echo "The GitHub Actor's username is: $GITHUB_ACTOR"
+          echo "GitHub SHA: $GITHUB_SHA"
+
+      - run: echo " Print a single environment variable (the commit SHA ) - ${{ github.sha }} "
+
+      - run: echo "Print all environment variables"
+      - run:  env
