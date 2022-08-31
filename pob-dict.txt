@@ -84,6 +84,8 @@ Debuffs
 deciseconds
 Decrepifying
 Degen
+DEGENFLAT
+DEGENPERCENT
 Degens
 dervishe
 Deton

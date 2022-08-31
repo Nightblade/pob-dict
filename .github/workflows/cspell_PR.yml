@@ -1,4 +1,4 @@
-name: 'test_cspell'
+name: 'cspell_PR'
 
 on:
   # push:
