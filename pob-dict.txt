@@ -24,7 +24,6 @@ Autoequip
 automagical
 Avatarofthe
 baranio
-BASEMANACOST
 Basicsof
 bblarney
 benjaminysmall
@@ -84,8 +83,6 @@ Debuffs
 deciseconds
 Decrepifying
 Degen
-DEGENFLAT
-DEGENPERCENT
 Degens
 dervishe
 Deton
