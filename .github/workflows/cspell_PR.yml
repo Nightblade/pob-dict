@@ -1,10 +1,6 @@
 name: 'cspell_PR'
 
 on:
-  # push:
-  #   branches: [ dev ]
-  # pull_request:
-  #   branches: [ dev ]
   workflow_dispatch:
     inputs:
       pr_num:
@@ -22,14 +18,8 @@ jobs:
 
       - name: Add PR link to summary
         run: echo '[PR ${{ inputs.pr_num }}](http://github.com/${{ env.ORIGIN }}/pull/${{ inputs.pr_num }})' >> $GITHUB_STEP_SUMMARY
-        if: ${{ inputs.pr_num != '' }}
-
-      - name: Checkout
-        if: ${{ inputs.pr_num == '' }}
-        uses: actions/checkout@v3
 
       - name: Checkout PR ${{ inputs.pr_num }}
-        if: ${{ inputs.pr_num != '' }}
         uses: actions/checkout@v3
         with:
           ref: "refs/pull/${{ inputs.pr_num }}/merge"
