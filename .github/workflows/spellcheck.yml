@@ -1,4 +1,4 @@
-name: 'cspell'
+name: 'spellcheck'
 
 on:
   pull_request:
@@ -11,7 +11,7 @@ on:
         required: false
 
 jobs:
-  spelling:
+  spellcheck:
     runs-on: ubuntu-latest
     env: 
       CONFIG_URL:  https://raw.githubusercontent.com/Nightblade/pob-dict/main
