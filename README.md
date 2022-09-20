@@ -1,25 +1,31 @@
 # pob-dict
 
-Dictionary and config files for 
-[Path Of Building Community](https://github.com/PathOfBuildingCommunity/PathOfBuilding) (PoB) 
-code development in [VSCode](https://code.visualstudio.com/) 
-with the [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) 
-extension.
+Dictionaries and [Code Spell Checker](https://cspell.org/) (CSpell) config files for [Path Of Building Community](https://github.com/PathOfBuildingCommunity/PathOfBuilding) (PoB) code development. 
 
 ## Components
-| Filename       | Description
-| -------------- | -----------
-| `cspell.json`  | [CSpell](https://cspell.org/) settings.
-| `poe-dict.txt` | Plaintext list of valid words specific to [Path of Exile](https://www.pathofexile.com/).
-| `pob-dict.txt` | Plaintext list of valid words for developing the PoB source-code.
-| `ignore-dict.txt` | Plaintext list of known misspellings that are not to be reported, because Reasons™.
+| Filename                       | Description
+| ------------------------------ | -----------
+| [`cspell.json`](cspell.json)   | CSpell settings.
+| [`poe-dict.txt`](poe-dict.txt) | Plaintext list of valid words specific to [Path of Exile](https://www.pathofexile.com/).
+| [`pob-dict.txt`](pob-dict.txt) | Plaintext list of valid words for developing the PoB source-code.
+| [`ignore-dict.txt`](ignore-dict.txt) | Plaintext list of known misspellings that are not to be reported, because Reasons™.
+| [`spellcheck.yml`](.github/workflows/spellcheck.yml) | Github workflow using [`cspell-action`](https://github.com/streetsidesoftware/cspell-action).
+
+## Installation
+
+### PoB Repo
+* Copy `spellcheck.yml` to `.github/workflows/` of the PoB repo.
+
+This workflow is written to avoid polluting the PoB repo -- it collects the necessary files from this repo 
+as needed.
+
+It automatically checks changes made in pull-requests against the `dev` branch, and can also be triggered manually to perform a full check of a branch/tag/SHA.
 
 
-## VSCode installation
-* Ensure [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) 
-VSCode extension is installed.
-* Checkout (or download & unzip) this repo to a sub-directory that shares its parent dir with your PoB repo.
-* Add the following lines to `settings.json` in the `.vscode` folder of your PoB repo:
+### VSCode <sup><sub>(optional)</sub></sup>
+* Install [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker).
+* Checkout (or download & unzip) this repo to a directory that shares its parent dir with your PoB repo.
+* Add the following lines to `.vscode/settings.json` in your PoB repo:
 ```json
 {
   "cSpell.import": [ "../../pob-dict/cspell.json" ],
@@ -27,20 +33,23 @@ VSCode extension is installed.
 }
 ```
 
-## Command-line usage
-* Requires [CSpell NPM package](https://www.npmjs.com/package/cspell)
-### Example
-Full scan of local PoB repo fork:
+
+### Command-line <sup><sub>(optional)</sub></sup>
+* Install the [CSpell NPM package](https://www.npmjs.com/package/cspell).
+
+To run a full scan of a local PoB repo fork with some helpful options enabled:
 ```powershell
 PS C:\PathOfBuilding> cspell --config "..\pob-dict\cspell.json" --relative --show-context --no-progress "**"
 ```
 
 ## Dictionary additions
-Which dictionary do I add this flagged word to?
-* If it's spelled correctly and used in:
-  * the Path of Exile game: `poe-dict.txt`.
-  * the PoB source code / git repository: `pob-dict.txt`.
-* If it's spelled *incorrectly* but you don't want to be warned about it: `ignore-dict.txt`   Please try to make these as specific as possible to eliminate unwanted false negatives.
+To which dictionary do I add this unknown word?
+* If it's spelled *correctly within the context of*:
+  * the game (Path of Exile) -> `poe-dict.txt`.
+  * the PoB source code / git repository -> `pob-dict.txt`.
+* If it's spelled *incorrectly* but you want to suppress the warning -> `ignore-dict.txt`.  To reduce false negatives, please try to make this type of addition as specific as possible.
+
+Note:  Please do not add apostrophes / possessives (`'s`) to any words.
 
 ### Examples
 | Word            | Dictionary          | Reason
@@ -48,9 +57,8 @@ Which dictionary do I add this flagged word to?
 | Atziri          | `poe-dict.txt`      | Correct spelling of PoE NPC.
 | REGENPERCENT    | `pob-dict.txt`      | Correct combination of two words, used in PoB source code.
 | Lilylicious     | `pob-dict.txt`      | Correct spelling of a PoB contributor's name/handle.
-| CritsDontAlways | `ignore-dict.txt`   | Incorrect spelling but we are aware and don't want a warning. **(1)**
+| CritsDontAlways | `ignore-dict.txt`   | Incorrect spelling/punctuation but we want to suppress the warning.
 
-**(1)**  Note:  Adding just the word "Dont" to the ignore dict would most likely create unwanted false negatives elsewhere.
 
 ---
 
