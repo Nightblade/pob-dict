@@ -131,10 +131,12 @@ groupless
 hdfg
 hdgf
 hdwatts
+headerfunction
 Helyos96
 Heraldof
 hgdf
 hogm
+HTTPHEADER
 ICDR
 Ierusalimschy
 ifnjeff
@@ -214,6 +216,7 @@ nathanrobb
 nelchael
 nerfed
 nodecount
+nonunique
 noreply
 Nostrademous
 NSIS
@@ -305,6 +308,7 @@ Spawnbroker
 spawnie
 Spectred
 statdesc
+statgroup
 statictt
 statlist
 steamapps
@@ -338,6 +342,7 @@ Triggerable
 Tvalue
 Tvalues
 twiz-ahk
+twomelee
 uilman
 unalloc
 Unallocating
