@@ -26,6 +26,7 @@ animalspirit
 Annest
 Apep
 Arach
+Arachnomorph
 Arachnoxia
 Arakaali
 Araku
@@ -56,6 +57,7 @@ Ashweaver
 Assailum
 Astramentis
 Atziri
+Atzoatl
 Augyre
 Aukuna
 Aul
@@ -85,6 +87,7 @@ Battlemage
 battlemages
 Bazur
 beartraps
+Beastcrafting
 Belcer
 Beltimber
 Berek
@@ -331,6 +334,8 @@ Fireshot
 Fishscale
 Flamebearer
 flameblast
+flameblood
+flamebloods
 flameborn
 Flamebrand
 Flameguard
@@ -529,6 +534,7 @@ Krow
 Kruug
 Kuduku
 Kulemak
+Kurai
 Kurgal
 Labrys
 Lakishu
@@ -669,6 +675,7 @@ Panquetzaliztli
 Paradisae
 Paradoxica
 Patchumz
+pathofexile
 Paua
 Pecoraro
 Perandus
@@ -680,6 +687,7 @@ Pernach
 Perpetus
 Perquil
 Pesquin
+Petarus
 Phraxisanct
 Phrecia
 Pikerivet
@@ -739,6 +747,7 @@ Rimedweller
 Rin
 Ringmail
 Riverways
+roguelike
 Romira
 Rotblood
 Rotfeather
@@ -769,6 +778,7 @@ Scarbearer
 Scinteel
 Scion
 scissorblades
+Scourgelord
 Seaglass
 Seawitch
 Sebbert
@@ -837,6 +847,7 @@ Spiritblade
 Splintermind
 Splitnewt
 Sporeguard
+Spriggans
 Springleaf
 Stabby
 Stantinus
@@ -853,6 +864,7 @@ Steppan
 Stonebeak
 stonegaze
 Stoneskin
+Stonethorn
 Stormbind
 Stormblast
 stormborn
@@ -868,6 +880,7 @@ Stormheart
 Stormmage
 Stormrider
 Stormsail
+Stormstrider
 Stormtouched
 Stormwall
 Stranglecharm
@@ -963,9 +976,11 @@ vaalpact
 Vagan
 Valako
 Valyrium
+Vanja
 Vapourising
 Varhesh
 Varunastra
+Vastiri
 Venarius
 Vendigo
 Venenum
