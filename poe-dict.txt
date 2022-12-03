@@ -331,6 +331,7 @@ Fireborn
 Firebreath
 Firemage
 Fireshot
+Firesong
 Fishscale
 Flamebearer
 flameblast
@@ -704,6 +705,7 @@ Portentia
 Preethi
 Prismateria
 Prismweave
+Progenesis
 projectilespeed
 Protovaal
 Puhuarte
