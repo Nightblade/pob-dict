@@ -634,6 +634,8 @@ Nassar
 Nebulis
 Nebuloch
 nenet
+nerf
+nerfed
 Nessa
 Netol
 Nevali
@@ -974,6 +976,7 @@ Ungulath
 Unshattered
 Utula
 Uzaza
+Vaal
 vaalpact
 Vagan
 Valako
