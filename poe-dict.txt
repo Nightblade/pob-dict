@@ -649,6 +649,7 @@ Nightstalker
 Nightwane
 Nightwind
 Niko
+Nimis
 Nomic
 Nubuck
 Nuro
@@ -884,6 +885,7 @@ Stormheart
 Stormmage
 Stormrider
 Stormsail
+Stormshroud
 Stormstrider
 Stormtouched
 Stormwall
@@ -1059,6 +1061,7 @@ Winterbringer
 Winterheart
 Wintermage
 Winterweave
+Witchbane
 Witchfire
 Witchhunter
 Wolfpack
