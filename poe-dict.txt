@@ -42,6 +42,7 @@ arenalord
 Argient
 Armala
 armourmastery
+Armoursmith
 Arn
 Arohongui
 Arohungui
@@ -56,6 +57,7 @@ Ashscale
 Ashweaver
 Assailum
 Astramentis
+Astromancer
 Atziri
 Atzoatl
 Augyre
@@ -73,6 +75,7 @@ Avarius
 Aventail
 Aylardex
 Azmeri
+Azyran
 Balah
 Balbala
 Bameth
@@ -208,6 +211,7 @@ Cospri
 Cragfall
 Craghead
 Craiceann
+Craicic
 Crushclaw
 Cryomancer
 Cryomantic
@@ -238,6 +242,7 @@ deepthoughts
 Deidbell
 Deidbellow
 dekhara
+Dementophobia
 Dendrobate
 Deshret
 Devoto
@@ -319,12 +324,14 @@ Faithbreaker
 Faithguard
 Faminebind
 fangjaw
+Farric
 Farrul
 Farsight
 Feastbind
 Felbog
 Fellshrine
 Fencoil
+Fenumal
 Fenumus
 Fidelitas
 Fireborn
@@ -440,6 +447,7 @@ Helial
 Hellscape
 hellscaping
 heroicspirit
+Heterochromia
 Heup
 hexblast
 Hexclaw
@@ -504,6 +512,7 @@ Kacha
 Kadaka
 Kadavrus
 Kalandra
+Kalguuran
 Kalisa
 Kall
 Kaltenhalt
@@ -539,6 +548,7 @@ Kurai
 Kurgal
 Labrys
 Lakishu
+Lantador
 Lanternbearer
 lavalash
 Lavianga
@@ -573,6 +583,7 @@ Lunaris
 Lunarsworn
 Lycius
 Lycosidae
+Lysah
 Machinarium
 Maelström
 Magebane
@@ -622,6 +633,7 @@ Mokou
 Mon'tregul
 Moonbender
 Moonsorrow
+Moosh
 Morsu
 mortalconviction
 multithrow
@@ -692,6 +704,7 @@ Perpetus
 Perquil
 Pesquin
 Petarus
+Phaaryl
 Phraxisanct
 Phrecia
 Pikerivet
@@ -773,10 +786,12 @@ Sadima
 Saemus
 Saffell
 Sallazzang
+Sambodhi
 Sandworn
 Sanguis
 Saqawal
 Saqawals
+Saqawine
 Sarn
 Scaeva
 Scarbearer
@@ -793,6 +808,7 @@ Sekhema
 Selenia
 Seleslatha
 Sentari
+Sephirot
 Serpentscale
 serpentstance
 Shadowstalker
@@ -802,6 +818,7 @@ Shambler
 Sharktooth
 Shattershard
 Shavronne
+Shieldbearer
 shieldblock
 Shimmeron
 Shiversting
@@ -997,6 +1014,7 @@ Veritania
 Veruso
 Victario
 vinderi
+Vinia
 Vinktar
 Viridi
 Visceris
@@ -1042,6 +1060,7 @@ Wereclaw
 Weta
 Wetas
 Whakatutuki
+Whakawairua
 Whelpling
 whirlingstaff
 Whispersteps
