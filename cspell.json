@@ -35,8 +35,13 @@
         }
     ],
     "ignoreRegExpList": [
+        // Ignore "'s" at the end of a word. If "Chef" is an accepted word, so is "Chef's".
+        "/'s\\b/",
+        // Colour hex codes
         "/\\^x[\\d\\w]{6}/",
-        "/manifeste\\?/",
+        // "manifeste?d?" in ModParser.lua
+        "/manifeste\\?d\\?/",
+        // "[Ss]econds" in Generated.lua
         "/\\[Ss\\]econds/"
     ],
     "globRoot": "${cwd}",
@@ -95,7 +100,8 @@
         "it it",
         "the the",
         "wont",
-        "youd"
+        "youd",
+        "hte"
     ],
     "enableFiletypes": [
         "ignore",
