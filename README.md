@@ -49,7 +49,7 @@ To which dictionary do I add this unknown word?
   * the PoB source code / git repository -> `pob-dict.txt`.
 * If it's spelled *incorrectly* but you want to suppress the warning -> `ignore-dict.txt`.  To reduce false negatives, please try to make this type of addition as specific as possible.
 
-Note:  Please do not add apostrophes / possessives (`'s`) to any words.
+Note:  Please do not add apostrophes / possessives (`'s`) to any words in any dictionary.
 
 ### Examples
 | Word            | Dictionary          | Reason

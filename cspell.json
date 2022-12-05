@@ -35,8 +35,6 @@
         }
     ],
     "ignoreRegExpList": [
-        // Ignore "'s" at the end of a word. If "Chef" is an accepted word, so is "Chef's".
-        "/'s\\b/",
         // Colour hex codes
         "/\\^x[\\d\\w]{6}/",
         // "manifeste?d?" in ModParser.lua
@@ -89,7 +87,7 @@
         "./src/Data/TimelessJewelData/*",
         "./src/Data/Uniques/Special/WatchersEye.lua",
         "./src/Export/Minions/*",
-        "./src/Export/spec.lua",
+        // "./src/Export/spec.lua",
         "./src/Export/Tree/*",
         "./src/TreeData/*"
     ],
