@@ -9,6 +9,7 @@ altqual
 andrewbelu
 Anointable
 apos
+APXEOLOG
 arcanists
 argstr
 Arimo
@@ -23,6 +24,7 @@ autocrlf
 Autoequip
 automagical
 Avatarofthe
+Azperin
 baranio
 BASECOST
 Basicsof
@@ -71,6 +73,7 @@ curr
 czarandy
 Damagev
 dbjorge
+dbronkalla06
 dclamage
 deadzone
 Dealloc
@@ -99,6 +102,7 @@ DOWNLOADCHARLIST
 dropdowns
 Dullson
 Durationof
+Edvinas
 Effectof
 emmylua
 Endur
@@ -108,6 +112,7 @@ Excludable
 Eyeofthe
 facepalmgamer
 Fanof
+fialhoFabio
 FINDEXPLICIT
 FINDIMPLICIT
 firstword
@@ -130,7 +135,6 @@ GLEXT
 glovesatlasdex
 Gowor
 groupless
-hdfg
 hdgf
 hdwatts
 headerfunction
@@ -165,6 +169,7 @@ kkienzle
 Kloss
 Knockback
 Kolf
+kolhell
 labstr
 lcurl
 leafo
@@ -197,9 +202,11 @@ malloc
 manatext
 matchstring
 maxdepth
+MeDott29
 Melnichenko
 Melnichuk
 metatable
+michelrtm
 minionbuff
 MIPMAP
 monerofglory
@@ -224,6 +231,7 @@ Nostrademous
 NSIS
 OFFHANDBG
 oidx
+oljomo
 olop4444
 Ondars
 Oodle
@@ -290,6 +298,7 @@ rshift
 Sakux323
 SaloEater
 SAPBG
+Schroedi
 SCORCHBG
 scristall
 SELECTCHAR
@@ -305,6 +314,7 @@ Skillpoints
 skillpopup
 SLIDEDOWN
 SLIDEUP
+Smita
 Solofme
 someuser
 Spawnbroker
@@ -335,6 +345,8 @@ teleportations
 Thumbstick
 Tinos
 titlebar
+tmphardcore
+tmpstandard
 tommysays
 TOPLEFT
 TOPRIGHT
