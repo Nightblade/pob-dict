@@ -136,6 +136,7 @@ headerfunction
 Helyos96
 Heraldof
 hgdf
+hitbox
 hogm
 HTTPHEADER
 ICDR
@@ -223,6 +224,7 @@ NSIS
 OFFHANDBG
 oidx
 olop4444
+Ondars
 Oodle
 Openarl
 otherwords
@@ -321,6 +323,7 @@ superball
 superchance
 superparent
 Surr
+Sust
 Szathmáry
 Takenv
 talkmill

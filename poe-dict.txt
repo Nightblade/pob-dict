@@ -17,6 +17,7 @@ Akoya
 Alal
 Alberon
 Alira
+Alivia
 Amanamu
 Amarissa
 Ambrius
@@ -290,6 +291,7 @@ Earthbreaker
 Earthshatter
 Eber
 Eclipsis
+Eedaiak
 Eelskin
 Effigon
 Eihal
@@ -521,6 +523,7 @@ Kaom
 Karui
 Kayella
 Keyblade
+Khor
 Kiara
 Kikazaru
 Killstreak

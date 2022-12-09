@@ -81,6 +81,7 @@
         "./src/Data/ModMaster.lua",
         "./src/Data/ModVeiled.lua",
         "./src/Data/Pantheons.lua",
+        "./src/Data/QueryMods.lua",
         "./src/Data/Skills/*.lua",
         "./src/Data/Spectres.lua",
         "./src/Data/StatDescriptions/*",
