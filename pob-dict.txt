@@ -87,6 +87,8 @@ Debuffs
 deciseconds
 Decrepifying
 Degen
+DEGENFLAT
+DEGENPERCENT
 Degens
 dervishe
 Deton
@@ -135,6 +137,7 @@ GLEXT
 glovesatlasdex
 Gowor
 groupless
+hdfg
 hdgf
 hdwatts
 headerfunction

@@ -233,7 +233,9 @@ Darksoul
 Darksteel
 darktongue
 Darkwood
+Darnaw
 Dawnbreaker
+Dawnstrider
 Deadhand
 deathmark
 Deathnotch
@@ -309,6 +311,7 @@ Equippable
 Erbix
 Erebix
 Erqi
+Ersi
 Erythrophagia
 Essentia
 Estoc
@@ -504,6 +507,7 @@ Ironscale
 ironwoodtotem
 Izaro
 Jaesyn
+Janaar
 Jik'shah
 Jorgin
 Jorrhast
@@ -642,6 +646,7 @@ mortalconviction
 multithrow
 Murgeth
 Mutewind
+Namharim
 Napuatzi
 Nashta
 Nasima
@@ -927,6 +932,8 @@ Tacati
 Tahsin
 Tailsinger
 Talin
+Tane
+Tarollo
 Tasalio
 Tavukai
 Tawhoa
@@ -1019,6 +1026,7 @@ Victario
 vinderi
 Vinia
 Vinktar
+Vinny
 Viridi
 Visceris
 Vivinsect
