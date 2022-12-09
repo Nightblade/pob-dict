@@ -119,6 +119,7 @@ frodon1
 Funcs
 fussilade
 FWidm
+GEAL
 GEPL
 GETACCOUNTNAME
 GETSESSIONID
