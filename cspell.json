@@ -35,8 +35,8 @@
         }
     ],
     "ignoreRegExpList": [
-        // Colour hex codes
-        "/\\^x[\\d\\w]{6}/",
+        // Colour hex codes (ex ^xADAA47)
+        "/\\^x[\\w]{6}/",
         // "manifeste?d?" ModParser.lua
         "/manifeste\\?d\\?/",
         // "[Ss]econds" Generated.lua
