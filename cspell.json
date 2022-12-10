@@ -37,10 +37,12 @@
     "ignoreRegExpList": [
         // Colour hex codes
         "/\\^x[\\d\\w]{6}/",
-        // "manifeste?d?" in ModParser.lua
+        // "manifeste?d?" ModParser.lua
         "/manifeste\\?d\\?/",
-        // "[Ss]econds" in Generated.lua
-        "/\\[Ss\\]econds/"
+        // "[Ss]econds" Generated.lua
+        "/\\[Ss\\]econds/",
+        // "immun[ei]t?y?" ModParser.lua
+        "/immun\\[ei\\]t\\?y\\?/"
     ],
     "globRoot": "${cwd}",
     "ignorePaths": [
