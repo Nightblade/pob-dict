@@ -4,6 +4,7 @@ Abyssus
 Actum
 Adamantite
 adderstouch
+Adiyah
 Adus
 Aetherwind
 Agnerod
@@ -92,10 +93,12 @@ battlemages
 Bazur
 beartraps
 Beastcrafting
+Beastmaster
 Belcer
 Beltimber
 Berek
 Berserking
+Bestel
 Bino
 Bisco
 Bitterbind
@@ -178,6 +181,8 @@ Carius
 Caspiro
 Casticus
 castspeed
+Catburglar
+Cavas
 Ceraunophile
 Chaber
 Chainbreaker
@@ -427,6 +432,7 @@ Greust
 Greychain
 groundslam
 Gruthkul
+Gryffon
 Guatelitzi
 Gwayne
 Haemocombustion
@@ -434,6 +440,8 @@ Hailrake
 hammerblows
 Hammerstorm
 Handcast
+Hargan
+Harpyon
 hatchetmaster
 Hatebeat
 Hateforge
@@ -502,6 +510,7 @@ Intellectus
 Inua
 Invictus
 Inya
+Irasha
 Ironpoint
 Ironscale
 ironwoodtotem
@@ -555,6 +564,7 @@ Kurai
 Kurgal
 Labrys
 Lakishu
+Lani
 Lantador
 Lanternbearer
 lavalash
@@ -581,6 +591,7 @@ Lioneye
 Litanius
 Lithomancer
 Lochtonial
+Lockpick
 Lockpicking
 Longtooth
 lordofthedead
@@ -838,6 +849,7 @@ Siegebreaker
 Silverbough
 Silverbranch
 Sinvicta
+Siosa
 Sirus
 skillduration
 Skitterbot
@@ -933,6 +945,7 @@ Tahsin
 Tailsinger
 Talin
 Tane
+Tarkleigh
 Tarollo
 Tasalio
 Tavukai
@@ -957,6 +970,7 @@ Thunderhand
 Thundersight
 Thunderskull
 Thundrous
+Tibbs
 Tidebreaker
 Timeclasp
 Timetwist
@@ -1063,6 +1077,7 @@ Warstaff
 watchstone
 watchstones
 waterdancing
+Wayfinder
 Waystone
 Waystones
 Weaponcraft
@@ -1070,6 +1085,7 @@ Weaponmaster
 Wereclaw
 Weta
 Wetas
+Weylam
 Whakatutuki
 Whakawairua
 Whelpling
