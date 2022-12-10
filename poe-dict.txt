@@ -297,6 +297,7 @@ Earendel
 Earthbreaker
 Earthshatter
 Eber
+Echoforge
 Eclipsis
 Eedaiak
 Eelskin
