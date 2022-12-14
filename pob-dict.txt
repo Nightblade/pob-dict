@@ -100,6 +100,7 @@ dlmalloc
 DMGATTACKS
 DMGBOTH
 DMGSPELLS
+Dolmur
 DOWNLOADCHARLIST
 dropdowns
 Dullson
@@ -358,6 +359,7 @@ Totemable
 totemified
 treetab
 Triggerable
+Turmfalke
 Tvalue
 Tvalues
 twiz-ahk
