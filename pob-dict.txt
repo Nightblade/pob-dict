@@ -36,6 +36,7 @@ BOTTOMLEFT
 BOTTOMRIGHT
 BRITTLEBG
 Brushwith
+Calced
 Cascadable
 castable
 casttime
