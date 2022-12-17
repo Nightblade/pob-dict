@@ -238,6 +238,9 @@ oidx
 oljomo
 olop4444
 Ondars
+oneaxe
+onemace
+onesword
 Oodle
 Openarl
 otherwords
@@ -363,7 +366,10 @@ Turmfalke
 Tvalue
 Tvalues
 twiz-ahk
+twoaxe
+twomace
 twomelee
+twosword
 uilman
 unalloc
 Unallocating
