@@ -17,6 +17,7 @@ FireballIncusionLightning
 incinerate_is_gem_ingite
 ingame
 intimidating_cry_empowerd_
+newCalcedType
 probs
 ratioed
 RejuvinationTotem
