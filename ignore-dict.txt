@@ -5,6 +5,7 @@ basetakenFlat
 BlockedDamageDoesntBypassES
 BoltSpammableLeft
 cospris_malice_cold
+CountAllocNodes
 CritsDontAlways
 display_abberaths_hooves
 dontCache
