@@ -31,6 +31,8 @@ SummonRigwaldsPack
 takenFromCalced
 triggeredByCospris
 twostonering
+unfetch
+unfetched
 unique_hyrris_truth
 UniqueCosprisMalice
 Upconversion
