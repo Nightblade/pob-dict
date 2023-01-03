@@ -2,7 +2,6 @@ _atleast_
 AffectedByPurityof
 AtlasCruasderJudgeFadingNova
 basetakenFlat
-blahblahdrugs
 BlockedDamageDoesntBypassES
 BoltSpammableLeft
 cospris_malice_cold
@@ -14,13 +13,11 @@ dontCallSelFunc
 dontDisplay
 dontSplitEvade
 dontUseCache
-Fabere456
 FireballIncusionFire
 FireballIncusionLightning
 incinerate_is_gem_ingite
 ingame
 intimidating_cry_empowerd_
-meepen
 newCalcedType
 probs
 ratioed
@@ -40,4 +37,3 @@ unique_hyrris_truth
 UniqueCosprisMalice
 Untriggered
 Upconversion
-Urganot
