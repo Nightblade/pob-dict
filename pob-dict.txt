@@ -104,6 +104,7 @@ DMGBOTH
 DMGSPELLS
 Dolmur
 DOWNLOADCHARLIST
+dreais
 dropdowns
 Dullson
 Durationof
