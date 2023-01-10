@@ -104,6 +104,7 @@ DMGBOTH
 DMGSPELLS
 Dolmur
 DOWNLOADCHARLIST
+DPSPRICE
 dreais
 dropdowns
 Dullson
@@ -281,6 +282,7 @@ POSTFIELDS
 ppoelzl
 Pregenerate
 pregenerated
+PRICEASC
 prolif
 Puddlestomper
 pundm
