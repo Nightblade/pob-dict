@@ -215,6 +215,7 @@ MeDott29
 meepen
 Melnichenko
 Melnichuk
+Metamods
 metatable
 michelrtm
 minionbuff
@@ -331,8 +332,10 @@ skillpopup
 SLIDEDOWN
 SLIDEUP
 Smita
+Socketable
 Solofme
 someuser
+spawnable
 Spawnbroker
 spawnie
 Spectred
@@ -359,6 +362,7 @@ tansheron
 tcid
 teleportations
 Thumbstick
+tileset
 Tinos
 titlebar
 tmphardcore

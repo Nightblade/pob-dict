@@ -122,6 +122,7 @@ Blaidd
 Blastchain
 Blightblade
 Blightwell
+Blisterlord
 Bloodboil
 Bloodbond
 Bloodgrip
@@ -160,10 +161,12 @@ Breathstealer
 Brightbeak
 Brinecrack
 Brinerot
+Brinespawn
 Briskwrap
 Broadhead
 Bronn
 Bronzescale
+Broodqueen
 Brownfur
 Brownsmith
 Burtok
@@ -212,6 +215,7 @@ Coldhearted
 coldsnap
 Compulsor
 Conflagrating
+convocated
 Coralito
 Corpsewalker
 Cospri
@@ -219,7 +223,9 @@ Cragfall
 Craghead
 Craiceann
 Craicic
+Crowstorm
 Crushclaw
+Crushclaws
 Cryomancer
 Cryomantic
 Cryophile
@@ -232,6 +238,7 @@ Daresso
 Darkprism
 Darkray
 Darkscorn
+darkseer
 darkshrine
 darkshrines
 Darkshroud
@@ -248,6 +255,7 @@ Deathnotch
 Debeon
 Decurve
 deepthoughts
+Deepwater
 Deidbell
 Deidbellow
 dekhara
@@ -264,6 +272,7 @@ Doedre
 doomcast
 Doomcrow
 Doomfletch
+Doomguard
 Doomsower
 Doon
 Doppleganger
@@ -322,6 +331,7 @@ Ersi
 Erythrophagia
 Essentia
 Estoc
+Ethercraft
 Ethrel
 Evocationist
 Ewar
@@ -339,6 +349,7 @@ fangjaw
 Farric
 Farrul
 Farsight
+Fateweaver
 Feastbind
 Felbog
 Fellshrine
@@ -418,6 +429,7 @@ Goredrill
 Goroshi
 Gorulis
 Grandmastery
+Granitecrush
 Gravebind
 graveconsequences
 graveexpectations
@@ -550,6 +562,7 @@ Kira
 Kirac
 Kitava
 Kiweth
+Knucklegnaw
 Kole
 Kondo
 Kongming
@@ -586,6 +599,7 @@ lifeleech
 Lifesprig
 Lifetap
 Lightbane
+Lightbringer
 lightningstorm
 Lightpoacher
 Limbsplit
@@ -597,6 +611,7 @@ Lockpick
 Lockpicking
 Longtooth
 lordofthedead
+Loremaster
 Loreweave
 Loricated
 Lunaris
@@ -666,6 +681,8 @@ Nasima
 Nassar
 Nebulis
 Nebuloch
+Necro
+Necrolord
 nenet
 nerf
 nerfed
@@ -767,8 +784,10 @@ Ramako
 Rasa
 Rashkaldor
 Rathpith
+Rattleback
 Realmshaper
 Reanimator
+Reanimators
 Recombinator
 Recombinators
 Redbeak
@@ -814,6 +833,8 @@ Saqawal
 Saqawals
 Saqawine
 Sarn
+Sawblade
+Sawblades
 Scaeva
 Scarbearer
 Scinteel
@@ -986,6 +1007,7 @@ Toruul
 totemdamage
 Toxicist
 trapsduration
+Treant
 Trialmaster
 Trickshot
 Trinian
@@ -1016,6 +1038,7 @@ Ullr
 Unaff
 Unbreathing
 Undeath
+unfun
 Ungil
 Ungulath
 Unshattered
@@ -1058,6 +1081,7 @@ Voidscream
 Voidshot
 Voidspawn
 Voidstone
+Voidstones
 Voidwalker
 Volkuur
 Voll
