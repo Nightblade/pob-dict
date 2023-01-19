@@ -304,6 +304,7 @@ REGENFLAT
 REGENPERCENT
 regexes
 Regisle
+Regurgitator
 reminderstring
 Rentry
 respec
@@ -391,6 +392,8 @@ uncastable
 unfetch
 unfetched
 Unsocket
+unsortable
+untargetable
 untriggered
 upconversion
 Urganot
