@@ -23,7 +23,6 @@ auraareaofeffect
 autocrlf
 Autoequip
 automagical
-projectilespeed
 Avatarofthe
 Azperin
 baranio
@@ -39,7 +38,6 @@ BOTTOMRIGHT
 BRITTLEBG
 Brushwith
 Cascadable
-skillduration
 castable
 casttime
 Cauteriser
@@ -222,22 +220,25 @@ Metamods
 metatable
 michelrtm
 minionbuff
+miniondamage
 MIPMAP
 monerofglory
 Moneypouch
 Morilli
+mortalconviction
 mousewheel
 msysgit
 mthjones
 Mult
-Mults
 Multicastable
 Multistrikeable
+Mults
 mweber15
 MWHEEL
 nani
 nathanrobb
 nelchael
+newshocknova
 nodecount
 nonunique
 noreply
@@ -249,11 +250,13 @@ oljomo
 olop4444
 Ondars
 oneaxe
+onehand
 onemace
 onesword
 Oodle
 otherwords
 overcap
+Overcapped
 PAGEDOWN
 PAGEUP
 Paliak
@@ -286,6 +289,7 @@ ppoelzl
 Pregenerate
 pregenerated
 PRICEASC
+projectilespeed
 prolif
 Puddlestomper
 pundm
@@ -329,6 +333,7 @@ SHOCKBG
 showTitlebarName
 sida-wang
 Sinured
+skillduration
 skillpoints
 Skillpoints
 skillpopup
@@ -338,6 +343,7 @@ Smita
 Socketable
 Solofme
 someuser
+sparkingattacks
 spawnable
 Spawnbroker
 spawnie
@@ -348,6 +354,7 @@ statictt
 statlist
 steamapps
 Stenberg
+stro
 subtables
 summ1else
 Summone
@@ -365,6 +372,8 @@ targetable
 tcid
 teleportations
 Thumbstick
+tickbox
+tickboxes
 tileset
 Tinos
 titlebar
@@ -402,6 +411,7 @@ upconversion
 Urganot
 USERAGENT
 USERPROFILE
+Vaalincursion
 vari
 viar
 vintnering
