@@ -173,6 +173,7 @@ jfindley
 jorrhasts
 jppianta
 JustinmClapperton
+keybind
 Khronos
 kkienzle
 Kloss
@@ -228,7 +229,6 @@ msysgit
 mthjones
 Mult
 Multicastable
-Multistrike
 Multistrikeable
 mweber15
 MWHEEL
@@ -249,7 +249,6 @@ oneaxe
 onemace
 onesword
 Oodle
-Openarl
 otherwords
 overcap
 PAGEDOWN
@@ -346,7 +345,6 @@ statictt
 statlist
 steamapps
 Stenberg
-stro
 subtables
 summ1else
 Summone
@@ -360,6 +358,7 @@ Takenv
 talkmill
 tangzx
 tansheron
+targetable
 tcid
 teleportations
 Thumbstick
@@ -368,6 +367,7 @@ Tinos
 titlebar
 tmphardcore
 tmpstandard
+tokenistic
 tommysays
 TOPLEFT
 TOPRIGHT
@@ -399,9 +399,9 @@ upconversion
 Urganot
 USERAGENT
 USERPROFILE
-VaalincursionMortar
 vari
 viar
+vintnering
 viromancer
 Voronoff
 Vulkan
