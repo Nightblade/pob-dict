@@ -214,6 +214,7 @@ Caesarius
 Caeserius
 Calaf
 Calderus
+calibric
 Caliga
 Caligae
 Callinellus
@@ -411,6 +412,7 @@ Evocationist
 Ewar
 Excellis
 exertable
+extantia
 Eyepecker
 Ezomyr
 Ezomyte
@@ -937,7 +939,6 @@ Prismateria
 Prismweave
 Proclar
 Progenesis
-projectilespeed
 Protovaal
 Puhuarte
 Pukeko
@@ -965,6 +966,7 @@ Rasa
 Rashkaldor
 Rathpith
 Rattleback
+Raulo
 Realmshaper
 Reanimator
 Reanimators
@@ -1067,7 +1069,6 @@ Silverbranch
 Sinvicta
 Siosa
 Sirus
-skillduration
 Skitterbot
 skitterbots
 Skitterer

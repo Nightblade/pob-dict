@@ -23,6 +23,7 @@ auraareaofeffect
 autocrlf
 Autoequip
 automagical
+projectilespeed
 Avatarofthe
 Azperin
 baranio
@@ -38,6 +39,7 @@ BOTTOMRIGHT
 BRITTLEBG
 Brushwith
 Cascadable
+skillduration
 castable
 casttime
 Cauteriser
@@ -228,6 +230,7 @@ mousewheel
 msysgit
 mthjones
 Mult
+Mults
 Multicastable
 Multistrikeable
 mweber15
