@@ -129,6 +129,7 @@ FLAT
 FREEZEBG
 Friedl
 frodon1
+fullscreen
 Funcs
 fussilade
 FWidm
@@ -174,6 +175,7 @@ jorrhasts
 jppianta
 JustinmClapperton
 keybind
+Keychain
 Khronos
 kkienzle
 Kloss
@@ -403,6 +405,7 @@ unbuffed
 uncastable
 unfetch
 unfetched
+unrescuable
 Unsocket
 unsortable
 untargetable
