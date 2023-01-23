@@ -1,6 +1,7 @@
 abaxoth
 Abberarach
 Abberath
+Abberathine
 Abyssus
 Acidbeak
 Actaeo
@@ -63,6 +64,7 @@ Arcmage
 Arduk
 arenalord
 Argient
+Arimor
 Arkhon
 Arkhons
 Armala
@@ -119,6 +121,7 @@ Balbala
 Baleh
 Balus
 Bameth
+Banebrand
 Baracus
 Baran
 Baranite
@@ -182,6 +185,7 @@ Blisterlords
 blockable
 Bloodboil
 Bloodbond
+Bloodcaller
 Bloodcrazed
 Blooddrinker
 Bloodeater
@@ -192,6 +196,7 @@ Bloodplay
 Bloodpriests
 Bloodreap
 Bloodscent
+Bloodscouring
 Bloodseeker
 Bloodshaper
 Bloodsoaked
@@ -211,6 +216,7 @@ Boneshatter
 Bonespire
 Bonestalker
 Bonewarped
+Booba
 botting
 Boulderback
 Bowmaker
@@ -313,6 +319,7 @@ Conflagrating
 Coniraya
 convocated
 Coralito
+Corpsebloom
 Corpsewalker
 Cospri
 Cragfall
@@ -367,6 +374,7 @@ Deidbell
 Deidbellow
 dekhara
 Dementophobia
+Demonflame
 Demontamer
 Dendrobate
 Deshret
@@ -398,6 +406,7 @@ Doven
 Draconarius
 Draconides
 Dragonbone
+Dragonfire
 Dragonscale
 Drakeling
 Dreadarc
@@ -493,6 +502,8 @@ Faithsworn
 Falsetongue
 Faminebind
 fangjaw
+Fangtooth
+Faridun
 Farric
 Farrul
 Farsight
@@ -507,6 +518,7 @@ Fencoil
 Fenumal
 Fenumus
 Fidelitas
+Fidium
 Fireborn
 Firebreath
 Firemage
@@ -536,8 +548,10 @@ Fleshsmith
 Flickerflame
 Flickershade
 Forgeguard
+Forgekeeper
 Forgemaster
 Foxfly
+Foxhide
 Foxshade
 Freezebolt
 Freidrich
@@ -593,6 +607,7 @@ glacialcage
 Gladius
 Glarryn
 Glennach
+Glimmersprite
 Glimmerwood
 Glitterdisc
 Glitterdisk
@@ -641,6 +656,7 @@ Guraq
 Gwayne
 Gwennen
 Haemocombustion
+Haemomancer
 Haewark
 Haha
 Hailrake
@@ -648,6 +664,7 @@ Haliotis
 hammerblows
 Hammerstorm
 Handcast
+Hapihapi's
 Hargan
 Harpyon
 Hasina
@@ -675,6 +692,7 @@ hellscaping
 Hephaeus
 heroicspirit
 Heterochromia
+Hetzapal
 Heup
 hexblast
 Hexclaw
@@ -869,6 +887,7 @@ lithomancy
 Lochtonial
 Lockpick
 Lockpicking
+Lockpicks
 Locustcaller
 Lokan
 Longtooth
@@ -895,6 +914,7 @@ Macrotaen
 Maelström
 Magebane
 Mageblood
+Magebloom
 Mageguard
 Magjar
 Magmite
@@ -923,6 +943,7 @@ Mastercrafting
 mastersapper
 Matatl
 Matua
+Maulhead
 Maxarius
 Mazarine
 Meatgrinder
@@ -1130,6 +1151,7 @@ ragestorm
 Ragestorms
 Raihara
 Rainbowstride
+Raincaller
 Rakango
 Rakangos
 Rakiata
@@ -1141,6 +1163,7 @@ Rathpith
 Rattleback
 Raulo
 Razorleg
+Razormaw
 Realmshaper
 Reanimator
 Reanimators
@@ -1230,6 +1253,8 @@ Shadowstalker
 Shadowstitch
 Shakari
 Shambler
+Shardbound
+Shardcrown
 Sharktooth
 Sharnath
 Shattershard
@@ -1344,6 +1369,7 @@ Stormbearer
 Stormbind
 Stormblast
 stormborn
+Stormbrand
 Stormbrewer
 stormcall
 Stormcaller
@@ -1434,6 +1460,7 @@ Thunderguard
 Thunderhand
 Thundersight
 Thunderskull
+Thunderstrike
 Thundrous
 Tibbs
 Ticaba
@@ -1460,6 +1487,7 @@ Trialmaster
 Trialmasters
 Trickshot
 Trinian
+Tripyxis
 Triskeriaki
 Trisula
 Trix
@@ -1603,6 +1631,7 @@ Weaponmaster
 Weaponsmithing
 Webmother
 Webspinner
+Welakath
 Welp
 Wereclaw
 Weta
@@ -1619,6 +1648,7 @@ Whispersteps
 Wideswing
 Widowmaker
 Widowsilk
+Wildmen
 Wildslash
 Wildwrap
 Willclash
@@ -1647,12 +1677,14 @@ Wondertrap
 Woodful
 Woodsplitter
 Worldcarver
+Wormblaster
 Wraeclast
 Wraithlord
 wreckingball
 Wurm
 Wyrm
 Wyrmbone
+Wyrmcaller
 Wyrmscale
 Wyrmsign
 Xandro
@@ -1664,6 +1696,7 @@ Xirgil
 Xixic
 Xopec
 Xoph
+Xoplotli
 Xuatl
 Yaksha
 Yaomac
