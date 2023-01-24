@@ -3,6 +3,7 @@ Abberarach
 Abberath
 Abberathine
 Abyssus
+Achioc
 Acidbeak
 Actaeo
 Actum
@@ -14,6 +15,7 @@ Aetherwind
 Agiel
 Agnar
 Agnerax
+Agnerix
 Agnerod
 Ahkeli
 Ahn
@@ -91,6 +93,7 @@ Astramentis
 Astromancer
 Ataguchu
 Atalui
+Atmohua
 Atziri
 Atzoatl
 Augustina
@@ -172,6 +175,7 @@ Blademaster
 blademistress
 Bladestorm
 Bladestorms
+Bladetooth
 Blaidd
 Blasphemied
 Blastchain
@@ -180,6 +184,7 @@ Blightraise
 Blightspeaker
 Blightwell
 Blisterclaw
+Blisterfruit
 Blisterlord
 Blisterlords
 blockable
@@ -277,6 +282,7 @@ castspeed
 Catburglar
 Cava
 Cavas
+Cavestalker
 Cavia
 Celona
 Ceraunophile
@@ -291,15 +297,18 @@ Charan
 Chayula
 Chernobog
 Cherrubim
+Chestpiece
 Chestplate
 Chiara
 Chillcaller
 Chimeral
 Chimerals
 Chitus
+Chiyou
 Chober
 Chokepoint
 chollinger
+Cholotl
 chronomancer
 Ciergan
 Cinderswallow
@@ -320,6 +329,7 @@ Coniraya
 convocated
 Coralito
 Corpsebloom
+Corpsestitch
 Corpsewalker
 Cospri
 Cragfall
@@ -391,6 +401,7 @@ Dirigeant
 Divinarius
 Divini
 Divinia
+Docere
 Doedre
 doomcast
 Doomcrow
@@ -420,6 +431,7 @@ Dreamfeather
 Dreamquest
 Drillneck
 Droolmaw
+Droolscar
 Droughtspawn
 Drox
 Druggery
@@ -478,6 +490,7 @@ Erqi
 Ersi
 Erythrophagia
 Essentia
+Estazunti
 Estoc
 Ethercraft
 Ethrel
@@ -507,6 +520,7 @@ Faridun
 Farric
 Farrul
 Farsight
+Farud
 Fastis
 fatcats
 Fateweaver
@@ -539,6 +553,7 @@ Flameweaver
 Flashfire
 Flashfires
 Flashpowder
+Fleetfoot
 Fleetfreak
 Fleshbinding
 Fleshcrafter
@@ -595,6 +610,7 @@ Ghorr
 Ghostfire
 Ghostflame
 ghostings
+Ghostram
 ghostreaver
 Ghostwrithe
 Ghroth
@@ -689,6 +705,7 @@ Hedron
 Helial
 Hellscape
 hellscaping
+Hematophagy
 Hephaeus
 heroicspirit
 Heterochromia
@@ -739,6 +756,7 @@ Imperialus
 Impresence
 incaminion
 Incanter
+Incarnatis
 incentivising
 Indigon
 Infernomage
@@ -764,6 +782,7 @@ Izaro
 Izioc
 Jaesyn
 Jaetai
+Jamanra
 Jamanra's
 Janaar
 Jarek
@@ -909,6 +928,7 @@ Luthis
 Lycius
 Lycosidae
 Lysah
+M'gaska
 Machinarium
 Macrotaen
 Maelström
@@ -990,6 +1010,7 @@ Morsu
 Mortalbane
 Mortimus
 Morvant
+Multiprojectile
 Multistrike
 multithrow
 Murgeth
@@ -1018,6 +1039,7 @@ nerfed
 nerfs
 Nessa
 Nestback
+Nethermancer
 Netol
 Nevali
 Ngamahu
@@ -1047,6 +1069,7 @@ Olli
 Olof
 Olroth
 Omeyocan
+Omniphobia
 Omnitect
 Ondar
 Oozeback
@@ -1068,6 +1091,7 @@ Oskarm
 Osmea
 Ossecati
 Otesha
+Overprepared
 Overshock
 Oyra
 Oyun
@@ -1157,11 +1181,14 @@ Rakangos
 Rakiata
 Ralakesh
 Ramako
+Raphina
 Rasa
 Rashkaldor
 Rathpith
+Ratmother
 Rattleback
 Raulo
+Ravenal
 Razorleg
 Razormaw
 Realmshaper
@@ -1273,6 +1300,7 @@ Shockwaves
 Shrapnelbearer
 Sidhebreath
 Siegebreaker
+Silkweave
 Silverbough
 Silverbranch
 Silverwood
@@ -1308,6 +1336,7 @@ softcore
 Soilmaker
 Solarine
 Solerai
+Souleye
 soulfeast
 Soulfire
 Soulkeeper
@@ -1519,6 +1548,7 @@ Ullr
 Ululat
 Unaff
 Unbreathing
+Uncarved
 uncomplete
 Uncompletes
 Undeath
@@ -1535,6 +1565,7 @@ unsocketed
 untradable
 unwalkable
 Uromoti
+Ursaling
 Uruk
 Utula
 Utzaal
@@ -1555,6 +1586,7 @@ Vanth
 Vapourising
 Varakath
 Varhesh
+Varrich
 Varunastra
 Vastir
 Vastiri
@@ -1584,7 +1616,9 @@ Vinny
 Viridi
 Visceris
 Vivinsect
+Voidbane
 Voidbearer
+Voidbearers
 Voidborn
 Voidbringer
 Voideye
@@ -1641,6 +1675,7 @@ Weylin
 Whakano
 Whakatutuki
 Whakawairua
+Whare
 Whelpling
 Whipleg
 whirlingstaff
@@ -1685,10 +1720,12 @@ Wurm
 Wyrm
 Wyrmbone
 Wyrmcaller
+Wyrmlord
 Wyrmscale
 Wyrmsign
 Xandro
 Xenathar
+Xenozak
 Xesht
 Xibaqua
 Xipocado
