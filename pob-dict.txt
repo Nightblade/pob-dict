@@ -159,6 +159,7 @@ Ierusalimschy
 ifnjeff
 ilvl
 imlua
+impetulant
 implicits
 imsjp
 increasedrunspeeddex
@@ -398,6 +399,7 @@ twoaxe
 twomace
 twomelee
 twosword
+ubers
 uilman
 unalloc
 Unallocating
@@ -406,6 +408,7 @@ uncastable
 unfetch
 unfetched
 unrescuable
+unsavoured
 Unsocket
 unsortable
 untargetable
@@ -424,6 +427,7 @@ Vulkan
 vuln
 WHEELDOWN
 WHEELUP
+wisened
 wjdeclan
 writefunction
 wrzoski
