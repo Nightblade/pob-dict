@@ -115,6 +115,7 @@ Aurid
 Auriot
 Aurseize
 Aurumvorax
+Autoattack
 Auxium
 Avarius
 Aventail
@@ -414,6 +415,7 @@ Deidbell
 Deidbellow
 dekhara
 Dementophobia
+Demonfire
 Demonflame
 Demontamer
 Dendrobate
@@ -515,6 +517,7 @@ Emberwake
 Emberwakes
 Empyrian
 Encephelophage
+endboss
 Endbringer
 energyshield
 Eoin
@@ -750,7 +753,8 @@ Haliotis
 hammerblows
 Hammerstorm
 Handcast
-Hapihapi's
+Handfinger
+Hapihapi
 Hargan
 Harpyon
 Hasina
@@ -778,6 +782,7 @@ Helial
 Hellscape
 hellscaping
 Hematophagy
+Hemmingsworth
 Hephaeus
 Heretech
 heroicspirit
@@ -862,7 +867,6 @@ Izioc
 Jaesyn
 Jaetai
 Jamanra
-Jamanra's
 Janaar
 Jarek
 Jatin
@@ -994,6 +998,7 @@ Lochtonial
 Lockpick
 Lockpicking
 Lockpicks
+Locomancer
 Locustcaller
 Lokan
 Longtooth
@@ -1092,7 +1097,6 @@ Mistwalker
 Mistwall
 Mjolner
 Mjölner
-Mjölners
 Moga
 Mokou
 Mon'tregul
@@ -1197,6 +1201,7 @@ Osmea
 Ossecati
 Otairo
 Otesha
+outro
 Overprepared
 Overshock
 Oyra
@@ -1645,6 +1650,7 @@ Tibbs
 Ticaba
 Tidebreaker
 Timeclasp
+Timestop
 Timetwist
 Tinevin
 Tinkerskin
@@ -1712,6 +1718,7 @@ Ungil
 Ungulath
 unmen
 Unnaturals
+Unraveller
 Unshaping
 Unshattered
 unsocketed
@@ -1808,6 +1815,7 @@ Warcries
 warcry
 Wardbreaker
 Wardog
+Warhammer
 Warmaster
 Warstaff
 watchstone
@@ -1875,6 +1883,7 @@ Woodsplitter
 Worldcarver
 Wormblaster
 Wraeclast
+Wraeclasts
 Wraithlord
 wreckingball
 Wrigglechaw
@@ -1916,4 +1925,5 @@ Zantipi
 Zeel
 Zerphi
 Zilquapa
+zipline
 Zorioc
