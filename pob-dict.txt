@@ -6,9 +6,7 @@ ajryan
 aletrop
 alexey
 altqual
-amblings
 andrewbelu
-aoes
 apos
 apxeolog
 argstr
@@ -45,7 +43,6 @@ centerscion
 centershadow
 centertemplar
 centerwitch
-charactername
 chargedex
 checkmark
 chillbg
@@ -204,15 +201,11 @@ melnichuk
 metamods
 metatable
 michelrtm
-microfreezes
 minionbuff
 mipmap
 monerofglory
 moneypouch
 morilli
-mortalconviction
-mousewheel
-movespeed
 msysgit
 mthjones
 mult
@@ -288,7 +281,6 @@ raylu
 realloc
 recov
 reduct
-regen
 regen
 regenflat
 regenpercent

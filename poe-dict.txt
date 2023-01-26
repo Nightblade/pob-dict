@@ -38,6 +38,7 @@ aloris
 alsarus
 amanamu
 amarissa
+amblings
 ambrius
 ambu
 anacuacotli
@@ -48,6 +49,7 @@ animalspirit
 annest
 anointable
 antalie
+aoes
 apep
 apocalyptica
 aquathaumatic
@@ -327,6 +329,7 @@ chainmail
 chalybeous
 chaosresist
 chaosweaver
+charactername
 charan
 chayula
 chernobog
@@ -1124,6 +1127,7 @@ metamorphs
 mevia
 mevion
 miasmeter
+microfreezes
 microtransaction
 microtransactions
 miem
@@ -1153,9 +1157,12 @@ mori
 morpher
 morsu
 mortalbane
+mortalconviction
 mortimus
 mortumus
 morvant
+mousewheel
+movespeed
 multicastable
 multiprojectile
 multistrike
