@@ -355,6 +355,7 @@ citaqualotl
 citystalker
 clayshaper
 cleaveling
+clickables
 clientside
 clobberclaw
 cloudwhisper
@@ -958,6 +959,7 @@ kinslayer
 kintsugi
 kira
 kirac
+Kiravi
 kirmes
 kishara
 kitava
@@ -1111,6 +1113,7 @@ mazarine
 meatgrinder
 mechalarm
 mecharach
+Medi-Drone
 medved
 meginord
 melur
@@ -1137,6 +1140,7 @@ minddrinker
 mindspiral
 mindweave
 minibosses
+minigame
 miniondamage
 mirageblast
 mirebough
@@ -1343,6 +1347,7 @@ puresteel
 puruna
 pusbag
 putembo
+Pyromancer
 pyromancers
 pyromantic
 pyroshock
@@ -1386,11 +1391,14 @@ recombinators
 redbeak
 redblade
 reefbane
+reflectable
 rek'tar
 relicguard
 reliquarian
 renkarr
+resocketing
 respawning
+respawns
 respec
 rheniot
 rhex
@@ -1422,6 +1430,7 @@ rudiarius
 rukuku
 rumi
 runebinder
+runeblast
 runeblazing
 runecaster
 runed
@@ -1458,6 +1467,7 @@ scion
 scissorblades
 scourgelord
 screenshake
+scrollspeed
 seaglass
 seawitch
 sebbert
@@ -1593,6 +1603,7 @@ starforge
 starkonja
 stasius
 staticshield
+stealthed
 steelchaw
 steelpoint
 steelscale
@@ -1654,6 +1665,7 @@ subprojectiles
 sulphurspawn
 sumei
 sunblast
+Sunbleached
 suncaller
 sundance
 sunprism
@@ -1795,6 +1807,7 @@ uncomplete
 uncompletes
 undeath
 undercity
+underleveled
 unequippable
 unfound
 unfun
@@ -1898,6 +1911,7 @@ voltaxic
 vorana
 voranas
 vorici
+vsync
 vulcanist
 vulconus
 wandslinger
