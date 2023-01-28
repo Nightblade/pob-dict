@@ -134,6 +134,7 @@ azmerian
 azmerians
 azyran
 backburner
+balabus
 balah
 balbala
 baleh
@@ -196,6 +197,7 @@ bladestorms
 bladetooth
 blaidd
 blasphemied
+blass
 blastchain
 bleeter
 blightblade
@@ -348,6 +350,7 @@ chollinger
 cholotl
 chrometouched
 chronomancer
+chronophage
 ciergan
 cinderswallow
 cintiq
@@ -835,6 +838,7 @@ hexwarding
 hezmana
 hezmin
 highdove
+hikatomanga
 hinekora
 hollowpoint
 hollowskull
@@ -959,7 +963,7 @@ kinslayer
 kintsugi
 kira
 kirac
-Kiravi
+kiravi
 kirmes
 kishara
 kitava
@@ -1113,7 +1117,7 @@ mazarine
 meatgrinder
 mechalarm
 mecharach
-Medi-Drone
+medi-drone
 medved
 meginord
 melur
@@ -1347,7 +1351,7 @@ puresteel
 puruna
 pusbag
 putembo
-Pyromancer
+pyromancer
 pyromancers
 pyromantic
 pyroshock
@@ -1412,6 +1416,7 @@ rigwald
 rima
 rimedweller
 rin
+rindwik
 ringmail
 ringmaker
 ritemaster
@@ -1665,7 +1670,7 @@ subprojectiles
 sulphurspawn
 sumei
 sunblast
-Sunbleached
+sunbleached
 suncaller
 sundance
 sunprism
@@ -1803,6 +1808,7 @@ unaff
 unbreathing
 uncarved
 uncastable
+uncompletable
 uncomplete
 uncompletes
 undeath
