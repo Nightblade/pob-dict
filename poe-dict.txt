@@ -105,6 +105,7 @@ astromancer
 ataguchu
 atalui
 atmohua
+attackspeed
 atui
 atziri
 atzoatl
@@ -380,6 +381,7 @@ convocated
 coralito
 corpsebloom
 corpsestitch
+corpsewalker
 cospri
 craftable
 cragfall
@@ -436,6 +438,7 @@ deathmage
 deathmark
 deathmarked
 deathnotch
+deatomization
 debeon
 debuff
 debuffed
@@ -539,6 +542,7 @@ egrin
 eihal
 einhar
 eiphirio
+ejoris
 el'abin
 elderslayer
 elderslayers
@@ -631,6 +635,7 @@ firespout
 firestarter
 fishies
 fishscale
+fixmyhelmet
 flamebearer
 flamebeast
 flameblast
@@ -660,6 +665,7 @@ fleetfoot
 fleetfreak
 fleshbinding
 fleshcrafter
+flesheaters
 fleshmelter
 fleshmonster
 fleshrend
@@ -784,6 +790,7 @@ greust
 greychain
 greyfur
 grigor
+grindy
 groundslam
 groveguard
 gruthkul
@@ -1685,7 +1692,7 @@ stormcore
 stormcult
 stormfire
 stormflay
-Stormfly
+stormfly
 stormguard
 stormhand
 stormheart
