@@ -1158,6 +1158,7 @@ mercutio
 meritania
 meritarus
 merveil
+metacraft
 metacrafting
 metamod
 metamorph
@@ -1487,6 +1488,7 @@ runeflaring
 runegleaming
 runemaster
 runeshining
+ruthlessfilter
 ryslatha
 sabatons
 sacrato
