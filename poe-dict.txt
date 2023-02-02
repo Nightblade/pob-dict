@@ -1497,6 +1497,7 @@ saemus
 saffell
 sallazzang
 sambodhi
+sanctorum
 sandspitter
 sandstrider
 sandwhipper
@@ -1879,6 +1880,7 @@ unignore
 unmen
 unnaturals
 unraveller
+unsated
 unshaping
 unshattered
 unsocket
