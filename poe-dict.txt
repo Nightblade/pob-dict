@@ -281,6 +281,7 @@ brightbeak
 brinecrack
 brinerot
 brinespawn
+Briney
 briskwrap
 bristlebeast
 brittlethorn
@@ -295,12 +296,14 @@ broodspawn
 brownfur
 brownsmith
 bruteforce
+Brylla
 burtok
 cadigan
 cadiro
 caer
 caesarius
 caeserius
+Cafar
 calaf
 calderus
 calibric
@@ -806,6 +809,7 @@ guraq
 gururu
 gwayne
 gwennen
+Hadrey
 haemocombustion
 haemomancer
 haewark
@@ -903,6 +907,7 @@ icius
 igna
 ignomon
 ilevel
+ilevels
 ilvl
 immortalis
 immortalisation
@@ -914,9 +919,11 @@ incaminion
 incanter
 incarnatis
 incentivising
+incompletable
 indigon
 infernomage
 infractem
+Inkley
 inkskin
 innsbury
 inpulsa
@@ -991,6 +998,7 @@ kikazaru
 killam
 killstreak
 kiloava
+Kimbey
 kineticism
 kingsguard
 kinslayer
@@ -1099,8 +1107,10 @@ lorenzi
 loreweave
 loricated
 lorrata
+Lothar
 loyalguard
 lukthu
+lunari
 lunaris
 Lunaro
 lunarsworn
@@ -1123,6 +1133,7 @@ magjar
 magmite
 mahuatzi
 mahuxotl
+Maitlin
 makanga
 makanui
 makoru
@@ -1255,6 +1266,7 @@ ngahari
 ngamahu
 ngamakanui
 ngamaku
+Ngmagakanui
 nightbearer
 nightblade
 nightbringer
@@ -1279,6 +1291,7 @@ ohne
 olesya
 olgosso
 olli
+Ollin
 olof
 olroth
 omeyocan
@@ -1456,6 +1469,7 @@ respawned
 respawning
 respawns
 respec
+resyncs
 Retchs
 Revna
 rheniot
@@ -1672,6 +1686,7 @@ starkonja
 stasius
 staticshield
 stealthed
+steampowered
 steelchaw
 steelpoint
 steelscale
@@ -2028,6 +2043,7 @@ welp
 wereclaw
 weta
 wetas
+Wetherdale
 weylam
 weylin
 whakano
