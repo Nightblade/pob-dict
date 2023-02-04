@@ -108,6 +108,7 @@ atalui
 atmohua
 attackspeed
 atui
+Aturi
 atziri
 atzoatl
 augmentable
@@ -137,6 +138,7 @@ azmerian
 azmerians
 azyran
 backburner
+Baeclast
 balabus
 balah
 balbala
@@ -716,6 +718,7 @@ furyfoot
 fusilade
 galecaller
 galesight
+Galhad
 galvano
 gamewide
 garemon
@@ -773,6 +776,7 @@ goldhoof
 goldrim
 goldwyrm
 golemsblood
+Gomin
 gorebreaker
 goredrill
 gorgol
@@ -853,6 +857,7 @@ hemmingsworth
 hephaeus
 heretech
 heroicspirit
+Herules
 heterochromia
 hetzapal
 heup
@@ -1045,6 +1050,7 @@ lackwits
 lael
 laffrey
 lakishu
+Landren
 lani
 lantador
 lanternbearer
