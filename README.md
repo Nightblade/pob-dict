@@ -61,6 +61,6 @@ To which dictionary do I add this unknown word?
 
 ---
 
-## Licence
+## License
 
 [MIT](https://opensource.org/licenses/MIT)
