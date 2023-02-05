@@ -494,7 +494,7 @@ doomsower
 doon
 doppleganger
 doryani
-doryanis
+doryani's
 dovecaller
 doven
 draconarius
@@ -1475,6 +1475,7 @@ respawned
 respawning
 respawns
 respec
+restartlessly
 resyncs
 Retchs
 Revna
@@ -1900,6 +1901,7 @@ uncomplete
 uncompletes
 unconfirm
 unconfirming
+uncursed
 undeath
 undercity
 underleveled
@@ -1930,6 +1932,7 @@ untriggerable
 untriggered
 unwalkable
 upconversion
+upgradability
 uromoti
 ursaling
 ursus
