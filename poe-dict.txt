@@ -70,8 +70,10 @@ arcanity
 archdemon
 archmage
 archmagi
+Archnemeses
 archnemesis
 arcmage
+Arcmages
 arduk
 arenalord
 argient
@@ -125,6 +127,7 @@ auriot
 aurseize
 aurumvorax
 autoattack
+autoreply
 auxium
 avarius
 aventail
@@ -476,7 +479,6 @@ dhunan
 diablo
 dialla
 diamondskin
-diemon
 dimachaeri
 direblade
 dirigeant
@@ -486,6 +488,7 @@ divini
 divinia
 docere
 doedre
+Dominus
 doomcast
 doomcrow
 doomfletch
@@ -494,7 +497,6 @@ doomsower
 doon
 doppleganger
 doryani
-doryani's
 dovecaller
 doven
 draconarius
@@ -1475,6 +1477,7 @@ respawned
 respawning
 respawns
 respec
+respecialising
 restartlessly
 resyncs
 Retchs
@@ -1639,6 +1642,7 @@ solarine
 Solaro
 solarsworn
 solerai
+Sothotep
 soulbinder
 souleye
 soulfeast
@@ -1951,6 +1955,7 @@ valai
 valako
 valdo
 valyrium
+Vampiric
 vanja
 vanth
 vapourising
@@ -2051,6 +2056,7 @@ wellwing
 welp
 wereclaw
 weta
+Wētā
 wetas
 Wetherdale
 weylam
