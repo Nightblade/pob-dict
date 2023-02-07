@@ -87,6 +87,7 @@ armios
 armourmaster
 armourmastery
 armoursmith
+Armoursmithing
 arn
 arohongui
 arohungui
@@ -580,6 +581,7 @@ energyshield
 eoin
 ephij
 ephrexis
+Episcopicide
 equippable
 eramir
 erbix
@@ -757,6 +759,7 @@ giftyness
 gisale
 glacialcage
 gladius
+Glargarryn
 glarryn
 glassmaul
 glennach
@@ -858,6 +861,7 @@ hematophagy
 hemmingsworth
 hephaeus
 heretech
+Hericide
 heroicspirit
 Herules
 heterochromia
@@ -929,6 +933,7 @@ incentivising
 incompletable
 indigon
 infernomage
+Infernum
 infractem
 Inkley
 inkskin
@@ -1133,6 +1138,7 @@ m'uneh
 machinarium
 macrotaen
 maelström
+Maelströms
 magebane
 mageblood
 magebloom
@@ -1615,6 +1621,7 @@ skitterbot
 skitterbots
 skitterer
 skitterling
+Skothe
 skullbeak
 skullbearer
 skullbreaker
@@ -1623,6 +1630,7 @@ skullhead
 skycaller
 skyfire
 skyforth
+Slaugh
 slavedriver
 slavemaster
 slitherer
@@ -1766,6 +1774,7 @@ sundance
 sunprism
 sunspire
 sunspite
+supertypes
 supplymaster
 surgebinders
 surgefiend
@@ -2040,6 +2049,7 @@ warmaster
 warstaff
 warstaves
 watchstone
+Watchstoned
 watchstones
 waterdancing
 wayfinder
