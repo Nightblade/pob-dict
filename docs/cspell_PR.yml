@@ -1,41 +1,41 @@
 name: 'cspell_PR'
 
 on:
-	workflow_dispatch:
-		inputs:
-			pr_num:
-				description: Pull Request Number
-				required: true
+  workflow_dispatch:
+    inputs:
+      pr_num:
+        description: Pull Request Number
+        required: true
 
 jobs:
 
-	spelling:
-		runs-on: ubuntu-latest
-		env: 
-			CONFIG_URL: https://raw.githubusercontent.com/Nightblade/pob-dict/main
-			ORIGIN: PathOfBuildingCommunity/PathOfBuilding
-		steps:
+  spelling:
+    runs-on: ubuntu-latest
+    env: 
+      CONFIG_URL: https://raw.githubusercontent.com/Nightblade/pob-dict/main
+      ORIGIN: PathOfBuildingCommunity/PathOfBuilding
+    steps:
 
-			- name: Add PR link to summary
-				run: echo '[PR ${{ inputs.pr_num }}](http://github.com/${{ env.ORIGIN }}/pull/${{ inputs.pr_num }})' >> $GITHUB_STEP_SUMMARY
+      - name: Add PR link to summary
+        run: echo '[PR ${{ inputs.pr_num }}](http://github.com/${{ env.ORIGIN }}/pull/${{ inputs.pr_num }})' >> $GITHUB_STEP_SUMMARY
 
-			- name: Checkout PR ${{ inputs.pr_num }}
-				uses: actions/checkout@v3
-				with:
-					ref: "refs/pull/${{ inputs.pr_num }}/merge"
-					repository:  ${{ env.ORIGIN }}
+      - name: Checkout PR ${{ inputs.pr_num }}
+        uses: actions/checkout@v3
+        with:
+          ref: "refs/pull/${{ inputs.pr_num }}/merge"
+          repository:  ${{ env.ORIGIN }}
 
-			- name: Fetch config file and dictionaries
-				run: |
-					curl --silent --show-error --parallel --remote-name-all \
-						${{ env.CONFIG_URL }}/cspell.json \
-						${{ env.CONFIG_URL }}/pob-dict.txt \
-						${{ env.CONFIG_URL }}/poe-dict.txt \
-						${{ env.CONFIG_URL }}/ignore-dict.txt
+      - name: Fetch config file and dictionaries
+        run: |
+          curl --silent --show-error --parallel --remote-name-all \
+            ${{ env.CONFIG_URL }}/cspell.json \
+            ${{ env.CONFIG_URL }}/pob-dict.txt \
+            ${{ env.CONFIG_URL }}/poe-dict.txt \
+            ${{ env.CONFIG_URL }}/ignore-dict.txt
 
-			- name: Run cspell
-				uses: streetsidesoftware/cspell-action@v2.4.0
-				with:
-					files: '**' # needed as workaround for non-incremental runs (overrides in config still work ok)
-					config: "cspell.json"
-					incremental_files_only: ${{ github.event_name != 'workflow_dispatch' }}
+      - name: Run cspell
+        uses: streetsidesoftware/cspell-action@v2.4.0
+        with:
+          files: '**' # needed as workaround for non-incremental runs (overrides in config still work ok)
+          config: "cspell.json"
+          incremental_files_only: ${{ github.event_name != 'workflow_dispatch' }}
