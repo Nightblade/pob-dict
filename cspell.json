@@ -9,6 +9,7 @@
 		"poe-dict",
 		"pob-dict",
 		"ignore-dict",
+		"extra-en-dict.txt",
 		"!aws",
 		"!cryptocurrencies",
 		"!ada"
@@ -32,6 +33,12 @@
 			"description": "Path Of Building Community ignore dictionary",
 			"addWords": false,
 			"noSuggest": true
+		},
+		{
+			"name": "extra-en-dict",
+			"path": "./extra-en-dict.txt",
+			"description": "Extra English dictionary",
+			"addWords": true
 		}
 	],
 	"ignoreRegExpList": [
@@ -95,11 +102,7 @@
 		"./src/TreeData/*"
 	],
 	"flagWords": [
-		"and and",
 		"casted",
-		"is is",
-		"it it",
-		"the the",
 		"hte",
 		"cant",
 		"heres",
