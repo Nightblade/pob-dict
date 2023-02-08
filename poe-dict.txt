@@ -605,6 +605,7 @@ ewar
 exartze
 excellis
 exertable
+exilecon
 extantia
 eyepecker
 ezomyr
@@ -639,6 +640,7 @@ fenumus
 fidelitas
 fidium
 filimite
+Filimites
 fireborn
 firebreath
 firebuzz
@@ -692,6 +694,7 @@ flickerflame
 flickershade
 flickerstrike
 flockmate
+FMOD
 forgeguard
 forgekeeper
 forgemaster
@@ -1488,6 +1491,7 @@ reanimator
 reanimators
 recombinator
 recombinators
+recrafted
 redbeak
 redblade
 reefbane
@@ -1525,6 +1529,7 @@ ringmaker
 ritemaster
 riverways
 rockchewer
+Rockpools
 roguelike
 rollable
 rollem
