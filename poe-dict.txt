@@ -108,6 +108,7 @@ astramentis
 astromancer
 ataguchu
 atalui
+atlaspassives
 atmohua
 attackspeed
 atui
@@ -310,6 +311,7 @@ caer
 caesarius
 caeserius
 Cafar
+Caisarius
 calaf
 calderus
 calibric
@@ -956,6 +958,7 @@ ironwoodtotem
 irwen
 isildria
 isla
+itemfilters
 itemlevel
 ixtolatl
 izaro
@@ -1159,6 +1162,7 @@ manabond
 manaconduit
 manastorm
 manaweave
+Marak
 maraketh
 maramoa
 marauder
@@ -1273,6 +1277,7 @@ nerfed
 nerfs
 nessa
 nestback
+Netcode
 nethermancer
 netol
 nevali
@@ -1431,6 +1436,7 @@ pyromantic
 pyroshock
 q'ura
 qarl
+Qianga
 qotra
 quecholli
 questline
