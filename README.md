@@ -3,13 +3,17 @@
 Dictionaries and [Code Spell Checker](https://cspell.org/) (CSpell) config files for [Path Of Building Community](https://github.com/PathOfBuildingCommunity/PathOfBuilding) (PoB) code development. 
 
 ## Components
+All `.txt` files listed below are `plaintext`, `UTF-8`, `LF`-`EOL`, with a single word per line.
+
 | Filename                       | Description
 | ------------------------------ | -----------
-| [`cspell.json`](cspell.json)   | CSpell settings.
-| [`poe-dict.txt`](poe-dict.txt) | Plaintext list of valid words specific to [Path of Exile](https://www.pathofexile.com/).
-| [`pob-dict.txt`](pob-dict.txt) | Plaintext list of valid words for developing the PoB source-code.
-| [`ignore-dict.txt`](ignore-dict.txt) | Plaintext list of known misspellings that are not to be reported, because Reasons™.
-| [`spellcheck.yml`](docs/spellcheck.yml) | Example GitHub workflow using [`cspell-action`](https://github.com/streetsidesoftware/cspell-action).
+| [cspell.json](cspell.json)   | CSpell settings.
+| [poe-dict.txt](poe-dict.txt) | Words specific to [Path of Exile](https://www.pathofexile.com/).
+| [pob-dict.txt](pob-dict.txt) | Words specific to PoB development and associated files.
+| [ignore-dict.txt](ignore-dict.txt) | Words to be ignored by CSpell.
+| [extra-en-dict.txt](extra-en-dict.txt) | Extra English words that are not in CSpell's dictionaries.
+| [spellcheck.yml](docs/spellcheck.yml) | Example GitHub workflow using [`cspell-action`](https://github.com/streetsidesoftware/cspell-action).
+
 
 ## Installation
 
@@ -17,7 +21,7 @@ Dictionaries and [Code Spell Checker](https://cspell.org/) (CSpell) config files
 * Copy `docs/spellcheck.yml` to `.github/workflows/` of the PoB repo.
 
 This workflow is designed to be run from the PoB repo, collecting files from this repo as needed, and thus
-avoids cluttering the PoB repo.  By default the workflow automatically only checks changes made in pull-requests against the `dev` branch.  
+avoids cluttering the PoB repo.  By default, the workflow automatically only checks changes made in pull-requests against the `dev` branch.  
 It can also be triggered manually to perform a full check of a specific branch/tag/SHA.
 
 
@@ -27,8 +31,8 @@ It can also be triggered manually to perform a full check of a specific branch/t
 * Add the following lines to `.vscode/settings.json` in your PoB fork:
 ```json
 {
-  "cSpell.import": [ "../../pob-dict/cspell.json" ],
-  "cSpell.language": "en,en-GB"
+  "CSpell.import": [ "../../pob-dict/cspell.json" ],
+  "CSpell.language": "en,en-GB"
 }
 ```
 
@@ -42,21 +46,23 @@ PS C:\PathOfBuilding> cspell --config "..\pob-dict\cspell.json" --relative --sho
 ```
 
 ## Dictionary additions
-To which dictionary do I add this unknown word?
+Which dictionary do I add this unrecognised word to?
 * If it's spelled *correctly within the context of*:
   * the game (Path of Exile) -> `poe-dict.txt`.
   * the PoB source code / git repository -> `pob-dict.txt`.
-* If it's spelled *incorrectly* but you want to suppress the warning -> `ignore-dict.txt`.  To reduce false negatives, please try to make this type of addition as specific as possible.
+  * English, but not in CSpell's dictionaries -> `extra-en-dict.txt`
+* If it's spelled *incorrectly* or doesn't fit anywhere else, and/or you want to suppress the warning -> `ignore-dict.txt`.  To reduce false negatives, please try to make this type of addition as specific as possible (see CritsDontAlways example below).
 
-**Note:**  Please do not add apostrophes / possessives (`'s`) to any words in any dictionary.
+If unsure, open a [new issue](https://github.com/Nightblade/pob-dict/issues/new/choose).
 
 ### Examples
-| Word            | Dictionary          | Reason
-|-----------------|---------------------|------------------------------
-| Atziri          | `poe-dict.txt`      | Correct spelling of PoE NPC.
-| REGENPERCENT    | `pob-dict.txt`      | Correct combination of two words, used in PoB source code.
-| Lilylicious     | `pob-dict.txt`      | Correct spelling of a PoB contributor's name/handle.
-| CritsDontAlways | `ignore-dict.txt`   | Incorrect spelling/punctuation but we want to suppress the warning.
+| Word              | Dictionary          | Reasoning
+|-------------------|---------------------|------------------------------
+| `Atziri`          | `poe-dict.txt`      | Correct spelling, PoE NPC.
+| `REGENPERCENT`    | `pob-dict.txt`      | Correct spelling, combination of two words, used in PoB source code.
+| `Lilylicious`     | `pob-dict.txt`      | Correct spelling, PoB contributor's name/handle.
+| `pregenerated`    | `extra-en-dict.txt` | Correct spelling, English word, not in CSpell's dictionaries.
+| `CritsDontAlways` | `ignore-dict.txt`   | Incorrect spelling/punctuation, legacy GGG error found in PoE game data.<br />Add the whole thing so that *"Dont"* is still flagged elsewhere.
 
 
 ---
