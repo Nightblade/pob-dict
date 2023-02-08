@@ -61,7 +61,7 @@ If unsure, open a [new issue](https://github.com/Nightblade/pob-dict/issues/new/
 | `Atziri`          | `poe-dict.txt`      | Correct spelling, PoE NPC.
 | `REGENPERCENT`    | `pob-dict.txt`      | Correct spelling, combination of two words, used in PoB source code.
 | `Lilylicious`     | `pob-dict.txt`      | Correct spelling, PoB contributor's name/handle.
-| `pregenerated`    | `extra-en-dict.txt` | Correct spelling, English word, not in CSpell's dictionaries.
+| `pregenerated`    | `extra-en-dict.txt` | Correct spelling, English word, not in CSpell's<br /> dictionaries.
 | `CritsDontAlways` | `ignore-dict.txt`   | Incorrect spelling/punctuation, legacy GGG error found in PoE game data.<br />Add the whole thing so that *"Dont"* is still flagged elsewhere.
 
 
