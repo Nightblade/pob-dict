@@ -2,14 +2,14 @@
 {
     "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
     "version": "0.2",
-    "language": "en,en-GB",
+    "language": "en-GB,en",
     "enableGlobDot": true,
     "useGitignore": true,
     "dictionaries": [
         "poe-dict",
         "pob-dict",
         "ignore-dict",
-        "extra-en-dict.txt",
+        "extra-en-dict",
         "!aws",
         "!cryptocurrencies",
         "!ada"
