@@ -391,6 +391,7 @@ compulsor
 conflagrating
 coniraya
 convocated
+Coolus
 coralito
 corpsebloom
 corpsestitch
@@ -764,6 +765,7 @@ giantslayer
 giftyness
 gisale
 glacialcage
+Glaciator
 gladius
 Glargarryn
 glarryn
@@ -1030,6 +1032,7 @@ kishara
 kitava
 kiweth
 kiyato
+Klayver
 klopek
 knightlord
 knightmaster
@@ -1881,6 +1884,7 @@ tirn
 titanicmight
 titicius
 titucius
+Toggo's
 tombfist
 topotante
 torchoak
