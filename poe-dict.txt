@@ -104,6 +104,7 @@ ashrend
 ashscale
 ashweaver
 assailum
+Astrali
 astramentis
 astromancer
 ataguchu
@@ -327,6 +328,7 @@ carian
 carius
 cascadable
 caso
+Caspiri
 caspiro
 castable
 casticus
@@ -471,6 +473,7 @@ demonfire
 demonflame
 demontamer
 dendrobate
+Derivi
 desecratable
 deshret
 desmarais
@@ -498,6 +501,7 @@ doomcast
 doomcrow
 doomfletch
 doomguard
+doomlands
 doomsower
 doon
 doppleganger
@@ -596,6 +600,7 @@ erythrophagia
 essentia
 estazunti
 estoc
+Eterni
 ethercraft
 ethrel
 eutychus
@@ -640,6 +645,7 @@ fenumal
 fenumus
 fidelitas
 fidium
+Fiero
 filimite
 Filimites
 fireborn
@@ -696,6 +702,7 @@ flickershade
 flickerstrike
 flockmate
 FMOD
+Foaga
 forgeguard
 forgekeeper
 forgemaster
@@ -766,6 +773,7 @@ giftyness
 gisale
 glacialcage
 Glaciator
+Glacio
 gladius
 Glargarryn
 glarryn
@@ -931,6 +939,7 @@ ilvl
 immortalis
 immortalisation
 imperialus
+Imperius
 impetulant
 implicits
 impresence
@@ -1008,6 +1017,7 @@ kartarus
 karui
 karukaru
 Kaso
+Kastov
 kayella
 keybind
 keybinds
@@ -1138,6 +1148,7 @@ lunaris
 Lunaro
 lunarsworn
 lundara
+Lurici
 lussi
 luthis
 lycius
@@ -1158,6 +1169,7 @@ magmite
 mahuatzi
 mahuxotl
 Maitlin
+Maji
 makanga
 makanui
 makoru
@@ -1247,6 +1259,7 @@ mortalconviction
 mortimus
 mortumus
 morvant
+motiata
 mousewheel
 movespeed
 multicastable
@@ -1562,6 +1575,7 @@ sacrato
 sadima
 saemus
 saffell
+Sagari
 sallazzang
 sambodhi
 sanctorum
@@ -2033,6 +2047,7 @@ viridi
 visceris
 Vitali
 vitorica
+Vivici
 vivinsect
 voiceline
 voicelines
@@ -2047,6 +2062,7 @@ voidfletcher
 voidforge
 voidgate
 voidheart
+Voidhearts
 voidhome
 voidite
 voidscream
@@ -2067,6 +2083,7 @@ vsync
 vulcanist
 vulconus
 vulkan
+waikoama
 walkthrough
 wandslinger
 warband
@@ -2077,6 +2094,7 @@ warcries
 warcry
 wardbreaker
 wardog
+Wargraves
 warhammer
 warmaster
 warstaff
@@ -2152,6 +2170,7 @@ woodsplitter
 worldcarver
 wormblaster
 wraeclast
+Wraeclastian
 wraeclasts
 wraithlord
 wreckingball
