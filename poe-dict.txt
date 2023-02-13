@@ -105,6 +105,7 @@ ashscale
 ashweaver
 assailum
 Astrali
+Astralis
 astramentis
 astromancer
 ataguchu
