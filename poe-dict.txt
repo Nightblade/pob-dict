@@ -77,6 +77,7 @@ Arcmages
 arduk
 arenalord
 argient
+Arimagius
 arimor
 arin
 arinea
@@ -91,11 +92,13 @@ Armoursmithing
 arn
 arohongui
 arohungui
+ARPG
 artensia
 arteri
 arteth
 arthain
 arwyn
+Arzaak
 asenath
 asha
 ashblessed
@@ -158,6 +161,7 @@ baran
 baranite
 barbute
 barehand
+Bargg
 barius
 barkhul
 baselard
@@ -216,6 +220,8 @@ blass
 blastchain
 bleeter
 blightblade
+Blightheart
+Blightmaster
 blightraise
 blightspeaker
 blightwell
@@ -225,6 +231,7 @@ blisterfruit
 blisterlord
 blisterlords
 blockable
+Blonca
 bloodback
 bloodblessed
 bloodboil
@@ -237,6 +244,7 @@ bloodgrin
 bloodgrip
 bloodmagic
 bloodplay
+bloodpriest
 bloodpriests
 bloodreap
 bloodscent
@@ -355,6 +363,7 @@ chaosresist
 chaosweaver
 charactername
 charan
+chatbox
 chayula
 chernobog
 cherrubim
@@ -475,6 +484,7 @@ demonflame
 demontamer
 dendrobate
 Derivi
+Derrok
 desecratable
 deshret
 desmarais
@@ -995,6 +1005,7 @@ jonfé
 jorgin
 jorrhast
 jorus
+Jozen
 juatalotli
 junglemare
 junith
@@ -1017,6 +1028,7 @@ kaom
 kartarus
 karui
 karukaru
+Kasigi
 Kaso
 Kastov
 kayella
@@ -1056,6 +1068,7 @@ kongming
 kongor
 konley
 konu
+Koralus
 korangi
 korell
 kosis
@@ -1073,6 +1086,7 @@ kurai
 kurgal
 kutec
 kuto
+Kyra
 labrys
 lackwits
 lael
@@ -1134,6 +1148,7 @@ lokan
 longtooth
 lootfilter
 lordofthedead
+Lorekeeper
 lorekeepers
 loremaster
 lorenni
@@ -1248,6 +1263,7 @@ mokou
 mon'tregul
 moneypouch
 moonbender
+moondrops
 moonsorrow
 moontouched
 moosh
@@ -1478,6 +1494,7 @@ questpoints
 quetzerxi
 quetzling
 quickblood
+Quintoon
 quipolatl
 raethan
 rageblade
@@ -1517,6 +1534,7 @@ rek'tar
 relicguard
 reliquarian
 renkarr
+Repudion
 resocketing
 respawn
 respawned
@@ -1586,6 +1604,7 @@ sandstrider
 sandwhipper
 sandworn
 sanguis
+Santoni
 saqawal
 saqawals
 saqawine
@@ -1843,6 +1862,7 @@ tarcus
 targetable
 tarkleigh
 tarollo
+Taruk
 tasalio
 tasuni
 tavukai
@@ -1852,6 +1872,7 @@ tecrod
 tecton
 teklatipitzi
 telvar
+Tempestology
 temu
 terese
 tetherein
@@ -1983,6 +2004,7 @@ unshattered
 unsocket
 unsocketed
 unsocketing
+unspoofable
 unsquelch
 unsummoned
 unsurvivable
@@ -2005,6 +2027,7 @@ vaal
 vaalish
 vaalite
 vaalpact
+Vadinya
 vagan
 vakali
 valai
@@ -2177,6 +2200,7 @@ wraithlord
 wreckingball
 wrigglechaw
 wurm
+Wurmkin
 wyrm
 wyrmbone
 wyrmcaller
@@ -2213,6 +2237,7 @@ zana
 zantipi
 zeel
 zerphi
+Zhenya
 zilquapa
 zipline
 zorioc
