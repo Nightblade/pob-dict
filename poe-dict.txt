@@ -89,6 +89,7 @@ armourmaster
 armourmastery
 armoursmith
 Armoursmithing
+armsman
 arn
 arohongui
 arohungui
@@ -360,6 +361,7 @@ chainbreaker
 chainmail
 chalybeous
 chaosresist
+Chaosstorm
 chaosweaver
 charactername
 charan
@@ -1258,6 +1260,7 @@ mistwalker
 mistwall
 mjolner
 mjölner
+Mjölners
 moga
 mokou
 mon'tregul
@@ -1300,6 +1303,7 @@ narumoa
 nashta
 nasima
 nassar
+Natalia
 navali
 nebria
 nebulis
@@ -1321,9 +1325,11 @@ nethermancer
 netol
 nevali
 ngahari
+Ngakuramakoi
 ngamahu
 ngamakanui
 ngamaku
+Ngamakunui
 Ngmagakanui
 nightbearer
 nightblade
@@ -1462,6 +1468,7 @@ porcellus
 portalling
 portentia
 preethi
+presskit
 primevals
 primordius
 prismateria
@@ -1732,6 +1739,7 @@ sparkfist
 spawnable
 spawnbroker
 specularity
+speedrunning
 spellblade
 spellblock
 spellblocked
@@ -1757,6 +1765,7 @@ sporeplume
 spriggan
 spriggans
 springleaf
+squabblings
 stabby
 stamatis
 stantinus
@@ -1914,6 +1923,7 @@ tilesets
 timeclasp
 timestop
 timetwist
+Timeworn
 tinevin
 tinkerskin
 tirn
