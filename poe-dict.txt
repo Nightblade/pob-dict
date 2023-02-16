@@ -625,6 +625,7 @@ exartze
 excellis
 exertable
 exilecon
+exilings
 extantia
 eyepecker
 ezomyr
@@ -665,6 +666,7 @@ fireborn
 firebreath
 firebuzz
 firemage
+Firemages
 fireshot
 firesong
 firespeaker
@@ -1346,6 +1348,7 @@ nimis
 nomic
 nonunique
 novynn
+NPCS
 nubuck
 nuro
 nycta
@@ -1540,6 +1543,7 @@ reflectable
 rek'tar
 relicguard
 reliquarian
+Reliquarians
 renkarr
 Repudion
 resocketing
