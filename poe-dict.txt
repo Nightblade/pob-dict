@@ -252,6 +252,7 @@ bloodscent
 bloodscouring
 bloodseeker
 bloodshaper
+Bloodshapers
 bloodsoaked
 bloodstorm
 bloodthirst
@@ -1019,6 +1020,7 @@ kacha
 kadaka
 kadaris
 kadavrus
+Kaikohuru
 kalandra
 kalguur
 kalguuran
@@ -1583,6 +1585,7 @@ romira
 roseus
 rotblood
 rotfeather
+Roths
 rothus
 rotmother
 royale
@@ -1930,6 +1933,7 @@ timetwist
 Timeworn
 tinevin
 tinkerskin
+Tipua
 tirn
 titanicmight
 titicius
