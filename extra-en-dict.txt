@@ -1,6 +1,7 @@
 activatable
 bilesome
 boobytrapped
+bypassable
 Cabalist
 chieftainess
 Conflux
@@ -31,6 +32,7 @@ shockwave
 Splinterer
 Sublimator
 tankier
+Unblockable
 unfreezable
 unreserving
 unstack
