@@ -13,10 +13,12 @@ argstr
 arimo
 astextplain
 atks
+attackspeed
 attackspeedsworddex
 attribs
 attributereq
 auraareaofeffect
+autoattack
 autocrlf
 autoequip
 automagical
@@ -34,6 +36,8 @@ bottomleft
 bottomright
 brittlebg
 brushwith
+castspeed
+casttime
 celuck
 centerduelist
 centermarauder
@@ -42,6 +46,7 @@ centerscion
 centershadow
 centertemplar
 centerwitch
+charactername
 chargedex
 checkmark
 chillbg
@@ -61,6 +66,7 @@ criticaldaggerdex
 ctof
 ctrpetersen
 curr
+cwdt
 czarandy
 damagev
 dbjorge
@@ -112,6 +118,7 @@ flat
 freezebg
 friedl
 frodon1
+fullscreen
 funcs
 fussilade
 fwidm
@@ -126,7 +133,6 @@ giflib
 glext
 glovesatlasdex
 gowor
-groupless
 hdwatts
 headerfunction
 helyos96
@@ -145,12 +151,15 @@ inoc
 intelli
 ipairs
 ipresolve
+itemlevel
 ivniinvi
 jfarrell731
 jfindley
 jorrhasts
 jppianta
 justinmclapperton
+keybind
+keybinds
 keychain
 khronos
 kkienzle
@@ -199,6 +208,8 @@ michelrtm
 minionbuff
 monerofglory
 morilli
+mousewheel
+movespeed
 msysgit
 mthjones
 mult
@@ -218,6 +229,10 @@ offhandbg
 oidx
 oljomo
 olop4444
+oneaxe
+onehand
+onemace
+onesword
 oodle
 otherwords
 pagedown
@@ -228,7 +243,6 @@ pastebinp
 patchumz
 peechey
 perc
-percent
 perhundredthousand
 perma
 pfeigl
@@ -243,11 +257,6 @@ poeskilltree
 poeurl
 postfields
 ppoelzl
-predecided
-pregenerate
-pregenerated
-premade
-prenamed
 priceasc
 prolif
 puddlestomper
@@ -279,6 +288,7 @@ sapbg
 schroedi
 scorchbg
 scristall
+scrollspeed
 selectchar
 setfenv
 setopt
@@ -304,7 +314,6 @@ statlist
 steamapps
 stenberg
 stunlocked
-subtables
 summ1else
 summone
 superball
@@ -315,7 +324,6 @@ takenv
 talkmill
 tangzx
 tansheron
-teleportations
 thumbstick
 tickbox
 tickboxes
@@ -334,16 +342,14 @@ turmfalke
 tvalue
 tvalues
 twiz-ahk
+twoaxe
+twohand
+twomace
+twomelee
+twosword
 ubers
 uilman
 unalloc
-unallocating
-unbuffed
-unfetch
-unfetched
-unrescuable
-unsavoured
-unsortable
 urganot
 useragent
 userprofile

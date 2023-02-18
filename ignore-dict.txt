@@ -1,6 +1,7 @@
 _atleast_
 AffectedByPurityof
 AtlasCruasderJudgeFadingNova
+atlaspassives
 basetakenFlat
 BlockedDamageDoesntBypassES
 BoltSpammableLeft
