@@ -689,6 +689,7 @@ flamechaser
 flamecore
 flameguard
 flamelord
+Flamelords
 flamescale
 flamesight
 flamespitting
@@ -1892,6 +1893,7 @@ Tempestology
 temu
 terese
 tetherein
+Tetzlapokal
 tevarus
 thaumatocracy
 thaumetic
