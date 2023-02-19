@@ -34,6 +34,7 @@ alhamba
 alira
 alivia
 allflame
+Alliston
 aloris
 alsarus
 amanamu
@@ -382,6 +383,7 @@ coniraya
 convocated
 Coolus
 coralito
+Corin
 corpsebloom
 corpsestitch
 corpsewalker
@@ -451,6 +453,7 @@ demonfire
 demonflame
 demontamer
 dendrobate
+Denirus
 Derivi
 Derrok
 deshret
@@ -814,6 +817,7 @@ handfinger
 hapihapi
 hargan
 harpyon
+Hartlin
 hasina
 hatchetmaster
 hatebeat
@@ -1588,6 +1592,7 @@ silverbranch
 silverwood
 sinvicta
 siosa
+Sirrius
 sirus
 skadi
 sketh

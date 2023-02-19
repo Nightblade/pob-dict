@@ -30,6 +30,7 @@ corbies
 craftable
 crystalised
 dataminable
+datamine
 datamined
 datamining
 deatomisation
