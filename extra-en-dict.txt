@@ -6,6 +6,7 @@ arcanist
 arcanists
 augmentable
 backburner
+barbequed
 barehand
 beheader
 berserking
@@ -72,6 +73,7 @@ interactable
 interactables
 intoxicatingly
 leeched
+Machinegun
 mana
 marauder
 motherlode
@@ -171,6 +173,7 @@ unsocketing
 unsortable
 unspoofable
 unstack
+unsummon
 unsummoned
 unsurvivable
 untargetable

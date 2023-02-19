@@ -12,6 +12,7 @@ adderstouch
 adiyah
 adus
 aetherwind
+afkoff
 agiel
 agnar
 agnerax
@@ -474,6 +475,7 @@ divinia
 docere
 doedre
 Dominus
+donotdisturb
 doomcast
 doomcrow
 doomfletch
@@ -504,6 +506,7 @@ dreamquest
 drillneck
 droolmaw
 droolscar
+droprate
 droughtspawn
 drox
 druggery
@@ -871,6 +874,7 @@ hoofprints
 hopeshredder
 horticrafting
 hortus
+hotbar
 hotfix
 hotfixed
 hotfixes
@@ -931,6 +935,7 @@ ironwoodtotem
 irwen
 isildria
 isla
+itemfilter
 itemfilters
 ixtolatl
 izaro
@@ -1280,6 +1285,7 @@ nightwatch
 nightwind
 niko
 nimis
+nochat
 nomic
 nonunique
 novynn
@@ -1311,6 +1317,7 @@ oriath
 oriathan
 oriathans
 oriathian
+Oriathians
 ormud
 orolath
 orra
@@ -1458,6 +1465,7 @@ razorleaf
 razorleg
 razormaw
 realmshaper
+recoveroldcraftingbenchitem
 redbeak
 redblade
 reefbane
@@ -1544,6 +1552,7 @@ scinteel
 scissorblades
 scourgelord
 screenshake
+seaborn
 seaglass
 seawitch
 sebbert
@@ -1833,6 +1842,7 @@ Tipua
 tirn
 titanicmight
 titucius
+togglenochat
 Toggo
 tombfist
 topotante
@@ -1840,6 +1850,7 @@ torchoak
 toru
 toruul
 toxicist
+tradewith
 transmutia
 trarthan
 trarthus
