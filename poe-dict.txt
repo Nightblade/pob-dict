@@ -795,7 +795,6 @@ gruthkul
 gryffon
 guatelitzi
 guildmates
-gulton
 guraq
 gururu
 gwayne
@@ -892,7 +891,6 @@ icestorm
 icestorms
 icetomb
 iceweaver
-icey
 ichimonji
 icius
 igna
@@ -1816,7 +1814,6 @@ thunderhand
 thundersight
 thunderskull
 thunderstrike
-thundrous
 tibbs
 ticaba
 tidebreaker
@@ -1830,7 +1827,6 @@ tinkerskin
 Tipua
 tirn
 titanicmight
-titicius
 titucius
 Toggo
 tombfist
@@ -2051,7 +2047,6 @@ wintermage
 winterweave
 wiraq
 wiraqucha
-wisened
 witchbane
 witchfire
 witchhunter

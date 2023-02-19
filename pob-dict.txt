@@ -145,7 +145,6 @@ ifnjeff
 imlua
 imsjp
 increasedrunspeeddex
-indicies
 indx
 inoc
 intelli
