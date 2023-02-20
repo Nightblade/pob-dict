@@ -52,6 +52,7 @@ elementalists
 encounterable
 episcopicide
 equippable
+equivariant
 exertable
 famishment
 fishies

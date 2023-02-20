@@ -169,6 +169,7 @@ labstr
 lcurl
 leafo
 leftbutton
+lefthand
 leftn
 levelreq
 lexy

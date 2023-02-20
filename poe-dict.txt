@@ -1005,6 +1005,7 @@ kishara
 kitava
 kiweth
 kiyato
+Kjetilbrann
 Klayver
 klopek
 knightlord
@@ -1088,6 +1089,7 @@ litanius
 lithomancer
 lithomancy
 llyr
+lmperialus
 lochtonial
 lockpick
 lockpicking
@@ -1228,6 +1230,7 @@ mortumus
 morvant
 motiata
 multicastable
+Multiclone
 multiprojectile
 multisale
 multistrike
@@ -1266,6 +1269,7 @@ Netcode
 nethermancer
 netol
 nevali
+Nevalius
 ngahari
 Ngakuramakoi
 ngamahu
@@ -1618,6 +1622,7 @@ skullbearer
 skullbreaker
 skullcracking
 skullhead
+skyborn
 skycaller
 skyfire
 skyforth
@@ -1963,6 +1968,7 @@ voidbearer
 voidbearers
 voidborn
 voidbringer
+Voidbringers
 voidcore
 voideye
 voidfletcher
