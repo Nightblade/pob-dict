@@ -386,6 +386,7 @@ Coolus
 coralito
 Corin
 corpsebloom
+Corpsesnitch
 corpsestitch
 corpsewalker
 cospri
@@ -441,6 +442,7 @@ deathmarked
 deathnotch
 deatomization
 debeon
+debuffing
 decurve
 deepcrush
 deepthoughts
@@ -459,6 +461,7 @@ Derivi
 Derrok
 deshret
 desmarais
+despawns
 devoto
 dhih
 dhunan
@@ -562,6 +565,7 @@ endboss
 endbringer
 energyshield
 eoin
+EOUTOFMEMORY
 ephij
 ephrexis
 eramir
@@ -634,6 +638,7 @@ firestarter
 fishscale
 fixmyhelmet
 flamebearer
+Flamebearers
 flamebeast
 flameblast
 flameblood
@@ -719,6 +724,7 @@ garhall
 garivaldi
 garuda
 garukhan
+gaunts
 gavuum
 gazuul
 gehennix
@@ -1140,6 +1146,7 @@ Maitlin
 Maji
 makanga
 makanui
+Makora
 makoru
 malachai
 malachus
@@ -1204,6 +1211,7 @@ miniondamage
 mipmap
 mirageblast
 mirebough
+misclicks
 mishne
 mistwalker
 mistwall
@@ -1231,6 +1239,7 @@ morvant
 motiata
 multicastable
 Multiclone
+Multiproj
 multiprojectile
 multisale
 multistrike
@@ -1289,9 +1298,13 @@ nightwatch
 nightwind
 niko
 nimis
+noasync
 nochat
+nologo
 nomic
 nonunique
+nopatch
+nopreload
 novynn
 NPCS
 nubuck
@@ -1354,6 +1367,7 @@ panthera
 paquate
 paradisae
 paradoxica
+Paradoxicas
 patchumz
 pathed
 pathofexile
@@ -1423,6 +1437,7 @@ protovaal
 puhuarte
 pukeko
 pulseblood
+Pulsebloods
 puresteel
 puruna
 pusbag
@@ -1479,6 +1494,9 @@ reliquarian
 Reliquarians
 renkarr
 Repudion
+resourcelogcreate
+resourcelogmainresolve
+resourcelogslowresolve
 respec
 restartlessly
 Retchs
@@ -1568,6 +1586,7 @@ selenia
 seleslatha
 sentari
 sephirot
+Septimus
 serpentscale
 serpentstance
 serverside
@@ -1638,6 +1657,7 @@ snowblind
 snowcaller
 snowforged
 softcore
+softwareaudio
 soilmaker
 solarborn
 solarine
@@ -1997,6 +2017,7 @@ vulcanist
 vulconus
 vulkan
 waikoama
+waitforpreload
 walkthrough
 wandslinger
 warband
