@@ -389,6 +389,7 @@ corpsebloom
 Corpsesnitch
 corpsestitch
 corpsewalker
+Corutino
 cospri
 cragfall
 craghead
@@ -463,6 +464,7 @@ deshret
 desmarais
 despawns
 devoto
+Dexion
 dhih
 dhunan
 diablo
@@ -509,6 +511,7 @@ dreamquest
 drillneck
 droolmaw
 droolscar
+dropbear
 droprate
 droughtspawn
 drox
@@ -641,6 +644,7 @@ flamebearer
 Flamebearers
 flamebeast
 flameblast
+Flameblasts
 flameblood
 flamebloods
 flameborn
@@ -825,6 +829,7 @@ handcast
 handfinger
 hapihapi
 hargan
+Harimal
 harpyon
 Hartlin
 hasina
@@ -849,6 +854,7 @@ heatshiver
 heavydraw
 hedron
 helial
+Hellbringer
 hellscape
 hellscaping
 hematophagy
@@ -1053,6 +1059,7 @@ Landren
 lani
 lantador
 lanternbearer
+Lanternbearers
 lategame
 lathaniel
 lavalash
