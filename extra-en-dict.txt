@@ -47,7 +47,9 @@ despawn
 desummoned
 desync
 desynced
+detonatable
 doodad
+durationless
 echoings
 eclipsis
 elementalist
@@ -61,6 +63,7 @@ famishment
 fishies
 gibberings
 giftyness
+Grandaddy
 greaters
 groupless
 hericide
@@ -98,6 +101,7 @@ premade
 prenamed
 presynthesized
 progenesis
+Prophecised
 putrify
 reanimator
 reanimators
