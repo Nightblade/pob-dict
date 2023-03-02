@@ -12,6 +12,7 @@ backburner
 barbequed
 barehand
 beheader
+Bellum
 berserking
 bilesome
 bloodthirst
