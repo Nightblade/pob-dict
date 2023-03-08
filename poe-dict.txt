@@ -734,6 +734,7 @@ gavuum
 gazuul
 gehennix
 gemcutter
+gemcutter's
 gemcutters
 gemcutting
 gemling
@@ -901,6 +902,7 @@ hydrascale
 hyperboreal
 hyperboreus
 hyrri
+Hyrri's
 hyseria
 hysteriagate
 icebearer
@@ -952,6 +954,7 @@ itemfilter
 itemfilters
 ixtolatl
 izaro
+Izaro's
 izioc
 jaesyn
 jaetai
@@ -1164,6 +1167,7 @@ manabond
 manaconduit
 manastorm
 manaweave
+Maracle
 Marak
 maraketh
 maramoa
@@ -1698,6 +1702,7 @@ spellblocked
 spellbreaker
 spellcasting
 spellcraft
+Spellmaster
 spellslinger
 spiderling
 spiderlings
@@ -1811,6 +1816,7 @@ talin
 tamipin
 tamulus
 tane
+Tāne
 tangmazu
 tantalo
 tapuna
@@ -1961,6 +1967,7 @@ varrich
 varunastra
 vastir
 vastiri
+Veinslicer
 venarius
 vendigo
 venenum
