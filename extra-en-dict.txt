@@ -63,6 +63,7 @@ equivariant
 exertable
 famishment
 fishies
+Geist
 gibberings
 giftyness
 Grandaddy
@@ -133,6 +134,7 @@ scrying
 selectability
 shockwave
 siphoner
+Skald
 slitherer
 socketable
 soundcard
@@ -206,4 +208,5 @@ upgradability
 uppercrusts
 vampiric
 vapourising
+vendored
 windchimes
