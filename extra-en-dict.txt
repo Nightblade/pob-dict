@@ -56,6 +56,7 @@ echoings
 eclipsis
 elementalist
 elementalists
+emanant
 encounterable
 episcopicide
 equippable
