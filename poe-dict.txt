@@ -4,6 +4,7 @@ abberarach
 Abberath
 Abberath's
 abberathine
+Abyssals
 Abyssus
 achioc
 acidbeak
@@ -1334,8 +1335,8 @@ misclicks
 mishne
 mistwalker
 mistwall
-Mjölner
 mjolner
+Mjölner
 Mjölners
 moga
 Mokou
