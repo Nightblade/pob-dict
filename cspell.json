@@ -42,14 +42,18 @@
         }
     ],
     "ignoreRegExpList": [
-        // Colour hex codes (ex ^xADAA47)
+        // Colour hex codes (eg ^xADAA47)
         "/\\^x[\\w]{6}/",
-        // "manifeste?d?" ModParser.lua
-        "/manifeste\\?d\\?/",
-        // "[Ss]econds" Generated.lua
-        "/\\[Ss\\]econds/",
-        // "immun[ei]t?y?" ModParser.lua
-        "/immun\\[ei\\]t\\?y\\?/"
+        // "manifeste?" ModParser.lua
+        "/manifeste\\?/",
+        // "]econds" Generated.lua
+        "/\\]econds/",
+        // "immun[" ModParser.lua
+        "/immun\\[/",
+        // "[hgdf" ModParser.lua
+        "/\\[hgdf/",
+        // "[viar" ModParser.lua
+        "/\\[viar/"
     ],
     "globRoot": "${cwd}",
     "ignorePaths": [
@@ -121,8 +125,6 @@
         "targetting"
     ],
     "enableFiletypes": [
-        "ignore",
-        "properties",
         "asciidoc",
         "c",
         "cpp",
@@ -131,22 +133,24 @@
         "git-commit",
         "go",
         "html",
+        "ignore",
         "java",
         "javascript",
         "javascriptreact",
         "json",
         "jsonc",
+        "lua",
         "markdown",
         "php",
         "plaintext",
+        "properties",
         "python",
         "text",
         "typescript",
         "typescriptreact",
         "vue",
+        "xml",
         "yaml",
-        "yml",
-        "lua",
-        "xml"
+        "yml"
     ]
 }
