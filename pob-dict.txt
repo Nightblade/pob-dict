@@ -36,6 +36,8 @@ bottomleft
 bottomright
 brittlebg
 brushwith
+CapnJack22
+cardbeard
 castspeed
 casttime
 celuck
@@ -96,6 +98,7 @@ downloadcharlist
 dpsprice
 dreais
 dropdowns
+dshebib
 dullson
 durationof
 edvinas
@@ -207,6 +210,7 @@ metatable
 michelrtm
 minionbuff
 monerofglory
+moojustice1
 morilli
 mousewheel
 movespeed
