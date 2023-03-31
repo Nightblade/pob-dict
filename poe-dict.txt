@@ -2281,6 +2281,7 @@ whirlingstaff
 whispersteps
 wickerman
 wideswing
+Widowhail
 widowmaker
 widowsilk
 wildlands
