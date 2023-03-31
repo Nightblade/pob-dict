@@ -1,3 +1,4 @@
+_atleast_
 abyssa
 accountname
 accuracydex
@@ -12,7 +13,6 @@ apxeolog
 argstr
 arimo
 astextplain
-atks
 attackspeed
 attackspeedsworddex
 attribs
@@ -26,6 +26,7 @@ avatarofthe
 azperin
 baranio
 basecost
+basetakenFlat
 basicsof
 bblarney
 benjaminysmall
@@ -62,6 +63,7 @@ cond
 conv
 cooldown
 cooldowns
+CountAllocNodes
 cousine
 cpath
 criticaldaggerdex
@@ -71,6 +73,7 @@ curr
 cwdt
 czarandy
 damagev
+DavidBindloss
 dbjorge
 dbronkalla06
 dclamage
@@ -140,9 +143,12 @@ hdwatts
 headerfunction
 helyos96
 heraldof
+hexeaktivitat
+highSurr
 hitbox
 hogm
 httpheader
+icdr
 ierusalimschy
 ifnjeff
 imlua
@@ -184,6 +190,7 @@ lightn
 lilylicious
 lordmotas
 lothrik
+lowSurr
 lpath
 lpolaright
 lshift
@@ -201,6 +208,7 @@ malloc
 manatext
 matchstring
 maxdepth
+meatballing
 medott29
 meepen
 melnichenko
@@ -250,6 +258,8 @@ perc
 perhundredthousand
 perma
 pfeigl
+PgDn
+PgUpatks
 phiney
 pjacek
 pluspercent
@@ -262,6 +272,7 @@ poeurl
 postfields
 ppoelzl
 priceasc
+probs
 prolif
 puddlestomper
 pundm
@@ -283,6 +294,8 @@ regisle
 regurgitator
 reminderstring
 rentry
+RFES
+RGBWA
 rightbutton
 roastpiece
 rshift
@@ -296,6 +309,7 @@ scrollspeed
 selectchar
 setfenv
 setopt
+SharpandBrittle
 sherardy
 shockbg
 showtitlebarname
@@ -317,12 +331,14 @@ statictt
 statlist
 steamapps
 stenberg
+stro
 stunlocked
 summ1else
 summone
 superball
 superchance
 superparent
+Sust
 szathmáry
 takenv
 talkmill
@@ -351,6 +367,7 @@ twoaxe
 twohand
 twomace
 twomelee
+twostonering
 twosword
 ubers
 uilman
@@ -366,6 +383,7 @@ voronoff
 vuln
 wheeldown
 wheelup
+Wires77
 wjdeclan
 writefunction
 wrzoski
@@ -373,5 +391,6 @@ xcopy
 xmesaj2
 yamin
 zizaran
+zmike
 zpooks
 zuiia
