@@ -383,7 +383,8 @@ chaosstorm
 chaosweaver
 charan
 chatbox
-chayula
+Chayula
+Chayula's
 Chernobog
 Chernobog's
 Cherrubim
@@ -732,6 +733,7 @@ flarus
 flashfire
 flashfires
 flashpowder
+Fled's
 fleetfoot
 fleetfreak
 fleshbinding
@@ -763,6 +765,7 @@ frenzyhound
 frosal
 frosis
 frostblink
+Frostblink's
 frostbolt
 frostbolts
 frostborn
@@ -1269,6 +1272,7 @@ Maligaro's
 mammothcage
 manabond
 manaconduit
+manaforged
 manastorm
 manaweave
 Maracle
@@ -1327,6 +1331,7 @@ mindweave
 miniboss
 minibosses
 minigame
+minimap
 miniondamage
 mipmap
 mirageblast
@@ -1365,6 +1370,7 @@ Multiclone
 Multiproj
 multiprojectile
 multisale
+multishot
 multistrike
 multistrikeable
 multithrow
@@ -1402,8 +1408,6 @@ Nessa's
 nestback
 netcode
 nethermancer
-Netol
-Netol's
 nevali
 Nevalius
 ngahari
@@ -1432,6 +1436,7 @@ nochat
 nologo
 Nomic
 Nomic's
+non-Vaal
 nonunique
 nopatch
 nopreload
@@ -1542,6 +1547,7 @@ piken
 pikerivet
 pileah
 piratebane
+Piscator's
 pitfighter
 pitworm
 pitworms
@@ -2062,6 +2068,8 @@ treants
 trialmaster
 trialmasters
 trickshot
+Triggerbot
+Triggerbots
 trinian
 tripyxis
 triskeriaki
@@ -2117,6 +2125,8 @@ uruk
 Utula
 Utula's
 utzaal
+Uul-Netol
+Uul-Netol's
 uzar
 Uzaza
 Uzaza's
