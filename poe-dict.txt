@@ -1937,6 +1937,7 @@ stormheart
 stormmage
 stormrider
 stormsail
+Stormseeker
 stormshroud
 stormstrider
 stormstruck
