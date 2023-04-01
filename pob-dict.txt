@@ -86,6 +86,7 @@ deciseconds
 degenflat
 degenpercent
 degens
+dekkofilms
 dervishe
 deton
 dewaths
