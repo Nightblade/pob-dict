@@ -114,6 +114,7 @@ reanimator
 reanimators
 reave
 reaver
+recalc
 recombinator
 recombinators
 recrafted
