@@ -429,6 +429,7 @@ Corin
 corpsebloom
 Corpsesnitch
 corpsestitch
+corpsewalk
 corpsewalker
 Corutino
 Cospri
@@ -525,6 +526,7 @@ dimachaeri
 direblade
 dirigeant
 dismemberer
+dispellable
 divinarius
 divini
 Divinia
@@ -627,6 +629,7 @@ encephalophage
 endboss
 endbringer
 energyshield
+Enoroa
 eoin
 EOUTOFMEMORY
 ephij
@@ -805,6 +808,7 @@ gemcutter
 gemcutter's
 gemcutters
 gemcutting
+Gemfish
 gemling
 gemlings
 geodite
@@ -1136,6 +1140,7 @@ korangi
 Korell
 Korell's
 kosis
+Koura
 Kraityn
 Kraityn's
 krangled
@@ -1210,6 +1215,7 @@ lioneyes
 litanius
 lithomancer
 lithomancy
+lithophysa
 llyr
 lmperialus
 lochtonial
@@ -1263,6 +1269,7 @@ Maitlin
 Maji
 makanga
 makanui
+Makohuarau
 Makora
 makoru
 Malachai
@@ -1333,6 +1340,7 @@ miniboss
 minibosses
 minigame
 minimap
+minimaps
 miniondamage
 mipmap
 mirageblast
@@ -1344,6 +1352,7 @@ mistwall
 mjolner
 Mjölner
 Mjölners
+Moeanu
 moga
 Mokou
 Mokou's
@@ -1419,6 +1428,7 @@ ngamakanui
 ngamaku
 Ngamakunui
 Ngmagakanui
+Ngoiro
 nightbearer
 nightblade
 nightbringer
@@ -1680,6 +1690,7 @@ riverways
 rockchewer
 Rockpools
 roguelike
+Roha
 rollem
 Romira
 Romira's
@@ -1997,6 +2008,7 @@ Tasalio's
 Tasuni
 Tasuni's
 tavukai
+Tawatawa
 tawhoa
 Tawm'r
 Tecrod
@@ -2043,6 +2055,8 @@ Tibbs
 Tibbs's
 ticaba
 tidebreaker
+Tikati
+Tikiheme
 tilesets
 timeclasp
 timestop
@@ -2084,6 +2098,7 @@ tsarsk
 tsoagoth
 tsoatha
 tuahu
+Tuatini
 Tujen
 Tujen's
 Tukohama
