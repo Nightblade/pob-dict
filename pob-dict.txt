@@ -260,7 +260,7 @@ perhundredthousand
 perma
 pfeigl
 PgDn
-PgUpatks
+PgUp
 phiney
 pjacek
 pluspercent
