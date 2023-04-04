@@ -33,6 +33,7 @@ collidable
 conflagrating
 conflux
 corbies
+corruptor
 craftable
 crystalised
 dataminable
@@ -215,4 +216,5 @@ uppercrusts
 vampiric
 vapourising
 vendored
+warmaker
 windchimes
