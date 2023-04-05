@@ -263,6 +263,7 @@ bloodeater
 bloodgrin
 bloodgrip
 bloodmagic
+Bloodnotch
 bloodplay
 bloodpriest
 bloodpriests
@@ -1616,6 +1617,7 @@ pyroshock
 q'ura
 qarl
 Qianga
+Qiongqi
 Qotra
 Qotra's
 quecholli
