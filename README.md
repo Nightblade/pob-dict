@@ -64,7 +64,27 @@ If unsure, open a [new issue](https://github.com/Nightblade/pob-dict/issues/new/
 | `pregenerated`    | `extra-en-dict.txt` | Correct spelling, English word, not in CSpell's<br /> dictionaries.
 | `CritsDontAlways` | `ignore-dict.txt`   | Incorrect spelling/punctuation, legacy GGG error found in PoE game data.<br />Add the whole thing so that *"Dont"* is still flagged elsewhere.
 
+### Flowchart
+```mermaid
+flowchart TD
+  correct{Correct\nSpelling?}
+  correct -- Yes --> english
+  correct -- No  --> ignore-dict.txt
 
+  english{Standard\nEnglish?}
+  english -- Yes --> extra-en-dict.txt
+  english -- No  -->
+
+  poe{PoE-Specific?}
+  poe -- Yes --> poe-dict.txt
+  poe -- No  -->
+
+  pob{PoB-Specific?}
+  pob -- Yes --> pob-dict.txt
+  pob -- No  --> 
+
+  user_error[ask Nighty]
+```
 ---
 
 ## License
