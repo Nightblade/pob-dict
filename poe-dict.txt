@@ -657,7 +657,7 @@ Ewar
 Ewar's
 exartze
 excellis
-exilecon
+ExileCon
 exilings
 extantia
 eyepecker
@@ -861,7 +861,6 @@ Gomin
 gorebreaker
 goredrill
 gorgol
-goroshi
 gorulis
 grandmastery
 granitecrush
@@ -1482,6 +1481,7 @@ omnitect
 Ondar
 Ondar's
 ondars
+Oni-Goroshi
 oozeback
 opden
 openarl
@@ -2268,6 +2268,7 @@ Wargraves
 warhammer
 warmaster
 warstaff
+warstave
 warstaves
 watchstone
 Watchstoned
