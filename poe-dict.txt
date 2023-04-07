@@ -1281,6 +1281,7 @@ Maligaro's
 mammothcage
 manabond
 manaconduit
+manaforge
 manaforged
 manastorm
 manaweave
