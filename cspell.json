@@ -50,10 +50,10 @@
         "/\\]econds/",
         // "immun[" ModParser.lua
         "/immun\\[/",
-        // "[hgdf" ModParser.lua
-        "/\\[hgdf/",
-        // "[viar" ModParser.lua
-        "/\\[viar/"
+        // "[hgdf]", "[viar]" ModParser.lua
+        "/\\[(hgdf|viar)\\]/",
+        // "[efcl]", "[erlg]", "[medh]" CalcPerform.lua
+        "/\\[(efcl|erlg|medh)\\]/"
     ],
     "globRoot": "${cwd}",
     "ignorePaths": [
