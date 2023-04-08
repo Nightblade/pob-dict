@@ -294,6 +294,7 @@ regenpercent
 regexes
 regisle
 regurgitator
+rejuv
 reminderstring
 rentry
 RFES
