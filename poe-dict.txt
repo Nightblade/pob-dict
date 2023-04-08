@@ -1,3 +1,4 @@
+A'alai
 Abaxoth
 Abaxoth's
 abberarach
@@ -1602,7 +1603,8 @@ progressors
 projectilespeed
 protoguard
 protovaal
-puhuarte
+Puhuarte
+Puhuarte's
 pukeko
 pulseblood
 Pulsebloods
@@ -1615,8 +1617,8 @@ pyromancer
 pyromancers
 pyromantic
 pyroshock
-q'ura
-qarl
+Q'ura
+Qarl
 Qianga
 Qiongqi
 Qotra
@@ -2376,6 +2378,7 @@ Xoph
 Xoph's
 xoplotli
 xuatl
+Y'ara'az
 yaksha
 Yaomac
 Yaomac's
