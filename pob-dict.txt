@@ -299,6 +299,7 @@ reminderstring
 rentry
 RFES
 RGBWA
+Ribel
 rightbutton
 roastpiece
 rshift
