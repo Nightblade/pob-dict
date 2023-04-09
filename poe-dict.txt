@@ -1166,6 +1166,7 @@ labrys
 lackwits
 lael
 laffrey
+Lahar
 Lakishu
 Lakishu's
 Landren
@@ -2076,6 +2077,7 @@ tinevin
 tinkerskin
 Tipua
 tirn
+Titanian
 titanicmight
 titucius
 togglenochat
