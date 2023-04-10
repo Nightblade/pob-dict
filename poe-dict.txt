@@ -195,6 +195,7 @@ beartraps
 beastcraft
 beastcrafted
 beastcrafting
+Beastcrafts
 beastmaster
 beidat
 belatra
@@ -312,6 +313,8 @@ braom
 bravadi
 bravalo
 breachlord
+Breachlord
+Breachlord's
 breachlords
 breachspawn
 breachstone
@@ -381,6 +384,7 @@ chaber
 chainbreaker
 chainmail
 chalybeous
+Chaosborn
 chaosresist
 chaosstorm
 chaosweaver
