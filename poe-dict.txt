@@ -777,6 +777,7 @@ freidrich
 frenzyhound
 frosal
 frosis
+Frostbearer
 frostblink
 Frostblink's
 frostbolt
@@ -1670,9 +1671,11 @@ razorleaf
 razorleg
 razormaw
 realmshaper
+recombinate
 recoveroldcraftingbenchitem
 redbeak
 redblade
+Redblades
 reefbane
 rek'tar
 relicguard
