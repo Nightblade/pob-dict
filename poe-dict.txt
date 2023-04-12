@@ -962,6 +962,7 @@ hexclaw
 hexfont
 hexproof
 hextouch
+hextouched
 hexwarded
 hexwarding
 Hezmana
