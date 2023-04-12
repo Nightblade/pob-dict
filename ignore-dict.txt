@@ -1,4 +1,6 @@
+AnnointOnly
 AtlasCruasderJudgeFadingNova
+AtlasnodeGroup
 AtlasPassiveSkillTreeGroupType
 BlockedDamageDoesntBypassES
 CritsDontAlways
