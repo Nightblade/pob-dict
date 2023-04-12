@@ -432,7 +432,6 @@ compulsor
 coniraya
 convocated
 Coolus
-Cooldown
 Coralito
 Coralito's
 Corin
