@@ -73,6 +73,7 @@
         "./src/Data/Bases/*",
         "./src/Data/ClusterJewels.lua",
         "./src/Data/Costs.lua",
+        "./src/Data/Crucible.lua",
         "./src/Data/EnchantmentBelt.lua",
         "./src/Data/EnchantmentBody.lua",
         "./src/Data/EnchantmentBoots.lua",
