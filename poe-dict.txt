@@ -741,6 +741,7 @@ flamestrider
 flametosser
 flameweaver
 flameweeper
+flamewood
 flaric
 flarus
 flashfire
