@@ -120,6 +120,7 @@ fanof
 fialhofabio
 findexplicit
 findimplicit
+fira
 firstword
 flaskdex
 flat
@@ -136,6 +137,7 @@ gepl
 getaccountname
 getsessionid
 ggpk
+ghember
 gianna
 giflib
 glext
@@ -168,6 +170,7 @@ jfindley
 jorrhasts
 jppianta
 justinmclapperton
+karlji
 keybind
 keybinds
 keychain
@@ -177,6 +180,7 @@ kloss
 kolf
 kolhell
 labstr
+Lancej
 lcurl
 leafo
 leftbutton
