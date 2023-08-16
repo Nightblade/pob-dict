@@ -38,6 +38,7 @@ bottomleft
 bottomright
 brittlebg
 brushwith
+busterw
 CapnJack22
 cardbeard
 castspeed
@@ -312,6 +313,7 @@ rightbutton
 roastpiece
 rshift
 Rulesets
+ryuukk
 sakux323
 saloeater
 sapbg
