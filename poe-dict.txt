@@ -497,6 +497,7 @@ deathmage
 deathmark
 deathmarked
 deathnotch
+deathwarden
 deatomization
 Debeon
 Debeon's
@@ -716,6 +717,7 @@ firesong
 firespeaker
 firespout
 firestarter
+firewalker
 fishscale
 fixmyhelmet
 flamebearer
@@ -1013,6 +1015,7 @@ ichimonji
 icius
 igna
 ignomon
+Ikiaho
 ilevel
 ilevels
 ilvl
@@ -1083,6 +1086,7 @@ kacha
 kadaka
 kadaris
 kadavrus
+Kahuturoa
 Kaikohuru
 Kalandra
 Kalandra's
@@ -1266,6 +1270,7 @@ lycosidae
 lysah
 m'gaska
 m'uneh
+Maata
 machinarium
 macrotaen
 maelström
@@ -1381,6 +1386,7 @@ Moonbender's
 moondrops
 moonsorrow
 moontouched
+moonwarden
 moosh
 morgrants
 mori
@@ -1716,6 +1722,7 @@ Roha
 rollem
 Romira
 Romira's
+rongokurai
 roseus
 rotblood
 rotfeather
@@ -2034,6 +2041,7 @@ Tasuni
 Tasuni's
 tavukai
 Tawatawa
+Tawhanuku
 tawhoa
 Tawm'r
 Tecrod
@@ -2080,6 +2088,7 @@ Tibbs
 Tibbs's
 ticaba
 tidebreaker
+tideshifter
 Tikati
 Tikiheme
 tilesets
@@ -2279,6 +2288,7 @@ walkthrough
 wandslinger
 warband
 warbands
+warcaller
 warchief
 warcried
 warcries
