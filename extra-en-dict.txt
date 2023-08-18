@@ -162,6 +162,7 @@ tankier
 tanky
 targetable
 teleportations
+thundrous
 triggerable
 trypophobia
 Uber
