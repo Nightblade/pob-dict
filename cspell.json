@@ -67,6 +67,7 @@
         "cspell.json",
         "./runtime/*",
         "./src/Builds/*",
+        "./src/Export/spec.lua",
         "./src/Settings.xml", // User file
         /* ************************ Auto-generated files from here down ************************ */
         "./src/Data/Bases/*",
@@ -101,7 +102,6 @@
         "./src/Data/TimelessJewelData/*",
         "./src/Data/Uniques/Special/WatchersEye.lua",
         "./src/Export/Minions/*",
-        // "./src/Export/spec.lua",
         "./src/Export/Tree/*",
         "./src/TreeData/*"
     ],
