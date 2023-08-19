@@ -2,6 +2,7 @@ _atleast_
 abyssa
 accountname
 accuracydex
+accuracyint
 aggixx
 ajryan
 aletrop
@@ -259,6 +260,10 @@ otherwords
 pagedown
 pageup
 paliak
+passiveoverridelimits
+passiveskilloverrides
+passiveskilloverridetypes
+passiveskilltattoos
 pastebin
 pastebinp
 patchumz
