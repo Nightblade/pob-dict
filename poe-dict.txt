@@ -561,6 +561,7 @@ doven
 draconarius
 draconides
 dragonbone
+dragonfang
 dragonfire
 dragonscale
 drakeling
