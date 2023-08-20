@@ -179,6 +179,7 @@ uncompletes
 unconfirm
 unconfirming
 uncursed
+undamageable
 undeath
 unequip
 unequippable
