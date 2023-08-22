@@ -264,6 +264,7 @@ passiveoverridelimits
 passiveskilloverrides
 passiveskilloverridetypes
 passiveskilltattoos
+passiveskilltattootargetsets
 pastebin
 pastebinp
 patchumz
