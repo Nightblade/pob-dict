@@ -95,6 +95,7 @@ deton
 dewaths
 dexjewel
 disjunto
+displayminionmonstertype
 dkjson
 dlmalloc
 dmgattacks
