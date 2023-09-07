@@ -99,6 +99,7 @@
         "./src/Data/Skills/*.lua",
         "./src/Data/Spectres.lua",
         "./src/Data/StatDescriptions/*",
+        "./src/Data/TattooPassives.lua",
         "./src/Data/TimelessJewelData/*",
         "./src/Data/Uniques/Special/WatchersEye.lua",
         "./src/Export/Minions/*",
