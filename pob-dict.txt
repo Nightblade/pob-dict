@@ -69,6 +69,7 @@ cooldowns
 CountAllocNodes
 cousine
 cpath
+CrazieJester
 criticaldaggerdex
 ctof
 ctrpetersen
@@ -172,6 +173,7 @@ jfarrell731
 jfindley
 jorrhasts
 jppianta
+jsiebern
 justinmclapperton
 karlji
 keybind
