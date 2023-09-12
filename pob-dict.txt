@@ -199,6 +199,8 @@ libjpeg
 libooz
 lightn
 lilylicious
+loadout
+loadouts
 localidentity
 lordmotas
 lothrik
