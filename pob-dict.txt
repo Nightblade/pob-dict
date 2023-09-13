@@ -102,6 +102,7 @@ dlmalloc
 dmgattacks
 dmgboth
 dmgspells
+Dogist
 dolmur
 downloadcharlist
 dpsprice
