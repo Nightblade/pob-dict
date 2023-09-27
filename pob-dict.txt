@@ -40,6 +40,7 @@ bottomright
 brittlebg
 brushwith
 busterw
+bxor
 CapnJack22
 cardbeard
 castspeed
