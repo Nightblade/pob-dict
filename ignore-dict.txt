@@ -4,6 +4,7 @@ AtlasnodeGroup
 AtlasPassiveSkillTreeGroupType
 BlockedDamageDoesntBypassES
 CritsDontAlways
+CritsOnYouDont
 display_abberaths_hooves
 dontSplitEvade
 FireballIncusionFire
