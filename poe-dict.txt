@@ -1820,6 +1820,7 @@ shimmeron
 shivershell
 shiversting
 shivrul
+Shiyo
 shockbomb
 shocknova
 shockproofing
@@ -2013,6 +2014,7 @@ surgefiend
 susara
 sutrus
 swiftbrand
+swordstorm
 synthete
 tabula
 tacati
