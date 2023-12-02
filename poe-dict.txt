@@ -805,6 +805,7 @@ galecaller
 galesight
 Galhad
 galvano
+Gamblesprint
 gamewide
 garemon
 garena
@@ -1055,6 +1056,8 @@ Isla
 Isla's
 itemfilter
 itemfilters
+Ixchel
+Ixchel's
 ixtolatl
 Izaro
 Izaro's
