@@ -2,7 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
     "version": "0.2",
     "language": "en-GB,en",
-    "enableGlobDot": true,
+    "enableGlobDot": false,
     "useGitignore": true,
     "dictionaries": [
         "poe-dict",
@@ -11,7 +11,9 @@
         "extra-en-dict",
         "!aws",
         "!cryptocurrencies",
-        "!ada"
+        "!ada",
+        "lua",
+        "cpp"
     ],
     "dictionaryDefinitions": [
         {
@@ -64,7 +66,7 @@
         "*.zip",
         ".git",
         ".gitattributes",
-        "cspell.json",
+        "**/cspell.json",
         "./runtime/*",
         "./src/Builds/*",
         "./src/Export/spec.lua",
