@@ -1,4 +1,4 @@
-name: 'spellcheck'
+name: 'Check spelling'
 
 on:
   pull_request:
