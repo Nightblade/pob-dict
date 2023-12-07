@@ -171,6 +171,7 @@ unallocating
 unblockable
 unbreathing
 unbuffed
+uncancellable
 uncarved
 uncastable
 uncompletable
