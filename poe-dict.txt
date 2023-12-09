@@ -1420,6 +1420,7 @@ myrae
 mysterial
 namelock
 namelocking
+Nametaker
 namharim
 napora
 napuatzi
