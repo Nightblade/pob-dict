@@ -10,7 +10,6 @@ display_abberaths_hooves
 dontSplitEvade
 FireballIncusionFire
 FireballIncusionLightning
-gemeffects
 ingame
 intimidating_cry_empowerd_attacks_deal_double
 quality_display_incinerate_is_gem_ingite
