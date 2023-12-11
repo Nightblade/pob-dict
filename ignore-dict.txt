@@ -29,7 +29,7 @@ SummonBeastialRhoa
 SummonBeastialSnake
 SummonBeastialUrsa
 SummonRigwaldsPack
-SumonRaging
+SumonRagingSpiritMelee
 SupportUniqueCosprisMaliceColdSpellsCastOn
 TBHellscapePaleLightningBoltSpammableLeft
 triggeredByCospris
