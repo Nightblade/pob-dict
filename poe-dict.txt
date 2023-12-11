@@ -709,6 +709,7 @@ fidium
 Fiero
 filimite
 filimites
+Firebeam
 fireborn
 firebreath
 firebuzz
@@ -1817,6 +1818,7 @@ shardcrown
 sharktooth
 sharnath
 shattershard
+Shav's
 Shavronne
 Shavronne's
 sheaq
