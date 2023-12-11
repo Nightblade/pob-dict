@@ -20,6 +20,7 @@ FireballIncusionFire
 FireballIncusionLightning
 gemeffects
 gemitemvisualeffect
+gemvisualeffect
 ingame
 intimidating_cry_empowerd_attacks_deal_double
 quality_display_incinerate_is_gem_ingite
@@ -28,6 +29,7 @@ SummonBeastialRhoa
 SummonBeastialSnake
 SummonBeastialUrsa
 SummonRigwaldsPack
+SumonRaging
 SupportUniqueCosprisMaliceColdSpellsCastOn
 TBHellscapePaleLightningBoltSpammableLeft
 triggeredByCospris
