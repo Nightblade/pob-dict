@@ -141,8 +141,6 @@ fussilade
 fwidm
 gamemode
 geal
-gemeffects
-gemitemvisualeffect
 gepl
 getaccountname
 getsessionid
