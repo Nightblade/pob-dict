@@ -790,6 +790,7 @@ frostbolts
 frostborn
 frostbreath
 frostburn
+Frostfall
 frostferno
 frostflower
 frostguard
