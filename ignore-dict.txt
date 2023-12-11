@@ -10,6 +10,7 @@ AtlasnodeGroup
 AtlasPassiveSkillTreeGroupType
 azmerifeaturerooms
 azmerilifescalingperlevel
+Azmiri
 BlockedDamageDoesntBypassES
 CritsDontAlways
 CritsOnYouDont
