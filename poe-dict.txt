@@ -10,7 +10,6 @@ Abyssus
 achioc
 acidbeak
 actaeo
-actiontypes
 actum
 adamantite
 adderstouch
@@ -134,7 +133,6 @@ ataguchu
 atalui
 Atazek
 atmohua
-atttached
 atui
 Aturi
 Atziri
@@ -168,8 +166,6 @@ azmeri
 azmerian
 azmerians
 Azmiri
-azmerilifescalingperlevel
-azmerifeaturerooms
 azyran
 baeclast
 balabus
@@ -715,7 +711,6 @@ fidium
 Fiero
 filimite
 filimites
-firebeam
 fireborn
 firebreath
 firebuzz
