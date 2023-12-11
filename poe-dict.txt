@@ -466,7 +466,6 @@ Cybil
 Cybil's
 cystcaller
 daluatti
-Damagevs
 damoi
 danai
 Dannig
@@ -643,7 +642,6 @@ endboss
 endbringer
 energyshield
 Enoroa
-Ensorcelled
 eoin
 EOUTOFMEMORY
 ephij
