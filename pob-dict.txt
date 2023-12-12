@@ -228,6 +228,7 @@ makensis
 mallah
 malloc
 manatext
+markoleptic
 matchstring
 maxdepth
 meatballing
