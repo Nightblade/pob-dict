@@ -12,6 +12,7 @@ All `.txt` files listed below are `plaintext`, `UTF-8`, `LF`-`EOL`, with a singl
 | [pob-dict.txt](pob-dict.txt) | Words specific to PoB development and associated files.
 | [ignore-dict.txt](ignore-dict.txt) | Words to be ignored by CSpell.
 | [extra-en-dict.txt](extra-en-dict.txt) | Extra English words that are not in CSpell's dictionaries.
+| [contribs-dict.txt](contribs-dict.txt) | GitHub contributor's login names.  Auto-generated, do not edit manually.
 | [spellcheck.yml](docs/spellcheck.yml) | Example GitHub workflow using [`cspell-action`](https://github.com/streetsidesoftware/cspell-action).
 
 
@@ -60,7 +61,6 @@ If unsure, open a [new issue](https://github.com/Nightblade/pob-dict/issues/new/
 |-------------------|---------------------|------------------------------
 | `Atziri`          | `poe-dict.txt`      | Correct spelling, PoE NPC.
 | `REGENPERCENT`    | `pob-dict.txt`      | Correct spelling, combination of two words, used in PoB source code.
-| `Lilylicious`     | `pob-dict.txt`      | Correct spelling, PoB contributor's name/handle.
 | `pregenerated`    | `extra-en-dict.txt` | Correct spelling, English word, not in CSpell's<br /> dictionaries.
 | `CritsDontAlways` | `ignore-dict.txt`   | Incorrect spelling/punctuation, legacy GGG error found in PoE game data.<br />Add the whole thing so that *"Dont"* is still flagged elsewhere.
 
