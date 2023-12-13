@@ -1,4 +1,4 @@
-name: 'Check spelling'
+name: 'Spell Checker'
 
 on:
   pull_request:
@@ -29,7 +29,8 @@ jobs:
             ${{ env.CONFIG_URL }}/pob-dict.txt \
             ${{ env.CONFIG_URL }}/poe-dict.txt \
             ${{ env.CONFIG_URL }}/ignore-dict.txt \
-            ${{ env.CONFIG_URL }}/extra-en-dict.txt
+            ${{ env.CONFIG_URL }}/extra-en-dict.txt \
+            ${{ env.CONFIG_URL }}/contribs-dict.txt
 
       - name: Run cspell
         uses: streetsidesoftware/cspell-action@v2.4.0
