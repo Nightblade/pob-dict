@@ -9,6 +9,7 @@
         "pob-dict",
         "ignore-dict",
         "extra-en-dict",
+        "contribs-dict",
         "!aws",
         "!cryptocurrencies",
         "!ada",
