@@ -40,6 +40,13 @@
             "path": "./extra-en-dict.txt",
             "description": "Extra English dictionary",
             "addWords": true
+        },
+        {
+            "name": "contribs-dict",
+            "path": "./contribs-dict.txt",
+            "description": "Contrubutor's names dictionary",
+            "addWords": false,
+            "noSuggest": true
         }
     ],
     "ignoreRegExpList": [
