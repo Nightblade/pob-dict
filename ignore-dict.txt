@@ -14,6 +14,7 @@ Azmiri
 BladeBlastof
 Bladefallof
 BladeFlurryof
+BlightofContagionMaxStages
 BlockedDamageDoesntBypassES
 corpsetypetags
 CritsDontAlways
@@ -21,12 +22,16 @@ CritsOnYouDont
 Cycloneof
 DamagevsNon
 display_abberaths_hooves
+DivineIreofHolyLightningStage
 dontSplitEvade
 DoubleStrikeof
 Earthquakeof
 Exsanguinateof
+EyeOfWinterofFinality
 FireballIncusionFire
 FireballIncusionLightning
+FlameblastofCelerityStage
+FrostBombofForthcoming
 gemeffects
 gemitemvisualeffect
 gemvisualeffect
@@ -40,6 +45,7 @@ Perforateof
 quality_display_incinerate_is_gem_ingite
 ReaveofRefraction
 RejuvinationTotem
+ScorchingRayofImmolationStageAfterFirst
 SummonBeastialRhoa
 SummonBeastialSnake
 SummonBeastialUrsa
