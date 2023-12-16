@@ -15,6 +15,7 @@ BladeBlastof
 Bladefallof
 BladeFlurryof
 BlockedDamageDoesntBypassES
+corpsetypetags
 CritsDontAlways
 CritsOnYouDont
 Cycloneof
@@ -32,6 +33,7 @@ gemvisualeffect
 InfernalBlowof
 ingame
 intimidating_cry_empowerd_attacks_deal_double
+itemisedcorpse
 LancingSteelof
 LightningArrowof
 Perforateof
