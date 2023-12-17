@@ -11,6 +11,7 @@ andrewbelu
 AnSq
 APXEOLOG
 aron-w
+asvanberg
 ax1m
 Azperin
 baranio
@@ -87,6 +88,7 @@ JadedCricket
 jfarrell731
 jfindley
 johnhargrove
+jopotochny
 jppianta
 JustinmClapperton
 karlji
@@ -111,6 +113,7 @@ madinsane
 magnusvmt
 Mamotromico
 MarcLandis
+markoleptic
 MaxKruse
 mboiev
 meatballing
@@ -201,8 +204,8 @@ tommysays
 Torchery
 twiz-git
 Typepluto
-U-n-Own
 uilman
+U-n-Own
 Urganot
 VaticViolet
 Voronoff
