@@ -712,6 +712,7 @@ Firebeam
 fireborn
 firebreath
 firebuzz
+Firefury
 firemage
 Firemages
 fireshot
