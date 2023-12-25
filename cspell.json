@@ -79,6 +79,8 @@
         "./src/Builds/*",
         "./src/Export/spec.lua",
         "./src/Settings.xml", // User file
+        "Dockerfile",
+        "docker-compose.yml",
         /* ************************ Auto-generated files from here down ************************ */
         "./src/Data/Bases/*",
         "./src/Data/ClusterJewels.lua",
