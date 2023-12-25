@@ -17,6 +17,7 @@ BladeFlurryof
 BlightofAtrophy
 BlightofContagion
 BlockedDamageDoesntBypassES
+BUILDCACHEPREFIX
 corpsetypetags
 CritsDontAlways
 CritsOnYouDont
