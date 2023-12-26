@@ -600,6 +600,7 @@ eard
 Earendel
 Earendel's
 earthbreaker
+Earthbreaking
 eartheater
 earthshatter
 Eber
@@ -889,6 +890,7 @@ graverobbers
 Gravicius
 Gravicius's
 greatsword
+Greatswords
 greatwolf
 greedtrap
 greengate
