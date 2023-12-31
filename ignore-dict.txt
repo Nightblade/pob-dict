@@ -42,9 +42,11 @@ indexablesupportgems
 InfernalBlowof
 ingame
 intimidating_cry_empowerd_attacks_deal_double
+itemclasscategories
 itemisedcorpse
 LancingSteelof
 LightningArrowof
+miniontype
 PenanceBrandof
 Perforateof
 quality_display_incinerate_is_gem_ingite
