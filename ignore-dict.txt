@@ -18,6 +18,7 @@ BlightofAtrophy
 BlightofContagion
 BlockedDamageDoesntBypassES
 BUILDCACHEPREFIX
+BUILDLINKS
 corpsetypetags
 CritsDontAlways
 CritsOnYouDont
