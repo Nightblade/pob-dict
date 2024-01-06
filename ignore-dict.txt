@@ -19,6 +19,7 @@ BlightofContagion
 BlockedDamageDoesntBypassES
 BUILDCACHEPREFIX
 BUILDLINKS
+CACHEDIR
 corpsetypetags
 CritsDontAlways
 CritsOnYouDont
