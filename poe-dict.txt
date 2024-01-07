@@ -1924,6 +1924,7 @@ spinecrack
 spinecruncher
 spinefuse
 spinesnap
+Spinestorm
 spiritblade
 spiritflicker
 splintermind
