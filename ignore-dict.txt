@@ -41,6 +41,7 @@ FrostBombofForthcoming
 gemeffects
 gemitemvisualeffect
 gemvisualeffect
+GSRoboHoundBellyDamage
 indexableskillgems
 indexablesupportgems
 InfernalBlowof
@@ -61,6 +62,7 @@ skillgem
 SummonBeastialRhoa
 SummonBeastialSnake
 SummonBeastialUrsa
+summonedspecificmonsters
 SummonRigwaldsPack
 SumonRagingSpiritMelee
 SupportUniqueCosprisMaliceColdSpellsCastOn
