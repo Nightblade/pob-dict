@@ -1,5 +1,6 @@
 _atttached_
 a2adad
+ABTTAzmeriBasaliskShroud
 actiontypes
 AnimalCharmAreaofEffect
 AnimalCharmEnchange
@@ -8,6 +9,7 @@ AnnointOnly
 AtlasCruasderJudgeFadingNova
 AtlasnodeGroup
 AtlasPassiveSkillTreeGroupType
+AzmeriBasiliskDecapThrust
 azmerifeaturerooms
 azmerilifescalingperlevel
 Azmiri
