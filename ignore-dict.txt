@@ -31,6 +31,7 @@ display_abberaths_hooves
 DivineIreof
 dontSplitEvade
 DoubleStrikeof
+Dragonfangs
 Earthquakeof
 Exsanguinateof
 EyeOfWinterof
