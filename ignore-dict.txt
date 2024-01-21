@@ -2,6 +2,7 @@ _atttached_
 a2adad
 ABTTAzmeriBasaliskShroud
 actiontypes
+alternatequalitytypes
 AnimalCharmAreaofEffect
 AnimalCharmEnchange
 AnimalCharmUnaffectedby
@@ -27,6 +28,7 @@ CritsDontAlways
 CritsOnYouDont
 Cycloneof
 DamagevsNon
+dat
 display_abberaths_hooves
 DivineIreof
 dontSplitEvade
@@ -39,6 +41,7 @@ FireballIncusionFire
 FireballIncusionLightning
 Flameblastof
 FrostBombofForthcoming
+gameconstants
 gemeffects
 gemitemvisualeffect
 gemvisualeffect
@@ -68,7 +71,10 @@ SummonRigwaldsPack
 SumonRagingSpiritMelee
 SupportUniqueCosprisMaliceColdSpellsCastOn
 TBHellscapePaleLightningBoltSpammableLeft
+trademarketcategory
+trademarketcategorygroups
 triggeredByCospris
 unique_cospris_malice_cold_spells_triggered
 unique_hyrris_truth
 UniqueCosprisMalice
+weaponclasses
