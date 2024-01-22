@@ -1770,6 +1770,7 @@ sandspitters
 sandstrider
 sandwhipper
 sandworn
+Sanguimancer
 sanguis
 Santoni
 Saqawal
