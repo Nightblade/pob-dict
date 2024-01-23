@@ -1,7 +1,6 @@
 _atttached_
 a2adad
-ABTTAzmeriBasaliskShroud
-ABTTAzmeriShepherdSpellDamage
+ABTTAzmeri
 actiontypes
 alternatequalitytypes
 AnimalCharmAreaofEffect
