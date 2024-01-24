@@ -1,6 +1,7 @@
 _atttached_
 a2adad
 ABTTAzmeri
+ABTTAzmeriBasaliskShroud
 actiontypes
 alternatequalitytypes
 AnimalCharmAreaofEffect
