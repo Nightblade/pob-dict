@@ -121,7 +121,8 @@
         "./src/Data/Uniques/Special/WatchersEye.lua",
         "./src/Export/Minions/*",
         "./src/Export/Tree/*",
-        "./src/TreeData/*"
+        "./src/TreeData/*",
+        "manifest.xml",
     ],
     "flagWords": [
         "casted",
