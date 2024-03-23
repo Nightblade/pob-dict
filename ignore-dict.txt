@@ -57,6 +57,7 @@ itemisedcorpse
 LancingSteelof
 LightningArrowof
 miniontype
+monsterconditions
 PenanceBrandof
 Perforateof
 quality_display_incinerate_is_gem_ingite
