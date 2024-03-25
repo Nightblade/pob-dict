@@ -164,6 +164,7 @@ tanky
 targetable
 teleportations
 thundrous
+transfigurable
 triggerable
 trypophobia
 Uber
