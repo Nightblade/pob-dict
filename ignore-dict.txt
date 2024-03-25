@@ -64,6 +64,7 @@ quality_display_incinerate_is_gem_ingite
 ReaveofRefraction
 RejuvinationTotem
 ScorchingRayofImmolation
+SDPS
 skillgem
 SummonBeastialRhoa
 SummonBeastialSnake
