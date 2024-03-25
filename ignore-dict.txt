@@ -80,3 +80,5 @@ unique_cospris_malice_cold_spells_triggered
 unique_hyrris_truth
 UniqueCosprisMalice
 weaponclasses
+DPS
+SDPS
