@@ -3,7 +3,7 @@
 Dictionaries and [Code Spell Checker](https://cspell.org/) (CSpell) config files for [Path Of Building Community](https://github.com/PathOfBuildingCommunity/PathOfBuilding) (PoB) code development. 
 
 ## Components
-All `.txt` files listed below are `plaintext`, `UTF-8`, `LF`-`EOL`, with a single word per line.
+All `*-dict.txt` contain a single word-per-line, and are plain-text, `UTF-8`, `LF`-`EOL`, sorted ascending case insensitive. 
 
 | Filename                       | Description
 | ------------------------------ | -----------
