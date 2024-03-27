@@ -32,6 +32,7 @@ celuck
 chinhodado
 Chuanhsing
 chx
+Ciccooz
 cloudily
 CrazieJester
 ctrpetersen
@@ -172,12 +173,13 @@ QuantumScribble
 quashtaki
 QuickStick123
 Quotae
-randomflyingtaco
 Random-Panda
+randomflyingtaco
 rasmuskl
 raylu
 RealWhimsy
 Regisle
+rexfox147
 Ribel38
 roastpiece
 RuriRyan
@@ -211,8 +213,8 @@ tommysays
 Torchery
 twiz-git
 Typepluto
-uilman
 U-n-Own
+uilman
 Urganot
 VaticViolet
 Voronoff
