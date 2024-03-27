@@ -98,6 +98,7 @@ findimplicit
 firstword
 flaskdex
 flat
+fmtlib
 freezebg
 friedl
 fullscreen
@@ -151,6 +152,7 @@ libbun
 libcurl
 libjpeg
 libooz
+libsodium
 lightn
 loadout
 loadouts
@@ -224,6 +226,7 @@ prestack
 priceasc
 probs
 prolif
+pureftpd
 pyro
 quals
 realloc
@@ -320,3 +323,4 @@ writefunction
 xcopy
 yamin
 zizaran
+Zverovich
