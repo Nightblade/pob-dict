@@ -46,7 +46,7 @@
             "name": "contribs-dict",
             "path": "./contribs-dict.txt",
             "description": "Contrubutor's names dictionary",
-            "addWords": false,
+            "addWords": true,
             "noSuggest": true
         }
     ],
