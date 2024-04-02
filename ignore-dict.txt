@@ -63,6 +63,7 @@ Perforateof
 quality_display_incinerate_is_gem_ingite
 ReaveofRefraction
 RejuvinationTotem
+Reservationwatcher
 ScorchingRayofImmolation
 SDPS
 skillgem
