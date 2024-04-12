@@ -17,6 +17,7 @@ attribs
 attributereq
 auraareaofeffect
 autoattack
+autocast
 autocrlf
 autoequip
 automagical
