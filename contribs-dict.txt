@@ -1,3 +1,4 @@
+0xjc
 7e11
 a3person
 abashurov
@@ -97,6 +98,7 @@ jopotochny
 jppianta
 JustinmClapperton
 justjuangui
+KaoXinRei
 karlji
 Kayella
 kayokalinauskas
@@ -139,11 +141,13 @@ mthjones
 mullinger
 mweber15
 Myzreal
+n1tr0xs
 nathanrobb
 nelchael
 NickRyder
 NiekvanderLinden
 Nightblade
+NL908
 norepro
 Nostrademous
 nrardin
@@ -204,7 +208,9 @@ summ1else
 synotim
 talkmill
 tansheron
+tbiering
 temmings
+teroshan
 teuneboon
 tgavankar
 TiagoGoddard
@@ -232,3 +238,4 @@ zebben
 zmike
 Zpooks
 Zuiia
+zwglau
