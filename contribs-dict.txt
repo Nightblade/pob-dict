@@ -144,6 +144,7 @@ Myzreal
 n1tr0xs
 nathanrobb
 nelchael
+Nerotox
 NickRyder
 NiekvanderLinden
 Nightblade
@@ -218,6 +219,7 @@ Tivorak
 TMorf
 tommysays
 Torchery
+trimbe
 twiz-git
 Typepluto
 uilman
