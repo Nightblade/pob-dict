@@ -138,6 +138,7 @@ rocksalt
 rollable
 royale
 scion
+scry
 scrying
 selectability
 shockwave
@@ -159,6 +160,7 @@ subprojectiles
 subtables
 summonable
 synthesised
+tagless
 tankier
 tanky
 targetable

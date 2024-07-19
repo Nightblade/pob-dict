@@ -152,6 +152,7 @@ aurid
 auriot
 aurseize
 aurumvorax
+Autoexertion
 Autonomir
 autoreply
 auxium
@@ -203,6 +204,7 @@ beastmaster
 beidat
 belatra
 belcer
+Belltower
 beltimber
 benric
 Berek
@@ -248,6 +250,8 @@ blightblade
 Blightheart
 Blightmaster
 blightraise
+blightreach
+blightspawn
 blightspeaker
 blightwell
 blinkflame
@@ -1100,8 +1104,9 @@ Kahuturoa
 Kaikohuru
 Kalandra
 Kalandra's
-kalguur
-kalguuran
+Kalguur
+Kalguuran
+Kalguurans
 Kalisa
 Kalisa's
 kall
@@ -1129,6 +1134,7 @@ kiloava
 Kimbey
 kineticism
 kingsguard
+Kingsmarch
 kinslayer
 kintsugi
 Kira
@@ -1286,6 +1292,7 @@ maelström
 Maelströms
 magebane
 mageblood
+magebloods
 magebloom
 mageguard
 magjar
@@ -1400,6 +1407,7 @@ moosh
 morgrants
 mori
 morpher
+Mórrigan
 morsu
 mortalbane
 mortalconviction
@@ -1844,6 +1852,7 @@ silverbranch
 silverwood
 Sinvicta
 Sinvicta's
+Sione
 Siosa
 Siosa's
 Sirrius
@@ -2127,6 +2136,7 @@ toruul
 toxicist
 tradewith
 transmutia
+Trapsetter
 trarthan
 trarthus
 treant
