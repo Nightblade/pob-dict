@@ -2032,6 +2032,7 @@ surgebinders
 surgefiend
 susara
 sutrus
+Svalinn
 swiftbrand
 swordstorm
 synthete
@@ -2435,6 +2436,8 @@ Yeena
 Yeena's
 Ylfeban
 Ylfeban's
+Ynda
+Ynda's
 yorishi
 Yriel
 Yriel's
