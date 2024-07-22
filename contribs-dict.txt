@@ -2,6 +2,7 @@
 7e11
 a3person
 abashurov
+acoudray
 admSla
 ae9213b
 aidanjryan
@@ -36,6 +37,7 @@ Chuanhsing
 chx
 Ciccooz
 cloudily
+cooperaustinj
 CrazieJester
 ctrpetersen
 czarandy
@@ -48,6 +50,8 @@ dclamage
 deathbeam
 deiga
 Devlin1991
+dicsantana
+DieMango
 disjunto
 Dogist
 Dolmur
@@ -80,6 +84,7 @@ Gomsoo
 gtosh4
 H2NCH2COOH
 ha107642
+HashBR
 hdwatts
 Helyos96
 henbe
