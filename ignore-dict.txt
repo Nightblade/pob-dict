@@ -61,6 +61,7 @@ miniontype
 monsterconditions
 PenanceBrandof
 Perforateof
+physical_damamge_reduction
 pobbin
 quality_display_incinerate_is_gem_ingite
 ReaveofRefraction
