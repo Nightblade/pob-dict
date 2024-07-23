@@ -66,7 +66,9 @@
         // list of typos in generatedUniques.lua (may want to remove in future if PR #7245 isn't merged)
         "/\\[\"(Enchange|Blockedin|Areaof|Exposureon|Unaffectedby)\"\\]/",
         // "enem[yi]e?s?" src/Modules/ModParser.lua
-        "/enem\\[yi\\]e\\?s\\?/",
+        "/enem\\[y/",
+        // "bleedi?n?g?" src/Modules/ModParser.lua
+        "/bleedi\\?n/",
     ],
     "globRoot": "${cwd}",
     "ignorePaths": [
