@@ -134,6 +134,7 @@ borisbsv
 bsthomsen
 bullgaria
 busterw
+canuysal
 carloscastrodev
 cbinners
 celuck
@@ -205,6 +206,7 @@ mweber15
 n1tr0xs
 nathanrobb
 nelchael
+nobelv
 norepro
 nrardin
 oljomo
