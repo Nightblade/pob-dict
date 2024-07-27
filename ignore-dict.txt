@@ -4,10 +4,10 @@ ABTTAzmeri
 ABTTAzmeriBasaliskShroud
 actiontypes
 alternatequalitytypes
-AnimalCharmAreaofEffect
 AnimalCharmEnchange
 AnimalCharmUnaffectedby
 AnnointOnly
+Areaof
 AtlasCruasderJudgeFadingNova
 AtlasnodeGroup
 AtlasPassiveSkillTreeGroupType
@@ -40,6 +40,7 @@ Exsanguinateof
 EyeOfWinterof
 FireballIncusionFire
 FireballIncusionLightning
+FistofWar
 Flameblastof
 FrostBombofForthcoming
 gameconstants
