@@ -119,6 +119,7 @@ Arzaak
 Asenath
 Asenath's
 asha
+Ashbark
 ashblessed
 ashcaller
 ashrend
@@ -1371,6 +1372,7 @@ microfreezes
 microtransaction
 microtransactions
 miem
+Mightblood
 mightflay
 minara
 minddrinker
@@ -1502,6 +1504,7 @@ Nuro
 Nuro's
 Nycta
 Nycta's
+Oakbranch
 Oathbreaker
 Oathkeeper
 Oba
@@ -1761,6 +1764,7 @@ runeflaring
 runegleaming
 runemaster
 runeshining
+Runesmithing
 ruthlessfilter
 Ryslatha
 Ryslatha's
@@ -1814,6 +1818,7 @@ Sentari
 Sentari's
 sephirot
 Septimus
+Serle's
 serpentscale
 serpentstance
 serverside
@@ -1942,6 +1947,7 @@ spiritblade
 spiritflicker
 splintermind
 splitnewt
+Sporebloom
 sporebreath
 Sporeburst
 sporeguard
