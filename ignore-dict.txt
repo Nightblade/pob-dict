@@ -79,6 +79,7 @@ SummonBeastialUrsa
 summonedspecificmonsters
 SummonRigwaldsPack
 SumonRagingSpiritMelee
+supporttriggerelementalspellonblock
 SupportUniqueCosprisMaliceColdSpellsCastOn
 TBHellscapePaleLightningBoltSpammableLeft
 Tornadoof
