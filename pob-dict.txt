@@ -145,6 +145,7 @@ kolf
 labstr
 lcurl
 leafo
+leaguenames
 leftbutton
 lefthand
 levelreq
