@@ -1759,6 +1759,8 @@ runebinder
 runeblast
 runeblazing
 runecaster
+Runecraft
+Runecrafting
 runed
 runeflaring
 runegleaming
