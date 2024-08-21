@@ -2424,6 +2424,7 @@ wyrmcaller
 wyrmlord
 wyrmscale
 wyrmsign
+Wyvernscale
 xandro
 xenathar
 xenozak
