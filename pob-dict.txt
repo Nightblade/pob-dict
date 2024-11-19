@@ -33,7 +33,6 @@ bottomright
 brittlebg
 brushwith
 bxor
-calcs
 cardbeard
 castspeed
 casttime
@@ -54,8 +53,6 @@ colourblind
 combobox
 commandline
 cond
-config
-configs
 conv
 cooldown
 cooldowns
@@ -88,7 +85,6 @@ dmgboth
 dmgspells
 downloadcharlist
 dpsprice
-dropdown
 dropdowns
 durationof
 edvinas
