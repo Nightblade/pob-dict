@@ -26,6 +26,7 @@ basecost
 basetakenFlat
 basicsof
 blahblahdrugs
+bnot
 boogaloo
 Borisas
 bottomleft
@@ -179,6 +180,7 @@ melnichuk
 metamods
 metatable
 minionbuff
+modlist
 mousewheel
 movespeed
 msysgit
@@ -250,6 +252,7 @@ rightbutton
 rshift
 Rulesets
 sapbg
+schar
 scorchbg
 scrollspeed
 selectchar
