@@ -24,6 +24,7 @@ BlockedDamageDoesntBypassES
 BUILDCACHEPREFIX
 BUILDLINKS
 CACHEDIR
+contribs
 corpsetypetags
 CritsDontAlways
 CritsOnYouDont
