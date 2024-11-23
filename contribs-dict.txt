@@ -251,6 +251,7 @@ summ1else
 synotim
 talkmill
 tansheron
+tarekis
 tbiering
 temmings
 teroshan
