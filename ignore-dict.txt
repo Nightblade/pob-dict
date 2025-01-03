@@ -31,6 +31,7 @@ CritsOnYouDont
 Cycloneof
 DamagevsNon
 dat
+datc
 display_abberaths_hooves
 DivineIreof
 dontSplitEvade
