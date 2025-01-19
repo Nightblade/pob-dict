@@ -2,6 +2,7 @@ _atttached_
 a2adad
 ABTTAzmeri
 ABTTAzmeriBasaliskShroud
+accurary
 actiontypes
 alternatequalitytypes
 AnimalCharmEnchange
@@ -38,6 +39,7 @@ dontSplitEvade
 DoubleStrikeof
 Dragonfangs
 Earthquakeof
+Encumberance
 Exsanguinateof
 EyeOfWinterof
 FireballIncusionFire
@@ -63,6 +65,7 @@ leeche
 LightningArrowof
 Logik
 miniontype
+momnetum
 monsterconditions
 PenanceBrandof
 Perforateof
