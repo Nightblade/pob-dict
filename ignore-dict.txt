@@ -59,12 +59,14 @@ intimidating_cry_empowerd_attacks_deal_double
 itemclasscategories
 itemisedcorpse
 LancingSteelof
+leeche
 LightningArrowof
 Logik
 miniontype
 monsterconditions
 PenanceBrandof
 Perforateof
+perp
 physical_damamge_reduction
 pobbin
 quality_display_incinerate_is_gem_ingite

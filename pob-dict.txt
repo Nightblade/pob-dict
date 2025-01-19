@@ -123,6 +123,7 @@ highSurr
 hitbox
 hogm
 Hotcool
+hotswap
 httpheader
 icdr
 ierusalimschy
@@ -227,6 +228,7 @@ poesessid
 poeskilltree
 poeurl
 postfields
+Prct
 prestack
 priceasc
 probs
@@ -323,6 +325,7 @@ vari
 vintnering
 viromancer
 vuln
+Weap
 wheeldown
 wheelup
 writefunction
