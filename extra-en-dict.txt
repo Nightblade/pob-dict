@@ -33,6 +33,7 @@ cauteriser
 chieftainess
 collidability
 collidable
+commandable
 conflagrating
 conflux
 corbies
@@ -74,6 +75,7 @@ gibberings
 giftyness
 grandaddy
 greaters
+Greathelm
 groupless
 hericide
 heterochromia
@@ -143,6 +145,7 @@ scry
 scrying
 selectability
 shockwave
+Shortbow
 siphoner
 skald
 slitherer

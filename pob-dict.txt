@@ -97,6 +97,7 @@ eyeofthe
 fanof
 findexplicit
 findimplicit
+Firebolt
 firstword
 flaskdex
 flat
@@ -176,6 +177,7 @@ malloc
 manatext
 matchstring
 maxdepth
+Maxroll
 melnichenko
 melnichuk
 metamods
@@ -276,6 +278,7 @@ statdesc
 statgroup
 statictt
 statlist
+statset
 steamapps
 stenberg
 stro

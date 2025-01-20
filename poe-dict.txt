@@ -21,6 +21,7 @@ Aerisvane's
 Aeterno
 aetherwind
 afkoff
+Aggorat
 agiel
 agnar
 agnerax
@@ -451,6 +452,7 @@ cintiq
 citaqualotl
 citystalker
 clayshaper
+Clearfell
 cleaveling
 clickables
 clientside
@@ -555,6 +557,7 @@ dendrobate
 Denirus
 Derivi
 Derrok
+Deshar
 Deshret
 Deshret's
 desmarais
@@ -627,6 +630,7 @@ droughtspawn
 drox
 druggery
 dryback
+Dualstring
 Dunkelhalt
 duskblight
 duskdawn
@@ -833,6 +837,7 @@ framerates
 freezebolt
 freidrich
 frenzyhound
+Freythorn
 frosal
 frosis
 Frostbearer
@@ -928,6 +933,7 @@ goatmen
 goatqueen
 goblinedge
 godslayer
+Goldcast
 goldhoof
 goldrim
 Goldshaper
@@ -951,6 +957,7 @@ graverobber
 graverobbers
 Gravicius
 Gravicius's
+Greatclub
 Greathammer
 greatsword
 Greatswords
@@ -1328,6 +1335,7 @@ litanius
 lithomancer
 lithomancy
 lithophysa
+Lizardscale
 llyr
 lmperialus
 lochtonial
@@ -1399,6 +1407,7 @@ manaforge
 manaforged
 manastorm
 manaweave
+Manchettes
 Maracle
 Marak
 maraketh
@@ -2022,9 +2031,11 @@ solarine
 Solaro
 solarsworn
 solerai
+songworthy
 Sothotep
 soulbinder
 Soulbound
+soulcore
 Souleater
 souleye
 soulfeast
@@ -2089,6 +2100,7 @@ steelchaw
 steelpoint
 steelscale
 steelskin
+Steeltoe
 steelwood
 steelworm
 stenly
@@ -2134,6 +2146,7 @@ Stormseeker
 stormshroud
 stormstrider
 stormstruck
+Stormsurge
 stormtouched
 stormwall
 stormweaver
@@ -2275,6 +2288,7 @@ tradewith
 Trampletoe
 transmutia
 Trapsetter
+Traptool
 trarthan
 trarthus
 treant
@@ -2337,6 +2351,7 @@ ungulath
 unmen
 unshaping
 unsquelch
+Unwithered
 upconversion
 Urnwalkers
 uromoti

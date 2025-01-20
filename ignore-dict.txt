@@ -26,6 +26,7 @@ BUILDCACHEPREFIX
 BUILDLINKS
 CACHEDIR
 contribs
+ConvertPhysicalto
 corpsetypetags
 CritsDontAlways
 CritsOnYouDont
