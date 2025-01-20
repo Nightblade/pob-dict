@@ -419,6 +419,7 @@ chaber
 chainbreaker
 chainmail
 chalybeous
+Chaosbolt
 Chaosborn
 chaosresist
 chaosstorm
@@ -507,6 +508,7 @@ damoi
 danai
 Dannig
 Dannig's
+Danse
 darbel
 Daresso
 Daresso's
@@ -850,6 +852,7 @@ frostbreath
 frostburn
 Frostfall
 frostferno
+Frostfire
 frostflower
 frostguard
 frostkeeper
@@ -1726,6 +1729,7 @@ playthrough
 plumespitter
 PoE
 poewiki
+Poisonburst
 polaric
 Polcirkeln
 polymorphing
@@ -1781,6 +1785,7 @@ Quintoon
 quipolatl
 raethan
 rageblade
+Rageforged
 ragestorm
 ragestorms
 raihara
@@ -1807,6 +1812,7 @@ razorleaf
 razorleg
 razormaw
 realmshaper
+Reavers
 recombinate
 recoveroldcraftingbenchitem
 redbeak
@@ -1833,6 +1839,7 @@ rheniot
 rhex
 rhexback
 rhoa
+Rhoahide
 rhoas
 rhodion
 riftwalk
@@ -1846,6 +1853,7 @@ rin
 rindwik
 ringmail
 ringmaker
+Ripwire
 ritemaster
 riverways
 rockchewer
@@ -1966,6 +1974,7 @@ shivrul
 Shiyo
 shockbomb
 Shockburst
+Shockchain
 shocknova
 shockproofing
 shockwaves
@@ -2035,6 +2044,7 @@ songworthy
 Sothotep
 soulbinder
 Soulbound
+Soulbreaker
 soulcore
 Souleater
 souleye
@@ -2481,6 +2491,7 @@ wardbreaker
 wardog
 Wargraves
 warhammer
+Warhorn
 warmaster
 warstaff
 warstave
@@ -2530,6 +2541,7 @@ widowsilk
 wildlands
 wildmen
 wildrunner
+Wildshards
 wildslash
 wildwrap
 willclash
