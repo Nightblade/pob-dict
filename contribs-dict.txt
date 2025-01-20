@@ -61,6 +61,7 @@ DieMango
 disjunto
 Dogist
 Dolmur
+DoubtinGiyov
 dragbone
 dreais
 Drox346
@@ -98,7 +99,9 @@ henbe
 hexeaktivitat
 homutan
 HPSource
+hugocornago
 ifnjeff
+igorwessel
 ImgBotApp
 Ivniinvi
 jabaruben
@@ -131,6 +134,8 @@ LocalIdentity
 LordMotas
 Lothrik
 lpolaright
+lrzp
+ltogniolli
 lundburgerr
 machenme
 madinsane
@@ -204,6 +209,7 @@ QuantumScribble
 quashtaki
 QuickStick123
 Quotae
+Quxxy
 Random-Panda
 randomflyingtaco
 rasmuskl
@@ -261,6 +267,7 @@ Wires77
 wjdeclan
 wrzoski
 xmesaj2
+xspirus
 Yartch
 ybbat
 Ydoum
