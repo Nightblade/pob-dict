@@ -320,6 +320,7 @@ boneshatter
 bonespire
 bonestalker
 bonestilts
+Bonestorm
 bonewarped
 booba
 borboss
