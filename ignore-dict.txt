@@ -34,6 +34,7 @@ Cycloneof
 DamagevsNon
 dat
 datc
+DestructiveLinkSkeletonBombadierMinion
 display_abberaths_hooves
 DivineIreof
 dontSplitEvade
@@ -59,6 +60,7 @@ indexablesupportgems
 InfernalBlowof
 ingame
 intimidating_cry_empowerd_attacks_deal_double
+intjewel
 itemclasscategories
 itemisedcorpse
 LancingSteelof
@@ -68,6 +70,8 @@ Logik
 miniontype
 momnetum
 monsterconditions
+multibase
+Nonpathing
 PenanceBrandof
 Perforateof
 perp
@@ -81,7 +85,9 @@ Remembrancing
 Reservationwatcher
 ScorchingRayofImmolation
 SDPS
+Shapeshifted
 skillgem
+strjewel
 SummonBeastialRhoa
 SummonBeastialSnake
 SummonBeastialUrsa
@@ -99,5 +105,10 @@ trademarketcategorygroups
 triggeredByCospris
 unique_cospris_malice_cold_spells_triggered
 unique_hyrris_truth
+UniqueAilmentChanceRecieved1
 UniqueCosprisMalice
+UniqueFlaskOverhealToGuard1
+UniqueManaScarificeToAllies1
+UniqueModifyableWhileCorrupted1
 weaponclasses
+Weaponset
