@@ -89,6 +89,8 @@
         "/bleedi\\?n/",
         // "satisi?fied" src/Modules/ModParser.lua
         "/satisi\\?fied/",
+        // ""Strenth"" src/Data/Uniques/Special/Generated.lua
+        "/\"Strenth\"/",
     ],
     "languageSettings": [],
     //"source": null,
