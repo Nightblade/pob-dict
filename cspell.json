@@ -64,6 +64,7 @@
         "**/manifest.xml",
         "**/src/Export/Classes/GGPKData.lua",
         "**/src/Export/Scripts/passivetree.lua",
+        "**/src/Data/ModScalability.lua",
     ],
     "allowCompoundWords": false,
     "patterns": [],
@@ -86,6 +87,8 @@
         "/enem\\[y/",
         // "bleedi?n?g?" src/Modules/ModParser.lua
         "/bleedi\\?n/",
+        // "satisi?fied" src/Modules/ModParser.lua
+        "/satisi\\?fied/",
     ],
     "languageSettings": [],
     //"source": null,

@@ -661,6 +661,7 @@ edryd
 Edyrn's
 eedaiak
 eelskin
+Effigial
 effigon
 egrin
 eihal
@@ -1724,6 +1725,7 @@ platinia
 playername
 playstyle
 playstyles
+Playtest
 playtesting
 playthrough
 plumespitter
@@ -1765,6 +1767,7 @@ Putembo's
 pyromancer
 pyromancers
 pyromantic
+Pyrophyte
 pyroshock
 Q'ura
 Qarl
@@ -2083,6 +2086,7 @@ spinefuse
 spinesnap
 Spinestorm
 spiritblade
+Spiritbone
 spiritflicker
 Spiritskin
 Splinterheart

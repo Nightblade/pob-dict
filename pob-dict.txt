@@ -320,6 +320,7 @@ twostonering
 twosword
 ubers
 unalloc
+UsableWhileShapeshifted
 useragent
 userprofile
 vaalincursion
