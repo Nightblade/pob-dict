@@ -87,6 +87,7 @@ Reservationwatcher
 ScorchingRayofImmolation
 SDPS
 Shapeshifted
+skill_charge_matery_skill_speed
 skillgem
 strjewel
 StunThresholdfromEnergyShield
