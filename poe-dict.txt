@@ -2133,6 +2133,7 @@ stonewood
 stormbearer
 stormbind
 stormbinder
+Stormblade
 stormblast
 stormblood
 stormborn
