@@ -67,11 +67,11 @@ Note:  To reduce false negatives, please try to make this type of addition as sp
 ### Flowchart
 ```mermaid
 flowchart TD
-  correct{Correct\nSpelling?}
+  correct{Correct<br />Spelling?}
   correct -- Yes --> english
   correct -- No  --> ignore-dict.txt
 
-  english{Standard\nEnglish?}
+  english{Standard<br />English?}
   english -- Yes --> extra-en-dict.txt
   english -- No  -->
 
