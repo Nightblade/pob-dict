@@ -3,7 +3,7 @@
 Dictionaries and [Code Spell Checker](https://cspell.org/) (CSpell) config files for [Path Of Building Community](https://github.com/PathOfBuildingCommunity/PathOfBuilding) (PoB) code development. 
 
 ## Components
-All `*-dict.txt` contain a single word-per-line, and are plain-text, `UTF-8`, `LF`-`EOL`, sorted ascending case insensitive. 
+All `*-dict.txt` files consist of a single `LF`-terminated word per-line, sorted ascending case-insensitive, with `UTF-8` encoding. 
 
 | Filename                       | Description
 | ------------------------------ | -----------
@@ -32,7 +32,7 @@ It can also be triggered manually to perform a full check of a specific branch/t
 * Add the following lines to `.vscode/settings.json` in your PoB fork:
 ```json
 {
-  "CSpell.import": [ "../../pob-dict/cspell.json" ],
+  "CSpell.import": [ "../pob-dict/cspell.json" ],
   "CSpell.language": "en,en-GB"
 }
 ```
@@ -48,13 +48,13 @@ PS C:\PathOfBuilding> cspell --config "..\pob-dict\cspell.json" --relative --sho
 
 ## Dictionary additions
 Which dictionary do I add this unrecognised word to?
-* If it's spelled *correctly within the context of*:
+* If it's spelled *correctly*, in the context of:
   * the game (Path of Exile) -> `poe-dict.txt`.
   * the PoB source code / git repository -> `pob-dict.txt`.
-  * English, but not in CSpell's dictionaries -> `extra-en-dict.txt`
-* If it's spelled *incorrectly* or doesn't fit anywhere else, and/or you want to suppress the warning -> `ignore-dict.txt`.  To reduce false negatives, please try to make this type of addition as specific as possible (see CritsDontAlways example below).
-
-If unsure, open a [new issue](https://github.com/Nightblade/pob-dict/issues/new/choose).
+  * English, but missing from CSpell's dictionaries -> `extra-en-dict.txt`
+* If it's spelled *incorrectly* or doesn't fit anywhere else, and/or you want to suppress the warning -> `ignore-dict.txt`.  
+Note:  To reduce false negatives, please try to make this type of addition as specific as possible (see `CritsDontAlways` example below).
+* If you're unsure, just ask me on Discord or open a [new issue](https://github.com/Nightblade/pob-dict/issues/new/choose).
 
 ### Examples
 | Word              | Dictionary          | Reasoning
@@ -62,7 +62,7 @@ If unsure, open a [new issue](https://github.com/Nightblade/pob-dict/issues/new/
 | `Atziri`          | `poe-dict.txt`      | Correct spelling, PoE NPC.
 | `REGENPERCENT`    | `pob-dict.txt`      | Correct spelling, combination of two words, used in PoB source code.
 | `pregenerated`    | `extra-en-dict.txt` | Correct spelling, English word, not in CSpell's<br /> dictionaries.
-| `CritsDontAlways` | `ignore-dict.txt`   | Incorrect spelling/punctuation, legacy GGG error found in PoE game data.<br />Add the whole thing so that *"Dont"* is still flagged elsewhere.
+| `CritsDontAlways` | `ignore-dict.txt`   | Incorrect spelling/punctuation, legacy GGG PoE game data.<br />Add the whole word so that *"Dont"* is still flagged elsewhere.
 
 ### Flowchart
 ```mermaid
