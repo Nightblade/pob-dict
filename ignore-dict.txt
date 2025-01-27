@@ -115,3 +115,4 @@ UniqueManaScarificeToAllies1
 UniqueModifyableWhileCorrupted1
 weaponclasses
 Weaponset
+winepath
