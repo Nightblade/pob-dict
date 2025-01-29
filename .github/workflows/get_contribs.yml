@@ -1,0 +1,15 @@
+name: Get Contribs
+
+on:
+  workflow_dispatch:
+
+jobs:
+  get-contributors:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: nightblade/list-contributors-simple@main
+        with:
+          repo_name: "nightblade/pob-dict"
+          filename: "contributors.txt"
+          access_token: ${{secrets.GITHUB_TOKEN}}
+      - run: cat contributors.txt
