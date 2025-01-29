@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: nightblade/list-contributors-simple@main
         with:
-          repo_name: "nightblade/pob-dict"
+          repo_name: "PathOfBuildingCommunity/PathOfBuilding"
           filename: "contributors.txt"
           access_token: ${{secrets.GITHUB_TOKEN}}
       - run: cat contributors.txt
