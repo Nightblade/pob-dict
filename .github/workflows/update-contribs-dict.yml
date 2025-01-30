@@ -9,6 +9,8 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: nightblade/list-contributors-simple@v1
         with:
           repo_name: "PathOfBuildingCommunity/PathOfBuilding"
