@@ -33,6 +33,6 @@ jobs:
           wc -l contribs-dict.txt
           rm contributors1.txt contributors2.txt
 
-      - uses: stefanzweifel/git-auto-commit-action@master
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Auto-commit contribs-dict.txt
