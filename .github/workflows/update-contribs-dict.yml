@@ -1,0 +1,32 @@
+name: Auto-update contribs-dict
+
+on:
+  workflow_dispatch:
+
+permissions: read-all
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: nightblade/list-contributors-simple@v1
+        with:
+          repo_name: "PathOfBuildingCommunity/PathOfBuilding"
+          filename: "contributors1.txt"
+          access_token: ${{secrets.GITHUB_TOKEN}}
+
+      - uses: nightblade/list-contributors-simple@v1
+        with:
+          repo_name: "PathOfBuildingCommunity/PathOfBuilding-PoE2"
+          filename: "contributors2.txt"
+          access_token: ${{secrets.GITHUB_TOKEN}}
+
+      - run: |
+          export LC_ALL=C && cat contributors1.txt contributors2.txt |
+          sort -fu | grep -v "github-actions" > contribs-dict.txt
+          wc -l contribs-dict.txt
+          rm contributors1.txt contributors2.txt
+
+      - uses: stefanzweifel/git-auto-commit-action@master
+        with:
+          commit_message: Auto-commit contribs-dict.txt
