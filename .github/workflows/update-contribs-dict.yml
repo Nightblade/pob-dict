@@ -8,8 +8,12 @@ permissions: read-all
 jobs:
   run:
     runs-on: ubuntu-latest
+      permissions:
+        contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
 
       - uses: nightblade/list-contributors-simple@v1
         with:
