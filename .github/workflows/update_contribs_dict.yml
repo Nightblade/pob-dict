@@ -2,6 +2,8 @@ name: Auto-update contribs-dict
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "1 8 * * *"
 
 permissions: read-all
 
