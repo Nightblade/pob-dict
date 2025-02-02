@@ -19,21 +19,16 @@ jobs:
 
       - uses: nightblade/list-contributors-simple@v1
         with:
-          repo_name: "PathOfBuildingCommunity/PathOfBuilding"
-          filename: "contributors1.txt"
-          access_token: ${{secrets.GITHUB_TOKEN}}
-
-      - uses: nightblade/list-contributors-simple@v1
-        with:
-          repo_name: "PathOfBuildingCommunity/PathOfBuilding-PoE2"
-          filename: "contributors2.txt"
+          repo_names: |
+            PathOfBuildingCommunity/PathOfBuilding
+            PathOfBuildingCommunity/PathOfBuilding-PoE2
+          output_file: "contributors.txt"
           access_token: ${{secrets.GITHUB_TOKEN}}
 
       - run: |
-          export LC_ALL=C && cat contributors1.txt contributors2.txt |
-          sort -fu | grep -v "github-actions" > contribs-dict.txt
+          export LC_ALL=C && sort -fu contributors.txt | grep -v "github-actions" > contribs-dict.txt
           wc -l contribs-dict.txt
-          rm contributors1.txt contributors2.txt
+          rm contributors.txt
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
