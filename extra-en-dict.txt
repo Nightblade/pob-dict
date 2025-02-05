@@ -233,4 +233,5 @@ vampiric
 vapourising
 vendored
 warmaker
+Wieldable
 windchimes
