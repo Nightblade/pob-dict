@@ -716,6 +716,7 @@ Eterni
 ethercraft
 eutychus
 Evergrasping
+Evertree
 eviscerator
 evocata
 evocationist
@@ -1613,6 +1614,7 @@ Oba
 Oba's
 Obern's
 obscurantis
+Octoparasite
 ohne
 Olesya
 Olesya's
@@ -2641,6 +2643,7 @@ Zalmarath
 Zana
 Zana's
 zantipi
+Zarokh
 zeel
 Zeel's
 Zerphi
