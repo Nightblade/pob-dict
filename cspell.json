@@ -23,6 +23,8 @@
         "**/src/Settings.xml", // User file
         "**/Dockerfile",
         "**/docker-compose.yml",
+        "**/src/Export/Classes/GGPKData.lua",
+        "**/src/Export/Scripts/passivetree.lua",
         "**/src/Data/ModScalability.lua",
         /* ************************ Auto-generated files from here down ************************ */
         "**/src/Data/Bases/*",
