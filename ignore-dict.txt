@@ -64,6 +64,7 @@ intimidating_cry_empowerd_attacks_deal_double
 intjewel
 itemclasscategories
 itemisedcorpse
+jewelcircle
 LancingSteelof
 leeche
 LightningArrowof
@@ -73,6 +74,7 @@ momnetum
 monsterconditions
 multibase
 Nonpathing
+passiveskillscreen
 PenanceBrandof
 Perforateof
 perp
