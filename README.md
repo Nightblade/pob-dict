@@ -32,7 +32,7 @@ It can also be triggered manually to perform a full check of a specific branch/t
 * Add the following lines to `.vscode/settings.json` in your PoB fork:
 ```json
 {
-  "CSpell.import": [ "../pob-dict/cspell.json" ],
+  "CSpell.import": [ "../../pob-dict/cspell.json" ],
   "CSpell.language": "en,en-GB"
 }
 ```
