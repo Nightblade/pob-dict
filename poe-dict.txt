@@ -2490,6 +2490,7 @@ walkthrough
 wandslinger
 warband
 warbands
+Warbringer
 warcaller
 warchief
 warcried
