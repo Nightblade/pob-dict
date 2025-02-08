@@ -78,7 +78,6 @@ dervishe
 deton
 dewaths
 dexjewel
-displayminionmonstertype
 dkjson
 dlmalloc
 dmgattacks
@@ -208,11 +207,6 @@ oodle
 otherwords
 pagedown
 pageup
-passiveoverridelimits
-passiveskilloverrides
-passiveskilloverridetypes
-passiveskilltattoos
-passiveskilltattootargetsets
 pastebin
 pastebinp
 perc

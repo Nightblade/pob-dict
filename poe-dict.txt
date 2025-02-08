@@ -1300,8 +1300,6 @@ lavalash
 Lavianga
 Lavianga's
 lazhwar
-leaderboard
-leaderboards
 leadup
 leaguestone
 leaguestones
@@ -1475,9 +1473,7 @@ miniboss
 minibosses
 minigame
 minimap
-minimaps
 miniondamage
-mipmap
 mirageblast
 mirebough
 misclicks
@@ -1599,8 +1595,6 @@ nopatch
 nopreload
 Northpaw
 novynn
-NPC
-NPCS
 nubuck
 Nuro
 Nuro's
@@ -2034,7 +2028,6 @@ slitherskin
 Slitherspitters
 slivertongue
 snakepit
-snapshotting
 snowblind
 snowcaller
 snowforged

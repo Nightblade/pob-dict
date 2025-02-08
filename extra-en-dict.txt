@@ -103,6 +103,7 @@ mudflies
 nerf
 nerfed
 nerfs
+NPCS
 ossuary
 pathing
 poignard
