@@ -70,8 +70,8 @@
     "ignoreRegExpList": [
         // Colour hex codes (eg ^xADAA47)
         "/\\^x[\\w]{6}/",
-        // "manifeste?" ModParser.lua
-        "/manifeste\\?/",
+        // "manifeste?, leeche?" ModParser.lua
+        "/(manifeste|leeche)\\?/",
         // "]econds" Generated.lua
         "/\\]econds/",
         // "immun[" ModParser.lua
