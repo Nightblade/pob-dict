@@ -364,6 +364,7 @@ Bronn
 Bronn's
 Bronzebeard
 bronzescale
+Broodguard
 broodqueen
 broodspawn
 brownfur
@@ -2005,6 +2006,7 @@ sketh
 skictis
 skillpoints
 skilltree
+Skincrawlers
 skitterbot
 skitterbots
 skitterer
@@ -2072,6 +2074,7 @@ spellcasting
 spellcraft
 Spellmaster
 spellslinger
+Spellslinging
 spiderling
 spiderlings
 spidersilk
@@ -2255,6 +2258,7 @@ thornrunner
 thornweaver
 thornwolf
 thraxia
+Threadspinner
 thrillsteel
 throatseeker
 Throatslitter
@@ -2532,6 +2536,7 @@ Whakano
 Whakano's
 whakatutuki
 whakawairua
+Whaletooth
 whare
 whelpling
 whipleg
