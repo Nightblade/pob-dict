@@ -1,4 +1,5 @@
 achievability
+Additionals
 anointable
 arbalists
 arcanist
@@ -17,12 +18,10 @@ elementalist
 emanant
 equippable
 exertable
-Greathelm
+greathelm
 groupless
 indicies
 mana
-marauder
-nerf
 nerfed
 pathing
 progenesis
@@ -31,14 +30,14 @@ reaver
 royale
 scion
 scry
-Shapeshift
+shapeshift
 shockwave
 Shortbow
 socketable
 specularity
 subtables
 triggerable
-Uber
+uber
 unallocating
 unbuffed
 uncancellable
@@ -51,4 +50,4 @@ unfun
 uniques
 unshattered
 unsocket
-Wieldable
+wieldable
