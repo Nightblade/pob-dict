@@ -1044,6 +1044,7 @@ heroicspirit
 Herules
 hetzapal
 heup
+Hexbearer
 hexbinder
 hexblast
 hexclaw
@@ -2552,6 +2553,7 @@ wildmen
 wildrunner
 Wildshards
 wildslash
+Wildspeaker
 wildwrap
 willclash
 willowgift
