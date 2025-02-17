@@ -12,9 +12,9 @@ jobs:
   spelling:
     runs-on: ubuntu-latest
     env:
-      CONFIG_URL: https://raw.githubusercontent.com/Nightblade/pob-dict/main
       ORIGIN: PathOfBuildingCommunity/PathOfBuilding
-      ACTIONS_STEP_DEBUG: true
+      ACTIONS_RUNNER_DEBUG: ${{ secrets.ACTIONS_RUNNER_DEBUG }}
+      ACTIONS_STEP_DEBUG: ${{ secrets.ACTIONS_STEP_DEBUG }}
     steps:
 
       - name: Add PR link to summary
@@ -27,6 +27,8 @@ jobs:
           repository:  ${{ env.ORIGIN }}
 
       - name: Fetch config file and dictionaries
+        env:
+          CONFIG_URL: https://raw.githubusercontent.com/Nightblade/pob-dict/main
         run:
           curl --silent --show-error --parallel --remote-name-all
             ${{ env.CONFIG_URL }}/cspell.json
@@ -43,3 +45,6 @@ jobs:
           config: "cspell.json"
           incremental_files_only: ${{ github.event_name != 'workflow_dispatch' }}
           verbose: true
+          args: "--verbose --debug"
+        env:
+          DEBUG: "cspell:*"  # This environment variable enables detailed debugging output
