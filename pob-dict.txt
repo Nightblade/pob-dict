@@ -102,7 +102,6 @@ khronos
 kolf
 lcurl
 leaguenames
-LEFTBUTTON
 levelreq
 lexy
 libbun
@@ -178,7 +177,6 @@ rentry
 RFES
 RGBWA
 Ribel
-RIGHTBUTTON
 rshift
 sapbg
 schar
