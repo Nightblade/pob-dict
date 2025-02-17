@@ -13,8 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       ORIGIN: PathOfBuildingCommunity/PathOfBuilding
-      ACTIONS_RUNNER_DEBUG: ${{ secrets.ACTIONS_RUNNER_DEBUG }}
-      ACTIONS_STEP_DEBUG: ${{ secrets.ACTIONS_STEP_DEBUG }}
+      ACTIONS_RUNNER_DEBUG: ${{ vars.ACTIONS_RUNNER_DEBUG }}
+      ACTIONS_STEP_DEBUG: ${{ vars.ACTIONS_STEP_DEBUG }}
     steps:
 
       - name: Add PR link to summary
