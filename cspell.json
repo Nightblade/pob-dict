@@ -147,7 +147,7 @@
         "!software-term-suggestions",
         "!web-services",
         //"lua",
-        //"cpp",
+        "cpp",
         "!aws",
         "en_us",
         "!en-common-misspellings",
@@ -183,10 +183,7 @@
         "yaml",
         "yml"
     ],
-    "ignoreWords": [
-        "LEFTBUTTON",
-        "RIGHTBUTTON",
-    ],
+    "ignoreWords": [],
     "enableGlobDot": false,
     "useGitignore": true,
     "flagWords": [
