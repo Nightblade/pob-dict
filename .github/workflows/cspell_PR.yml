@@ -12,9 +12,9 @@ jobs:
   spelling:
     runs-on: ubuntu-latest
     env:
-      CONFIG_URL: https://raw.githubusercontent.com/Nightblade/pob-dict/main
       ORIGIN: PathOfBuildingCommunity/PathOfBuilding
-      ACTIONS_STEP_DEBUG: true
+      ACTIONS_RUNNER_DEBUG: ${{ vars.ACTIONS_RUNNER_DEBUG }}
+      ACTIONS_STEP_DEBUG: ${{ vars.ACTIONS_STEP_DEBUG }}
     steps:
 
       - name: Add PR link to summary
@@ -27,6 +27,8 @@ jobs:
           repository:  ${{ env.ORIGIN }}
 
       - name: Fetch config file and dictionaries
+        env:
+          CONFIG_URL: https://raw.githubusercontent.com/Nightblade/pob-dict/main
         run:
           curl --silent --show-error --parallel --remote-name-all
             ${{ env.CONFIG_URL }}/cspell.json
