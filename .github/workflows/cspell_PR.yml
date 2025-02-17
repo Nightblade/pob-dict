@@ -45,6 +45,3 @@ jobs:
           config: "cspell.json"
           incremental_files_only: ${{ github.event_name != 'workflow_dispatch' }}
           verbose: true
-          args: "--verbose --debug"
-        env:
-          DEBUG: "cspell:*"  # This environment variable enables detailed debugging output
