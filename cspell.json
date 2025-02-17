@@ -127,7 +127,7 @@
         {
             "name": "contribs-dict",
             "path": "./contribs-dict.txt",
-            "description": "Contrubutor's names dictionary",
+            "description": "Contributor's names dictionary",
             "addWords": true,
             "noSuggest": true
         }
