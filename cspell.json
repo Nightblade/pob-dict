@@ -183,7 +183,10 @@
         "yaml",
         "yml"
     ],
-    "ignoreWords": [],
+    "ignoreWords": [
+        "LEFTBUTTON",
+        "RIGHTBUTTON",
+    ],
     "enableGlobDot": false,
     "useGitignore": true,
     "flagWords": [
