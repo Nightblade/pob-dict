@@ -11,7 +11,7 @@ jobs:
 
   spelling:
     runs-on: ubuntu-latest
-    env: 
+    env:
       CONFIG_URL: https://raw.githubusercontent.com/Nightblade/pob-dict/main
       ORIGIN: PathOfBuildingCommunity/PathOfBuilding
     steps:
@@ -20,7 +20,7 @@ jobs:
         run: echo '[PR ${{ inputs.pr_num }}](http://github.com/${{ env.ORIGIN }}/pull/${{ inputs.pr_num }})' >> $GITHUB_STEP_SUMMARY
 
       - name: Checkout PR ${{ inputs.pr_num }}
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: "refs/pull/${{ inputs.pr_num }}/merge"
           repository:  ${{ env.ORIGIN }}
@@ -35,7 +35,7 @@ jobs:
             ${{ env.CONFIG_URL }}/extra-en-dict.txt
 
       - name: Run cspell
-        uses: streetsidesoftware/cspell-action@v2.4.0
+        uses: streetsidesoftware/cspell-action@v6
         with:
           files: '**' # needed as workaround for non-incremental runs (overrides in config still work ok)
           config: "cspell.json"
