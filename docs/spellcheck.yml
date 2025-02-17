@@ -23,13 +23,13 @@ jobs:
           ref: ${{ inputs.ref }}
 
       - name: Fetch config file and dictionaries
-        run: |
-          curl --silent --show-error --parallel --remote-name-all \
-            ${{ env.CONFIG_URL }}/cspell.json \
-            ${{ env.CONFIG_URL }}/pob-dict.txt \
-            ${{ env.CONFIG_URL }}/poe-dict.txt \
-            ${{ env.CONFIG_URL }}/ignore-dict.txt \
-            ${{ env.CONFIG_URL }}/extra-en-dict.txt \
+        run:
+          curl --silent --show-error --parallel --remote-name-all
+            ${{ env.CONFIG_URL }}/cspell.json
+            ${{ env.CONFIG_URL }}/pob-dict.txt
+            ${{ env.CONFIG_URL }}/poe-dict.txt
+            ${{ env.CONFIG_URL }}/ignore-dict.txt
+            ${{ env.CONFIG_URL }}/extra-en-dict.txt
             ${{ env.CONFIG_URL }}/contribs-dict.txt
 
       - name: Run cspell
