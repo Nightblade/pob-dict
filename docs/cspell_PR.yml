@@ -1,10 +1,10 @@
-name: 'cspell_PR'
+name: 'CSpell PR Debug'
 
 on:
   workflow_dispatch:
     inputs:
       pr_num:
-        description: Pull Request Number
+        description: PR Number from POB repo
         required: true
 
 jobs:
@@ -14,6 +14,7 @@ jobs:
     env:
       CONFIG_URL: https://raw.githubusercontent.com/Nightblade/pob-dict/main
       ORIGIN: PathOfBuildingCommunity/PathOfBuilding
+      ACTIONS_STEP_DEBUG: true
     steps:
 
       - name: Add PR link to summary
@@ -26,13 +27,14 @@ jobs:
           repository:  ${{ env.ORIGIN }}
 
       - name: Fetch config file and dictionaries
-        run: |
-          curl --silent --show-error --parallel --remote-name-all \
-            ${{ env.CONFIG_URL }}/cspell.json \
-            ${{ env.CONFIG_URL }}/pob-dict.txt \
-            ${{ env.CONFIG_URL }}/poe-dict.txt \
-            ${{ env.CONFIG_URL }}/ignore-dict.txt \
+        run:
+          curl --silent --show-error --parallel --remote-name-all
+            ${{ env.CONFIG_URL }}/cspell.json
+            ${{ env.CONFIG_URL }}/pob-dict.txt
+            ${{ env.CONFIG_URL }}/poe-dict.txt
+            ${{ env.CONFIG_URL }}/ignore-dict.txt
             ${{ env.CONFIG_URL }}/extra-en-dict.txt
+            ${{ env.CONFIG_URL }}/contribs-dict.txt
 
       - name: Run cspell
         uses: streetsidesoftware/cspell-action@v6
@@ -40,3 +42,4 @@ jobs:
           files: '**' # needed as workaround for non-incremental runs (overrides in config still work ok)
           config: "cspell.json"
           incremental_files_only: ${{ github.event_name != 'workflow_dispatch' }}
+          verbose: true
