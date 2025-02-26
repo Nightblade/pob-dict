@@ -61,6 +61,7 @@ dmgspells
 downloadcharlist
 dropdowns
 edvinas
+Egor
 emmylua
 endur
 findexplicit
@@ -187,6 +188,7 @@ setopt
 shockbg
 showtitlebarname
 skillpopup
+Skriptunoff
 slidedown
 slideup
 smita
