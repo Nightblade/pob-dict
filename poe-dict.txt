@@ -450,6 +450,7 @@ chronomancer
 chronophage
 ciergan
 cinderswallow
+cinquedea
 cintiq
 citaqualotl
 citystalker
@@ -1814,6 +1815,7 @@ ratmother
 rattleback
 raulo
 ravenal
+razorglass
 razorleaf
 razorleg
 razormaw
@@ -2505,7 +2507,9 @@ Wargraves
 warhammer
 Warhorn
 warmaster
+warpick
 warstaff
+warstaffs
 warstave
 warstaves
 watchstone
@@ -2580,6 +2584,7 @@ witchfire
 witchhunter
 witchhunter's
 Woebearer
+wolfbone
 wolfpack
 wolfpack's
 wolpertinger
