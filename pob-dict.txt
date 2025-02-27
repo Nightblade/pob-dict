@@ -117,6 +117,7 @@ loadstring
 lowSurr
 lshift
 luajit
+luasocket
 mainhand
 mainhandbg
 makensis
@@ -134,6 +135,7 @@ movespeed
 mult
 mults
 nani
+nehab
 nodecount
 nsis
 offhandbg
