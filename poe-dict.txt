@@ -965,6 +965,7 @@ graverobber
 graverobbers
 Gravicius
 Gravicius's
+greataxe
 Greatclub
 Greathammer
 greatsword
