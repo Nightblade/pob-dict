@@ -325,6 +325,7 @@ Bonestorm
 bonewarped
 booba
 borboss
+borealwood
 botting
 boulderback
 bowmaker
@@ -439,6 +440,7 @@ chiara
 chillcaller
 chimeral
 chimerals
+chimerascale
 chitus
 chiyou
 chober
@@ -1013,6 +1015,7 @@ Hargan
 Hargan's
 Harimal
 harpyon
+harpyskin
 Hartlin
 hasina
 hatchetmaster
@@ -1588,6 +1591,7 @@ nightsight
 nightstalker
 nightwane
 nightwatch
+nightweave
 nightwind
 Niko
 Niko's
@@ -1736,6 +1740,8 @@ playthrough
 plumespitter
 PoE
 poewiki
+poignard
+poisonberry
 Poisonburst
 polaric
 Polcirkeln
@@ -1873,6 +1879,7 @@ rollem
 Romira
 Romira's
 rongokurai
+rosethorn
 roseus
 rotblood
 rotfeather
