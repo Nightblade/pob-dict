@@ -26,7 +26,7 @@
         "**/src/Export/Scripts/passivetree.lua",
         "**/src/Data/ModScalability.lua",
         /* ************************ Auto-generated files from here down ************************ */
-        "**/src/Data/Bases/*",
+        // "**/src/Data/Bases/*",
         "**/src/Data/ClusterJewels.lua",
         "**/src/Data/Costs.lua",
         "**/src/Data/Crucible.lua",
