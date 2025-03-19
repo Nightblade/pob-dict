@@ -274,7 +274,6 @@ Torchery
 trimbe
 twiz-git
 Typepluto
-U-n-Own
 uilman
 Urganot
 VaticViolet
@@ -289,6 +288,7 @@ Yartch
 ybbat
 Ydoum
 Yoshiitsune
+yumetsuro
 zao
 zebben
 zmike
