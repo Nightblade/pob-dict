@@ -493,6 +493,7 @@ craicic
 crastus
 criticals
 crits
+Crossblade
 crowstorm
 crushclaw
 crushclaws
@@ -729,6 +730,7 @@ Ewar
 Ewar's
 exartze
 excellis
+Execratus
 ExileCon
 exilings
 extantia
@@ -968,8 +970,11 @@ graverobbers
 Gravicius
 Gravicius's
 greataxe
+Greatblade
+Greatbow
 Greatclub
 Greathammer
+Greatmace
 greatsword
 Greatswords
 greatwolf
@@ -1011,6 +1016,7 @@ hammerstorm
 handcast
 handfinger
 hapihapi
+Hardleather
 Hargan
 Hargan's
 Harimal
@@ -1045,6 +1051,7 @@ hellscaping
 hematophagy
 hemmingsworth
 hephaeus
+Heraldric
 heretech
 heroicspirit
 Herules
@@ -1146,6 +1153,7 @@ Ipse
 Irasha
 Irasha's
 Irongrasp
+Ironhead
 ironpoint
 Ironride
 ironscale
@@ -1314,6 +1322,7 @@ leaguestone
 leaguestones
 leapslam
 leatherbound
+Leatherplate
 leatherscale
 Legionstride
 legius
@@ -1459,6 +1468,7 @@ mercutio
 meritania
 meritarus
 merveil
+Messer
 metacraft
 metacrafting
 Metallon
@@ -1689,6 +1699,7 @@ pathed
 pathofexile
 patua
 paua
+Pauascale
 pecoraro
 perandus
 percia
@@ -1835,6 +1846,7 @@ redblade
 Redblades
 Redflare
 reefbane
+Reefsteel
 rek'tar
 relicguard
 reliquarian
@@ -2288,6 +2300,7 @@ Tibbs
 Tibbs's
 ticaba
 tidebreaker
+Tideseer
 tideshifter
 Tikati
 Tikiheme
