@@ -126,6 +126,7 @@ Asala
 Asenath
 Asenath's
 asha
+Ashar
 Ashbark
 ashblessed
 ashcaller
@@ -333,6 +334,7 @@ boulderback
 bowmaker
 braeta
 braineater
+Brakka
 brambleback
 bramblejack
 bramblemist
@@ -588,6 +590,7 @@ diamondskin
 dimachaeri
 Dionadair
 direblade
+Diretusk
 dirigeant
 dismemberer
 dispellable
@@ -877,6 +880,7 @@ Frostwall
 frostweaver
 frostwing
 Fulcent
+Fungalreaver
 furia
 furybolts
 furyfoot
@@ -911,6 +915,7 @@ gemlings
 geodite
 Geofri
 Geofri's
+Geonor
 GGG
 ghasts
 ghorr
@@ -999,6 +1004,7 @@ Greymake
 Grigor
 Grigor's
 Grimgrasp
+Grimhaven
 grindy
 groundslam
 groveguard
@@ -1020,6 +1026,7 @@ haewark
 haha
 hailrake
 haki
+Halani
 haliotis
 hammerblows
 hammerstorm
@@ -1057,6 +1064,7 @@ heavydraw
 hedron
 helial
 hellbringer
+Hellhound
 hellscape
 hellscaping
 hematophagy
@@ -1184,6 +1192,7 @@ ixtolatl
 Izaro
 Izaro's
 izioc
+Jadecaster
 jaesyn
 jaetai
 Jamanra
@@ -1238,6 +1247,7 @@ Kasigi
 Kaso
 Kastov
 Keth
+Ketzuli
 keyblade
 khor
 Kiara
@@ -1824,6 +1834,7 @@ Quickslip
 Quintoon
 quipolatl
 raethan
+Rafiq
 rageblade
 Rageforged
 ragestorm
@@ -1842,6 +1853,7 @@ raphina
 rasa
 Rashkaldor
 Rashkaldor's
+Rathbreaker
 Rathorn
 rathpith
 ratmother
@@ -1895,6 +1907,7 @@ rin
 rindwik
 ringmail
 ringmaker
+Riona
 Ripwire
 ritemaster
 riverways
@@ -2171,6 +2184,7 @@ stenly
 steppan
 stipecrawler
 stonebeak
+Stoneclad
 stonefist
 stonegaze
 stoneraiser
@@ -2702,6 +2716,7 @@ Zalmarath
 Zana
 Zana's
 zantipi
+Zarka
 Zarokh
 zeel
 Zeel's
