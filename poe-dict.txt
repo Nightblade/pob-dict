@@ -203,6 +203,7 @@ baselard
 basemetal
 basetype
 basetypes
+Battershout
 battlecharger
 battlehaste
 battlemage
@@ -475,6 +476,7 @@ coldsnap
 compulsor
 coniraya
 convocated
+Coolheaded
 Coolus
 Coralito
 Coralito's
@@ -545,6 +547,7 @@ dawnstrider
 deadhand
 deathflutter
 deathmage
+Deathmarch
 deathmark
 deathmarked
 deathnotch
@@ -590,6 +593,7 @@ diamondskin
 dimachaeri
 Dionadair
 direblade
+Direstrike
 Diretusk
 dirigeant
 dismemberer
@@ -815,6 +819,7 @@ flamecore
 flameguard
 flamelord
 flamelords
+Flamepierce
 flamescale
 flamesight
 flamespitting
@@ -855,6 +860,7 @@ foxhide
 foxshade
 framerates
 freezebolt
+Freezefork
 freidrich
 frenzyhound
 Freythorn
@@ -889,6 +895,7 @@ galecaller
 galesight
 Galhad
 galvano
+Gambleshot
 Gamblesprint
 gamewide
 garemon
@@ -992,6 +999,7 @@ Greatmace
 greatsword
 Greatswords
 greatwolf
+Greatwood
 greedtrap
 greengate
 grelwood
@@ -1021,6 +1029,7 @@ Gwennen
 Gwennen's
 Hadrey
 haemocombustion
+Haemocrystals
 haemomancer
 haewark
 haha
@@ -1777,6 +1786,7 @@ PoE
 poewiki
 poignard
 poisonberry
+poisonbloom
 Poisonburst
 polaric
 Polcirkeln
@@ -1831,6 +1841,7 @@ quetzerxi
 quetzling
 quickblood
 Quickslip
+Quillburst
 Quintoon
 quipolatl
 raethan
@@ -1967,6 +1978,7 @@ Sandsworn
 sandwhipper
 sandworn
 Sanguimancer
+sanguimancy
 sanguis
 Santoni
 Saqawal
@@ -2124,6 +2136,7 @@ soulwrest
 southswing
 sparkcaller
 sparkfist
+Spearfield
 Spectred
 speedrunning
 spellblade
@@ -2206,6 +2219,7 @@ stormburst
 stormcall
 stormcaller
 stormcell
+Stormchain
 stormcharged
 stormcharger
 stormchaser
@@ -2320,6 +2334,7 @@ thornfruit
 thornmaul
 thornmaw
 thornrunner
+Thornskin
 thornweaver
 thornwolf
 thraxia

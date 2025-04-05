@@ -34,6 +34,7 @@ shapeshift
 shockwave
 Shortbow
 socketable
+spaghettification
 specularity
 subtables
 triggerable
@@ -51,4 +52,5 @@ unfun
 uniques
 unshattered
 unsocket
+Verglas
 wieldable

@@ -36,6 +36,7 @@ intjewel
 jewelcircle
 LightningArrowof
 Logik
+MinionsAreUndamagable
 Nonpathing
 passiveskillscreen
 PenanceBrandof
@@ -59,6 +60,7 @@ SummonBeastialSnake
 SummonBeastialUrsa
 SumonRagingSpiritMelee
 SupportEncumberancePlayer
+SupportReveberatePlayer
 supporttriggerelementalspellonblock
 supporttriggerfirespellonhit
 SupportUniqueCosprisMaliceColdSpellsCastOn
