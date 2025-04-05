@@ -51,6 +51,7 @@ Reservationwatcher
 ScorchingRayofImmolation
 SDPS
 Shapeshifted
+ShieldInsteadofLife
 skill_charge_matery_skill_speed
 skillgem
 strjewel
