@@ -230,6 +230,7 @@ Bestel
 Bestel's
 betucia
 Bex
+Bijouborne
 bin'aia
 Bino
 Bino's
@@ -426,6 +427,7 @@ ch'aska
 chaber
 chainbreaker
 chainmail
+Chainsting
 chalybeous
 Chaosbolt
 Chaosborn
@@ -1968,6 +1970,7 @@ saemus
 Saffell
 Saffell's
 Sagari
+Saitha
 sallazzang
 Sambodhi
 Sambodhi's
@@ -2288,6 +2291,7 @@ Tane
 Tāne
 Tane's
 Tāne's
+Tangletongue
 tangmazu
 tantalo
 Tanu
