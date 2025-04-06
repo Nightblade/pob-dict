@@ -74,4 +74,5 @@ UniqueCosprisMalice
 UniqueFlaskOverhealToGuard1
 UniqueManaScarificeToAllies1
 UniqueModifyableWhileCorrupted1
+UniqueNonherent
 winepath
