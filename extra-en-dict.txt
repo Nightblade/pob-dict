@@ -27,6 +27,8 @@ pathing
 progenesis
 reave
 reaver
+respawn
+respawned
 royale
 scion
 scry
@@ -37,6 +39,7 @@ socketable
 spaghettification
 specularity
 subtables
+targetable
 triggerable
 uber
 unallocating

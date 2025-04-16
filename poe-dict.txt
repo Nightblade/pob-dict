@@ -583,6 +583,7 @@ Deshret
 Deshret's
 desmarais
 despawns
+desync
 Devoto
 Devoto's
 Dewath's
@@ -858,6 +859,7 @@ Foaga
 forgeguard
 forgekeeper
 forgemaster
+Formshifter
 foxfly
 foxhide
 foxshade
@@ -915,6 +917,7 @@ gavuum
 gazuul
 gehennix
 Geis
+Gemcrust
 gemcutter
 gemcutter's
 gemcutters
@@ -1147,6 +1150,7 @@ iceweaver
 ichimonji
 icius
 igna
+Ignagduk
 Igniferis
 ignoblest
 ignomon
