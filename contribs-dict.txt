@@ -11,6 +11,7 @@ ALT-F-X
 andrewbelu
 andyli00
 AnSq
+Antaresque
 APXEOLOG
 aron-w
 asvanberg
@@ -35,6 +36,7 @@ canuysal
 CapnJack22
 carloscastrodev
 cbinners
+CedrN
 CelestiaTheDryad
 celuck
 chinhodado
