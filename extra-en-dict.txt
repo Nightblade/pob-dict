@@ -11,6 +11,7 @@ commandable
 conflagrating
 conflux
 craftable
+critting
 debuff
 debuffs
 eclipsis
