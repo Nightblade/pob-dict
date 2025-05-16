@@ -984,6 +984,7 @@ gorebreaker
 goredrill
 Goregirdle
 gorgol
+Gorian
 Goroshi
 gorulis
 grandmastery
@@ -1966,6 +1967,7 @@ runemaster
 runeshining
 runesmithed
 Runesmithing
+Rustbowl
 ruthlessfilter
 Ryslatha
 Ryslatha's
