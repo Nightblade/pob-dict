@@ -774,6 +774,7 @@ Farrul
 Farrul's
 farsight
 farud
+farudin
 fastis
 fatcats
 fateweaver
@@ -978,6 +979,7 @@ Goldshaper
 Goldwork
 Goldworked
 goldwyrm
+golemancer
 golemsblood
 Gomin
 gorebreaker
