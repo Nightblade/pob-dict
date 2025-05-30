@@ -38,6 +38,7 @@ shockwave
 Shortbow
 socketable
 spaghettification
+spammable
 specularity
 subtables
 targetable
