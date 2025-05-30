@@ -1472,6 +1472,7 @@ manaforge
 manaforged
 manastorm
 manaweave
+mancer
 Manchettes
 Maracle
 Marak
@@ -2088,6 +2089,7 @@ Sirus's
 Sirus's's
 skadi
 skelemancer
+skelenado
 sketh
 skictis
 skillpoints
