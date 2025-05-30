@@ -4,8 +4,7 @@ _chanelling_
 _ingite
 _momnetum_
 _ominion
-ABTTAzmeri
-ABTTAzmeriBasaliskShroud
+ABTT
 amuletatlas
 AreaofEffect
 AtlasCruasderJudgeFadingNova
@@ -49,6 +48,7 @@ LightningArrowof
 Logik
 MinionsAreUndamagable
 Nonpathing
+overheadslamforward
 passiveskillscreen
 PenanceBrandof
 Perforateof
