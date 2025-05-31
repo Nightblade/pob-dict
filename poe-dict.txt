@@ -256,6 +256,7 @@ bladeblast
 bladedancer
 bladefall
 Bladeguard
+Bladelash
 blademaster
 blademistress
 bladestorm
@@ -283,6 +284,7 @@ blockable
 Blonca
 bloodback
 Bloodbarrier
+bloodbather
 bloodblessed
 bloodboil
 bloodbond
@@ -298,6 +300,7 @@ bloodplay
 bloodpriest
 bloodpriests
 bloodreap
+Bloodrite
 bloodscent
 bloodscouring
 bloodseeker
@@ -306,12 +309,14 @@ bloodshapers
 bloodsinger
 bloodsoaked
 bloodstorm
+Bloodthief
 bloodwing
 Blueflame
 blunderbore
 bluntslag
 bodyswap
 bodythief
+Bogfelled
 bogsong
 boka
 bonebreaker
@@ -420,6 +425,7 @@ cavedweller
 cavestalker
 cavia
 celona
+Cenotes
 cephalis
 ceraunophile
 cerberon
@@ -519,6 +525,7 @@ Cybil
 Cybil's
 cystcaller
 Daevata's
+Daggerdancer
 daluatti
 damoi
 danai
@@ -594,6 +601,7 @@ diablo
 Dialla
 Dialla's
 diamondskin
+Digsite
 dimachaeri
 Dionadair
 direblade
@@ -667,6 +675,7 @@ dustcrab
 dustspitter
 dyadian
 dyadus
+Dyna
 eagleeye
 eagletalons
 eard
@@ -720,6 +729,7 @@ endbringer
 energyshield
 Enezun's
 Enoroa
+Entrailhome
 eoin
 EOUTOFMEMORY
 ephij
@@ -747,6 +757,7 @@ Ewar
 Ewar's
 exartze
 excellis
+Excoriator
 Execratus
 ExileCon
 exilings
@@ -852,6 +863,7 @@ fleshrend
 fleshrender
 fleshripper
 fleshsmith
+Fleshstabber
 flickerflame
 flickershade
 flickerstrike
@@ -1222,6 +1234,7 @@ janaar
 jarek
 Jarngreipr
 jatin
+Javelineer
 jawchaw
 jeinei
 jik'shah
@@ -1258,6 +1271,7 @@ kalria
 kaltenhalt
 kaltensoul
 kamaq
+Kamasa
 Kamasan
 Kaom
 Kaom's
@@ -1495,6 +1509,7 @@ Matryoshka
 Matsya
 matua
 maulhead
+Mawdun
 maxarius
 mazarine
 meatgrinder
@@ -1554,6 +1569,7 @@ Mokou's
 Mon'tregul
 Mon'tregul's
 moneypouch
+Mongrelmaster
 Moonbender
 Moonbender's
 moondrops
@@ -1652,6 +1668,7 @@ Niko
 Niko's
 nimis
 noasync
+Noboss
 nochat
 nologo
 Nomic
@@ -1707,6 +1724,7 @@ oriathian
 Oriathians
 Orichalcum
 ormud
+Orok
 orolath
 orra
 ortoi
@@ -1717,6 +1735,7 @@ Oshabi's
 oskarm
 osmea
 ossecati
+Osseodon
 otairo
 otesha
 outlevel
@@ -1836,6 +1855,7 @@ Putembo's
 pyromancer
 pyromancers
 pyromantic
+Pyromushroom
 Pyrophyte
 pyroshock
 Q'ura
@@ -1844,6 +1864,7 @@ Qianga
 Qiongqi
 Qotra
 Qotra's
+Quadrilla
 Quatl's
 Quecholi
 quecholli
@@ -1889,6 +1910,7 @@ razorglass
 razorleaf
 razorleg
 razormaw
+Realmgate
 realmshaper
 Reavers
 recombinate
@@ -1921,6 +1943,7 @@ rhoa
 Rhoahide
 rhoas
 rhodion
+Ribrattle
 riftwalk
 riftwalker
 Rigvald's
@@ -1988,9 +2011,12 @@ sallazzang
 Sambodhi
 Sambodhi's
 sanctorum
+Sandflesh
+Sandscoured
 sandspitter
 sandspitters
 sandstrider
+Sandswept
 Sandsworn
 sandwhipper
 sandworn
@@ -2016,6 +2042,7 @@ scourgelord
 screenshake
 seaborn
 seaglass
+Searot
 seawitch
 sebbert
 secutor
@@ -2055,6 +2082,7 @@ sheaq
 shieldbearer
 shieldblock
 shimmeron
+Shipgraveyard
 shivershell
 shiversting
 shivrul
@@ -2105,6 +2133,7 @@ skullbearer
 skullbreaker
 skullcracking
 skullhead
+Skullslinger
 skyborn
 skycaller
 Skycrown
@@ -2118,9 +2147,11 @@ slavemaster
 Slipstrike
 slitherpinch
 slitherskin
+Slitherspitter
 Slitherspitters
 slivertongue
 snakepit
+Snakethroat
 Snakewood
 snowblind
 snowcaller
@@ -2138,6 +2169,7 @@ Sothotep
 soulbinder
 Soulbound
 Soulbreaker
+Soulcatcher
 soulcore
 Souleater
 souleye
@@ -2156,6 +2188,7 @@ southswing
 sparkcaller
 sparkfist
 Spearfield
+Spearthrower
 Spectred
 speedrunning
 spellblade
@@ -2177,6 +2210,7 @@ spinecrack
 spinecruncher
 spinefuse
 spinesnap
+Spinesnatcher
 Spinestorm
 spiritblade
 Spiritbone
@@ -2360,6 +2394,7 @@ thornwolf
 thraxia
 Threadspinner
 thrillsteel
+Throatcutter
 throatseeker
 Throatslitter
 thundercaller
@@ -2397,6 +2432,7 @@ Titucus
 togglenochat
 Toggo
 tombfist
+Tombshrieker
 topotante
 torchoak
 Tormenter
@@ -2644,6 +2680,7 @@ whakatutuki
 whakawairua
 Whaletooth
 whare
+Wheelbound
 whelpling
 whipleg
 whirlingstaff
@@ -2729,6 +2766,7 @@ xuatl
 Xyclucian
 Y'ara'az
 yaksha
+Yaochi
 Yaomac
 Yaomac's
 Yeena
