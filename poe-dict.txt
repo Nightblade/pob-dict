@@ -133,6 +133,7 @@ ashcaller
 ashrend
 ashscale
 ashweaver
+Asinia
 assailum
 Astrali
 Astralis
@@ -189,6 +190,7 @@ balus
 bameth
 banebrand
 Bangled
+Bannerbearing
 baracus
 Baran
 Baran's
@@ -874,6 +876,7 @@ forgeguard
 forgekeeper
 forgemaster
 Formshifter
+Foulspawn
 foxfly
 foxhide
 foxshade
@@ -1132,6 +1135,7 @@ hollowskull
 Honourhold
 honourhome
 hoofprints
+Hookhorror
 hopeshredder
 horticrafting
 hortus
@@ -2189,6 +2193,7 @@ sparkcaller
 sparkfist
 Spearfield
 Spearthrower
+Spearwoman
 Spectred
 speedrunning
 spellblade
@@ -2509,6 +2514,7 @@ unshaping
 unsquelch
 Unwithered
 upconversion
+Urnwalker
 Urnwalkers
 uromoti
 ursaling

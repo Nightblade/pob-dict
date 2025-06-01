@@ -23,6 +23,7 @@ greathelm
 groupless
 indicies
 Lumbermill
+Magicks
 mana
 nerfed
 pathing
