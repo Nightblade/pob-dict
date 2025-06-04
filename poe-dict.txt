@@ -173,6 +173,7 @@ axehorn
 aylardex
 Azak
 azala
+Azarian
 azcapa
 Azis
 aziza
@@ -217,6 +218,7 @@ beastcraft
 beastcrafted
 beastcrafting
 Beastcrafts
+Beastlord
 beastmaster
 Beetlebite
 beidat
@@ -250,6 +252,7 @@ blackflame
 blackgleam
 blackhole
 blackhowl
+Blackjaw
 blackstar
 blacksteel
 bladeback
@@ -345,6 +348,7 @@ braeta
 braineater
 Brakka
 brambleback
+Brambleghast
 bramblejack
 bramblemist
 Bramblesiege
@@ -393,6 +397,7 @@ Cadigan
 Cadigan's
 Cadiro
 Cadiro's
+Caedron
 Caelyn
 caer
 caesarius
@@ -452,6 +457,7 @@ Cherrubim
 Cherrubim's
 chestpiece
 chestplate
+Chetza
 chiara
 chillcaller
 chimeral
@@ -485,6 +491,7 @@ coldhearted
 coldsnap
 compulsor
 coniraya
+Connal
 convocated
 Coolheaded
 Coolus
@@ -511,6 +518,7 @@ crastus
 criticals
 crits
 Crossblade
+Crowbell
 crowstorm
 crushclaw
 crushclaws
@@ -703,6 +711,7 @@ Einhar
 Einhar's
 eiphirio
 ejoris
+Ekbab
 El'Abin
 El'Abin's
 Elano
@@ -934,6 +943,7 @@ gavuum
 gazuul
 gehennix
 Geis
+Gelida
 Gemcrust
 gemcutter
 gemcutter's
@@ -1004,6 +1014,7 @@ gorgol
 Gorian
 Goroshi
 gorulis
+Gozen
 grandmastery
 granitecrush
 Grattus
@@ -1029,6 +1040,7 @@ greedtrap
 greengate
 grelwood
 grenn
+Gressor
 Greust
 Greust's
 greychain
@@ -1041,17 +1053,20 @@ Grimhaven
 grindy
 groundslam
 groveguard
+Grudgelash
 Gruthkul
 Gruthkul's
 gryffon
 guatelitzi
 guildmates
+Gulzal
 guraq
 gururu
 Gutspike
 gwayne
 Gwennen
 Gwennen's
+Hadi
 Hadrey
 haemocombustion
 Haemocrystals
@@ -1075,6 +1090,7 @@ harpyon
 harpyskin
 Hartlin
 hasina
+Hask
 hatchetmaster
 hatebeat
 hateforge
@@ -1085,6 +1101,7 @@ havenwood
 haviri
 hayoxi
 hazarat
+Headcrusher
 headstaver
 headwrap
 heartbound
@@ -1171,6 +1188,7 @@ ichimonji
 icius
 igna
 Ignagduk
+Ignatia
 Igniferis
 ignoblest
 ignomon
@@ -1218,6 +1236,7 @@ irontrap
 Ironweld
 ironwoodtotem
 irwen
+Ishtaroth
 isildria
 Isla
 Isla's
@@ -1279,6 +1298,7 @@ Kamasa
 Kamasan
 Kaom
 Kaom's
+Karash
 kartarus
 karui
 karukaru
@@ -1360,6 +1380,7 @@ kutec
 kuto
 Kyra
 labrys
+Lachlann
 lackwits
 lael
 laffrey
@@ -1488,6 +1509,7 @@ manabond
 manaconduit
 manaforge
 manaforged
+Manassa
 manastorm
 manaweave
 mancer
@@ -1524,6 +1546,8 @@ Medved
 Medved's
 Meginord
 Meginord's
+Mektul
+Meltwax
 melur
 mentalacuity
 mephod
@@ -1704,6 +1728,7 @@ olgosso
 olli
 Ollin
 olof
+Oloton
 Olroth
 Olroth's
 Olrovasara
@@ -1795,6 +1820,7 @@ phylacteral
 piken
 pikerivet
 pileah
+Pirasha
 piratebane
 Piscator's
 pitfighter
@@ -1908,6 +1934,7 @@ Rathorn
 rathpith
 ratmother
 rattleback
+Rattlecage
 raulo
 ravenal
 razorglass
@@ -1971,6 +1998,8 @@ rollem
 Romira
 Romira's
 rongokurai
+Rootdredge
+Rootgrasp
 rosethorn
 roseus
 rotblood
@@ -1998,6 +2027,7 @@ runeshining
 runesmithed
 Runesmithing
 Rustbowl
+Rustlord
 ruthlessfilter
 Ryslatha
 Ryslatha's
@@ -2028,6 +2058,7 @@ Sanguimancer
 sanguimancy
 sanguis
 Santoni
+Saphira
 Saqawal
 Saqawal's
 saqawals
@@ -2107,6 +2138,7 @@ silkweave
 silverbough
 silverbranch
 Silverbuckled
+Silverfist
 Silverfist's
 Silverthorne
 silverwood
@@ -2287,6 +2319,7 @@ stormcult
 stormfire
 stormflay
 stormfly
+Stormgore
 stormguard
 stormhand
 stormheart
@@ -2374,6 +2407,7 @@ Tempestology
 temu
 terese
 tetherein
+Tetzcatl
 Tetzlapokal
 tevarus
 thaumatocracy
@@ -2438,9 +2472,11 @@ togglenochat
 Toggo
 tombfist
 Tombshrieker
+Tonqui
 topotante
 torchoak
 Tormenter
+Torrek
 toru
 toruul
 toxicist
@@ -2551,6 +2587,7 @@ varrich
 varunastra
 vastir
 vastiri
+Vastweld
 Veinslicer
 venarius
 vendigo
@@ -2624,6 +2661,7 @@ Vorana's
 voranas
 Vorici
 Vorici's
+Vorrik
 vsync
 vulcanist
 vulconus
@@ -2631,6 +2669,7 @@ vulkan
 waikoama
 Waistgate
 waitforpreload
+Wali
 walkthrough
 wandslinger
 warband
@@ -2775,6 +2814,7 @@ yaksha
 Yaochi
 Yaomac
 Yaomac's
+Yaota
 Yeena
 Yeena's
 Ylfe
@@ -2801,9 +2841,11 @@ Zarka
 Zarokh
 zeel
 Zeel's
+Zekoa
 Zerphi
 Zerphi's
 Zhenya
+Zicoatl
 zilquapa
 zipline
 zorioc
