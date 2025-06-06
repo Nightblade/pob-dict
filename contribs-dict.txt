@@ -52,6 +52,7 @@ ctrpetersen
 czarandy
 dambrisco
 dance
+DarkJaslo
 Dav1dde
 DavidBindloss
 dbjorge
@@ -161,6 +162,7 @@ mart-mihkel
 mauriliogenovese
 MaxKruse
 mboiev
+mcagnion
 mcheese
 meatballing
 meepen
