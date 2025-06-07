@@ -130,6 +130,7 @@ MeDott29
 melnichenko
 melnichuk
 metatable
+MIDDLEBUTTON
 minionbuff
 modlist
 movespeed
