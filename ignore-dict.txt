@@ -6,6 +6,7 @@ _momnetum_
 _ominion
 Abandonded
 ABTT
+ABTTAzmeriBasaliskShroud
 AilmentThresholdfromEnergyShield
 amuletatlas
 AreaofEffect
@@ -31,6 +32,7 @@ DestructiveLinkSkeletonBombadierMinion
 DivineIreof
 dontSplitEvade
 DoubleStrikeof
+EnmitysEmbrace
 Exsanguinateof
 FireballIncusionFire
 FireballIncusionLightning
