@@ -15,6 +15,7 @@ adamantite
 adderstouch
 Adiyah
 Adiyah's
+Adonia
 adus
 Aequo
 Aerisvane's
@@ -202,6 +203,7 @@ Bargg
 barius
 barkhul
 Barkskin
+Barrageable
 Bartek's
 baselard
 basemetal
@@ -1631,6 +1633,7 @@ multistrikeable
 multithrow
 multitrap
 murgeth
+Murkshaft
 muruk
 mutewind
 myrae
@@ -2442,6 +2445,7 @@ throatseeker
 Throatslitter
 thundercaller
 thunderfist
+Thundergod
 thunderguard
 thunderhand
 thundersight
