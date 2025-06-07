@@ -1161,6 +1161,7 @@ hotfix
 hotfixed
 hotfixes
 houndmaster
+Howlcrack
 hrimburn
 Hrimnor
 Hrimnor's
@@ -2073,6 +2074,7 @@ scalefruit
 scarbearer
 scinteel
 scissorblades
+Scornflux
 scourgelord
 screenshake
 seaborn
@@ -2268,6 +2270,7 @@ stabby
 Staghorn
 stamatis
 stantinus
+Starcaller
 starfall
 starforge
 Starkonja
