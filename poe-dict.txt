@@ -165,6 +165,7 @@ aurseize
 aurumvorax
 Autoexertion
 Autonomir
+Autopulse
 autoreply
 auxium
 avarius
