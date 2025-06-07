@@ -10,6 +10,7 @@ amuletatlas
 AreaofEffect
 AtlasCruasderJudgeFadingNova
 AzmeriBasiliskDecapThrust
+beleaugered
 beltatlas
 BladeBlastof
 Bladefallof
