@@ -691,6 +691,7 @@ dyadus
 Dyna
 eagleeye
 eagletalons
+Eagon
 eard
 Earendel
 Earendel's
@@ -969,6 +970,7 @@ ghostmarch
 ghostram
 ghostreaver
 ghostwrithe
+ghoulhunter
 ghroth
 giantbone
 giantsbane
@@ -1950,6 +1952,7 @@ Realmgate
 realmshaper
 Reavers
 recombinate
+recombinator
 recoveroldcraftingbenchitem
 redbeak
 redblade
@@ -2027,6 +2030,8 @@ Runecrafting
 runed
 runeflaring
 runegleaming
+runegraft
+runegrafts
 runemaster
 runeshining
 runesmithed
