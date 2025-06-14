@@ -234,6 +234,7 @@ benric
 Berek
 Berek's
 berrots
+berserking
 Bestel
 Bestel's
 betucia
@@ -1186,6 +1187,7 @@ icebearer
 icebite
 iceblood
 icefang
+icefire
 iceheart
 icestorm
 icestorms
