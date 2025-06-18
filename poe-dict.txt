@@ -2260,6 +2260,7 @@ Spinebreaker
 spinecrack
 spinecruncher
 spinefuse
+spinehail
 spinesnap
 Spinesnatcher
 Spinestorm
