@@ -32,6 +32,7 @@ DestructiveLinkSkeletonBombadierMinion
 DivineIreof
 dontSplitEvade
 DoubleStrikeof
+emmyrc
 EnmitysEmbrace
 Exsanguinateof
 FireballIncusionFire
