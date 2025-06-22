@@ -584,6 +584,7 @@ Debeon's
 debuffing
 decurve
 Dedalian
+deepcaller
 deepcrush
 deepthoughts
 deepwater
