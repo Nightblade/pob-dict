@@ -63,6 +63,7 @@ dropdowns
 edvinas
 Egor
 emmylua
+emmyrc
 endur
 findexplicit
 findimplicit
