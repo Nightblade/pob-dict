@@ -135,6 +135,7 @@ Kayella
 kayokalinauskas
 Kerberos9
 KillerMZE
+kisiex
 kkienzle
 kolhell
 krfreak
@@ -287,6 +288,7 @@ Tntmister
 tommysays
 Torchery
 trimbe
+tserdar
 twiz-git
 Typepluto
 uilman
