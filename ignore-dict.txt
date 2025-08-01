@@ -68,6 +68,7 @@ RejuvinationTotem
 Remembrancing
 Reservationwatcher
 ringatlas
+ryuukk
 ScorchingRayofImmolation
 SDPS
 Shapeshifted
