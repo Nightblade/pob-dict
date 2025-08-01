@@ -26,6 +26,7 @@ jobs:
           access_token: ${{secrets.GITHUB_TOKEN}}
 
       - run: |
+          cat contribs-dict.txt >> contributors.txt
           export LC_ALL=C && sort -fu contributors.txt | grep -v "github-actions" > contribs-dict.txt
           wc -l contribs-dict.txt
           rm contributors.txt
