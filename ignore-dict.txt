@@ -32,7 +32,6 @@ DestructiveLinkSkeletonBombadierMinion
 DivineIreof
 dontSplitEvade
 DoubleStrikeof
-emmyrc
 EnmitysEmbrace
 Exsanguinateof
 FireballIncusionFire
@@ -52,7 +51,6 @@ intimidating_cry_empowerd_attacks_deal_double
 intjewel
 jewelcircle
 LightningArrowof
-Logik
 MinionsAreUndamagable
 Nonpathing
 overheadslamforward
@@ -61,14 +59,12 @@ PenanceBrandof
 Perforateof
 perp
 pobbin
-Quickstick
 quiveratlas
 ReaveofRefraction
 RejuvinationTotem
 Remembrancing
 Reservationwatcher
 ringatlas
-ryuukk
 ScorchingRayofImmolation
 SDPS
 Shapeshifted

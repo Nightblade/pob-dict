@@ -197,7 +197,6 @@ skillpopup
 Skriptunoff
 slidedown
 slideup
-smita
 someuser
 statdesc
 statgroup
