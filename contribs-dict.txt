@@ -80,6 +80,7 @@ Dullson
 edmundsmith
 Edvinas-Smita
 eltociear
+emmanuel-ferdman
 enizor
 eps1lon
 Ethrel
@@ -288,6 +289,7 @@ temmings
 teroshan
 teuneboon
 tgavankar
+TheDechev
 TiagoGoddard
 tinycrops
 Tivorak
