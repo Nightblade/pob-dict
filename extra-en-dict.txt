@@ -59,5 +59,6 @@ unfun
 uniques
 unshattered
 unsocket
+untargetable
 Verglas
 wieldable

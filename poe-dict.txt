@@ -394,10 +394,10 @@ brownfur
 brownsmith
 bruteforce
 Brylla
-Brynabas
 Brynhand's
 burtok
 Bynden
+Byrnabas
 Cadigan
 Cadigan's
 Cadiro
@@ -593,6 +593,7 @@ deidbell
 deidbellow
 dekhara
 Dekharan
+Delwyn
 dementophobia
 demonfire
 demonflame
@@ -732,6 +733,7 @@ elevore
 elida
 Elreon
 Elreon's
+Emberborn
 embercaller
 emberkeep
 embermage
@@ -1119,6 +1121,7 @@ heartpierce
 heartseeker
 heartstopper
 heartstopping
+Heatproofing
 heatshiver
 heavydraw
 hedron
@@ -2060,6 +2063,7 @@ sallazzang
 Sambodhi
 Sambodhi's
 sanctorum
+Sandfish
 Sandflesh
 Sandscoured
 sandspitter
@@ -2671,6 +2675,7 @@ voidstones
 voidtouched
 voidwalker
 volcanus
+Volkhar
 Volkuur
 Volkuur's
 Voll
@@ -2741,6 +2746,7 @@ Weylin
 Weylin's
 Whakano
 Whakano's
+Whakapanu
 whakatutuki
 whakawairua
 Whaletooth
