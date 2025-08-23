@@ -12,7 +12,7 @@ All `*-dict.txt` files consist of a single `LF`-terminated word per-line, sorted
 | [pob-dict.txt](pob-dict.txt) | Words specific to PoB development and associated files.
 | [ignore-dict.txt](ignore-dict.txt) | Words to be ignored by CSpell.
 | [extra-en-dict.txt](extra-en-dict.txt) | Extra English words that are not in CSpell's dictionaries.
-| [contribs-dict.txt](contribs-dict.txt) | GitHub contributor's login names.  Auto-generated, do not edit manually.
+| [contribs-dict.txt](contribs-dict.txt) | GitHub contributor's login names.  New contributors are automatically added via workflow actions.
 | [spellcheck.yml](docs/spellcheck.yml) | Example GitHub workflow using [`cspell-action`](https://github.com/streetsidesoftware/cspell-action).
 
 
