@@ -204,7 +204,8 @@
         "wont->won't",
         "targetting->targeting",
         "therefor->therefore",
-        "consistant->consistent"
+        "consistant->consistent",
+        "dont->don't"
     ],
     "includeRegExpList": [],
     "loadDefaultConfiguration": true,
