@@ -136,6 +136,7 @@ ashscale
 ashweaver
 Asinia
 assailum
+Assandra's
 Astrali
 Astralis
 astramentis
@@ -712,6 +713,7 @@ edryd
 Edyrn's
 eedaiak
 eelskin
+Eeshta
 Effigial
 effigon
 egrin
@@ -1028,6 +1030,7 @@ gorulis
 Gozen
 grandmastery
 granitecrush
+Grannell's
 Grattus
 gravebind
 graveblood
@@ -1062,6 +1065,7 @@ Grigor's
 Grimgrasp
 Grimhaven
 grindy
+Grold
 groundslam
 groveguard
 Grudgelash
@@ -1124,6 +1128,7 @@ heartstopping
 Heatproofing
 heatshiver
 heavydraw
+Hedgewitch
 hedron
 helial
 hellbringer
@@ -1138,6 +1143,7 @@ heretech
 heroicspirit
 Heroum
 Herules
+Hestra's
 hetzapal
 heup
 Hexbearer
@@ -1422,6 +1428,7 @@ Leatherplate
 leatherscale
 Legionstride
 legius
+Leld's
 leli
 lessard
 Levinstone
@@ -1648,6 +1655,7 @@ muruk
 mutewind
 myrae
 Myris
+Myrk's
 mysterial
 namelock
 namelocking
@@ -2117,6 +2125,7 @@ serpentscale
 serpentstance
 serverside
 seryl
+Seske's
 sevet
 shadestalker
 Shadowstalk
@@ -2227,6 +2236,7 @@ Soulbound
 Soulbreaker
 Soulcatcher
 soulcore
+Soulcores
 Souleater
 souleye
 soulfeast
@@ -2458,6 +2468,7 @@ thrillsteel
 Throatcutter
 throatseeker
 Throatslitter
+Thruldana
 thundercaller
 thunderfist
 Thundergod
