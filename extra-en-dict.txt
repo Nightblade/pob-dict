@@ -27,6 +27,7 @@ Magicks
 mana
 nerfed
 pathing
+pearlescent
 progenesis
 reave
 reaver

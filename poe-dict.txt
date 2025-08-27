@@ -35,10 +35,12 @@ Ahn's
 ahuana
 ahuatotli
 ailentia
+Ailith's
 akaveesh
 akhara
 akil
 akoya
+Akoyan
 alal
 alano
 Alberon
@@ -102,6 +104,7 @@ Arimagius
 arimor
 arin
 arinea
+Arjun's
 arkhon
 arkhons
 armala
@@ -225,6 +228,7 @@ beastcrafting
 Beastcrafts
 Beastlord
 beastmaster
+Beastrite
 Beetlebite
 beidat
 belatra
@@ -543,6 +547,7 @@ Cybil's
 cystcaller
 Daevata's
 Daggerdancer
+Daggerfoot
 daluatti
 damoi
 danai
@@ -661,6 +666,7 @@ dragonfangs
 dragonfire
 dragonscale
 drakeling
+Drakeskin
 Draven
 dreadarc
 dreadbeak
@@ -895,6 +901,7 @@ flockmate
 FMOD
 Foaga
 forgeguard
+Forgehammer
 forgekeeper
 forgemaster
 Formshifter
@@ -1952,6 +1959,7 @@ raphina
 rasa
 Rashkaldor
 Rashkaldor's
+Ratha's
 Rathbreaker
 Rathorn
 rathpith
@@ -2107,6 +2115,7 @@ screenshake
 seaborn
 seaglass
 Searot
+Seastorm
 seawitch
 sebbert
 secutor
@@ -2177,6 +2186,7 @@ Sinvicta's
 Sione
 Siosa
 Siosa's
+Sirenscale
 Sirrius
 Sirus
 Sirus's
@@ -2422,6 +2432,7 @@ Tarkleigh
 Tarkleigh's
 tarollo
 Taruk
+Tasalian
 Tasalio
 Tasalio's
 Tasuni
@@ -2430,6 +2441,7 @@ tavukai
 Tawatawa
 Tawhanuku
 tawhoa
+Tawhoan
 Tawm'r
 Tecrod
 Tecrod's
@@ -2617,6 +2629,7 @@ Vanja
 Vanja's
 vanth
 varakath
+Varashta's
 varhesh
 varrich
 varunastra
