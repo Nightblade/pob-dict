@@ -20,8 +20,10 @@ BladeFlurryof
 BlightofAtrophy
 BlightofContagion
 BlockedDamageDoesntBypassES
+BloodUltimatium
 bootsatlas
 bootsatlasdexint
+BurrowerVacuume
 CritsDontAlways
 CritsOnYouDont
 CycloneofTumult
@@ -32,12 +34,14 @@ DestructiveLinkSkeletonBombadierMinion
 DivineIreof
 dontSplitEvade
 DoubleStrikeof
+EGSavageGaint
 EnmitysEmbrace
 Exsanguinateof
 FireballIncusionFire
 FireballIncusionLightning
 FistofWar
 Flameblastof
+GenadeExplosion
 glovesatlasdex
 glovesatlasint
 glovesatlasstr
@@ -51,6 +55,8 @@ ingame
 intimidating_cry_empowerd_attacks_deal_double
 intjewel
 jewelcircle
+KinahraJump
+LegsGenadeExplosion
 LightningArrowof
 MinionsAreUndamagable
 Nonpathing
@@ -60,8 +66,10 @@ PenanceBrandof
 Perforateof
 perp
 pobbin
+PosionSpray
 quiveratlas
 ReaveofRefraction
+Regurg
 RejuvinationTotem
 Remembrancing
 Reservationwatcher
@@ -94,6 +102,5 @@ UniqueFlaskOverhealToGuard1
 UniqueManaScarificeToAllies1
 UniqueModifyableWhileCorrupted1
 UniqueNonherent
-VultureRegurg
 wandatlas
 winepath
