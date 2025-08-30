@@ -1,4 +1,5 @@
 _atleast_
+_onhit_
 abyssa
 accountname
 accuracydex

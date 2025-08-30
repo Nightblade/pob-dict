@@ -38,9 +38,11 @@ ailentia
 Ailith's
 akaveesh
 akhara
+Akharas
 akil
 akoya
 Akoyan
+Akthi
 alal
 alano
 Alberon
@@ -54,6 +56,7 @@ alivia
 Alkem
 allflame
 Alliston
+Allstar
 aloris
 alsarus
 Amanamu
@@ -67,9 +70,11 @@ anacuacotli
 anaveli
 Andvarius
 anemina
+Angerfish
 animalspirit
 annest
 antalie
+Anundr
 AoE
 AoEs
 Apep
@@ -86,6 +91,7 @@ Arakaali
 Arakaali's
 Araku
 Aramil
+Arastas
 Arborix
 arcanepotency
 arcanity
@@ -174,6 +180,7 @@ Autopulse
 autoreply
 auxium
 avarius
+Avelyne
 aventail
 axehorn
 aylardex
@@ -183,6 +190,7 @@ Azarian
 azcapa
 Azis
 aziza
+Azmadi
 azmeri
 azmerian
 azmerians
@@ -210,6 +218,7 @@ barkhul
 Barkskin
 Barrageable
 Bartek's
+Barya
 baselard
 basemetal
 basetype
@@ -357,6 +366,7 @@ bowmaker
 braeta
 braineater
 Brakka
+Brakkus
 brambleback
 Brambleghast
 bramblejack
@@ -397,10 +407,12 @@ broodqueen
 broodspawn
 brownfur
 brownsmith
+Brughor
 bruteforce
 Brylla
 Brynabas
 Brynhand's
+Bugbot
 burtok
 Bynden
 Byrnabas
@@ -446,6 +458,7 @@ celona
 Cenotes
 cephalis
 ceraunophile
+Cerberic
 cerberon
 ch'aska
 chaber
@@ -483,6 +496,7 @@ cholotl
 chrometouched
 chronomancer
 chronophage
+Chunklet
 ciergan
 cinderswallow
 cinquedea
@@ -539,6 +553,7 @@ cryophile
 crystalarium
 crystalising
 crystalskin
+Cuachic
 cuebiyari
 Cursecarver
 Cursespeaker's
@@ -625,6 +640,7 @@ diablo
 Dialla
 Dialla's
 diamondskin
+Diamora
 Digsite
 dimachaeri
 Dionadair
@@ -642,6 +658,7 @@ docere
 Doedre
 Doedre's
 Doedres
+Dogpile
 Dominus
 donotdisturb
 doomcast
@@ -742,6 +759,8 @@ elevore
 elida
 Elreon
 Elreon's
+Elswyth
+Elzarah
 Emberborn
 embercaller
 emberkeep
@@ -903,6 +922,7 @@ Foaga
 forgeguard
 Forgehammer
 forgekeeper
+Forgeman
 forgemaster
 Formshifter
 Foulspawn
@@ -917,6 +937,7 @@ frenzyhound
 Freythorn
 frosal
 frosis
+Frostbane
 Frostbearer
 frostblink
 Frostblink's
@@ -937,11 +958,13 @@ Frostwall
 frostweaver
 frostwing
 Fulcent
+Fungalmancer
 Fungalreaver
 furia
 furybolts
 furyfoot
 fusilade
+Galai
 galecaller
 galesight
 Galhad
@@ -991,6 +1014,7 @@ ghroth
 giantbone
 giantsbane
 giantslayer
+Giga
 gisale
 glacialcage
 glaciator
@@ -1138,6 +1162,7 @@ heatshiver
 heavydraw
 Hedgewitch
 hedron
+Heldra
 helial
 hellbringer
 Hellhound
@@ -1175,6 +1200,7 @@ hitboxes
 Hoghunt
 hollowpoint
 hollowskull
+Holten
 Honourhold
 honourhome
 hoofprints
@@ -1192,6 +1218,7 @@ hrimburn
 Hrimnor
 Hrimnor's
 hrimsorrow
+Huhu
 huitepa
 Hyaon
 Hyaon's
@@ -1214,6 +1241,7 @@ icetomb
 iceweaver
 ichimonji
 icius
+Igguran
 igna
 Ignagduk
 Ignatia
@@ -1282,6 +1310,7 @@ jaetai
 Jamanra
 Jamanra's
 janaar
+Jank
 jarek
 Jarngreipr
 jatin
@@ -1336,6 +1365,8 @@ Kastov
 Keth
 Ketzuli
 keyblade
+Khari
+Khatal
 khor
 Kiara
 Kiara's
@@ -1390,10 +1421,13 @@ Koura
 Kraityn
 Kraityn's
 krangled
+Kriar
+Kriar's
 Krillson
 Krillson's
 krow
 krugg
+Krutog
 kruug
 ksaret
 kuduku
@@ -1504,6 +1538,7 @@ luthis
 lycius
 lycosidae
 lysah
+Lythara
 m'gaska
 m'uneh
 Maata
@@ -1531,6 +1566,7 @@ makoru
 Malachai
 Malachai's
 malachus
+Malgor
 Maligaro
 Maligaro's
 mammothcage
@@ -1543,6 +1579,8 @@ manastorm
 manaweave
 mancer
 Manchettes
+Manoki
+Mantaray
 Maracle
 Marak
 maraketh
@@ -1567,6 +1605,7 @@ maulhead
 Mawdun
 maxarius
 mazarine
+Maztli
 meatgrinder
 mechalarm
 mecharach
@@ -1610,6 +1649,7 @@ minibosses
 minigame
 minimap
 miniondamage
+Minisun
 mirageblast
 mirebough
 misclicks
@@ -1645,7 +1685,9 @@ mortalbane
 mortalconviction
 mortimus
 mortumus
+Morvak
 morvant
+Morwyn
 motiata
 multicastable
 Multiclone
@@ -1676,6 +1718,7 @@ nashta
 nasima
 nassar
 Natalia
+Nautilord
 Navali
 Navali's
 nebria
@@ -1801,6 +1844,7 @@ outlevel
 outro
 overcap
 overcapped
+Overheadslam
 overperforming
 overprepared
 overshock
@@ -1921,6 +1965,8 @@ pyroshock
 Q'ura
 Qarl
 Qianga
+Qimah
+Qimar
 Qiongqi
 Qotra
 Qotra's
@@ -1951,6 +1997,7 @@ raincaller
 rakango
 rakangos
 rakiata
+Rakkar
 Ralakesh
 Ralakesh's
 ramako
@@ -2021,6 +2068,7 @@ ringmaker
 Riona
 Ripwire
 ritemaster
+Riverhold
 riverways
 rockchewer
 Rockpools
@@ -2041,6 +2089,7 @@ rothus
 rotmother
 rudiarius
 Rudja
+Rugosa
 rukuku
 Rumblemarch
 Rumi
@@ -2089,6 +2138,7 @@ sandstrider
 Sandswept
 Sandsworn
 sandwhipper
+Sandworm
 sandworn
 Sanguimancer
 sanguimancy
@@ -2130,6 +2180,8 @@ Sentari
 Sentari's
 sephirot
 Septimus
+Serath
+Serle
 Serle's
 serpentscale
 serpentstance
@@ -2138,6 +2190,7 @@ seryl
 Seske's
 sevet
 shadestalker
+Shadowpriest
 Shadowstalk
 shadowstalker
 shadowstitch
@@ -2161,6 +2214,7 @@ shivershell
 shiversting
 shivrul
 Shiyo
+Shockblade
 shockbomb
 Shockburst
 Shockchain
@@ -2173,6 +2227,7 @@ Shyaba
 Sidhebite
 sidhebreath
 siegebreaker
+Sigbert
 silkweave
 silverbough
 silverbranch
@@ -2184,6 +2239,7 @@ silverwood
 Sinvicta
 Sinvicta's
 Sione
+Siora
 Siosa
 Siosa's
 Sirenscale
@@ -2282,6 +2338,7 @@ spiderling
 spiderlings
 spidersilk
 spikeback
+Spikeball
 Spikeward
 Spinebreaker
 spinecrack
@@ -2297,6 +2354,7 @@ spiritflicker
 Spiritskin
 Splinterheart
 splintermind
+Splitbeast
 splitnewt
 Sporebloom
 sporebreath
@@ -2329,10 +2387,12 @@ steelworm
 stenly
 steppan
 stipecrawler
+Stoneback
 stonebeak
 Stoneclad
 stonefist
 stonegaze
+Stonemaw
 stoneraiser
 stonescale
 stoneskin
@@ -2408,6 +2468,7 @@ swiftbrand
 Swiftstalker
 swordstorm
 synthete
+Syvora
 tabula
 tacati
 tahi
@@ -2435,8 +2496,10 @@ Taruk
 Tasalian
 Tasalio
 Tasalio's
+Tasgul
 Tasuni
 Tasuni's
+Tavakai
 tavukai
 Tawatawa
 Tawhanuku
@@ -2455,6 +2518,7 @@ tetherein
 Tetzcatl
 Tetzlapokal
 tevarus
+Thariel
 thaumatocracy
 thaumetic
 thaumophage
@@ -2475,6 +2539,7 @@ thornrunner
 Thornskin
 thornweaver
 thornwolf
+Thraeven
 thraxia
 Threadspinner
 thrillsteel
@@ -2526,6 +2591,7 @@ Tormenter
 Torrek
 toru
 toruul
+Torvian
 toxicist
 tradewith
 Trampletoe
@@ -2575,6 +2641,7 @@ tupuna
 turong
 Twinclasp
 twinslice
+Twoheaded
 twyzel
 tyrannursus
 tzamoto
@@ -2626,12 +2693,14 @@ Valako
 Valako's
 valdo
 valyrium
+Vandroth
 Vanja
 Vanja's
 vanth
 varakath
 Varashta's
 varhesh
+Varloch
 varrich
 varunastra
 vastir
@@ -2652,6 +2721,7 @@ verusi
 Veruso
 Veruso's
 vessider
+Veynar
 vickas
 Victario
 Victario's
@@ -2712,6 +2782,7 @@ Vorana's
 voranas
 Vorici
 Vorici's
+Vornas
 Vorrik
 vsync
 vulcanist
@@ -2780,6 +2851,7 @@ whare
 Wheelbound
 whelpling
 whipleg
+Whiptongue
 whirlingstaff
 whispersteps
 wickerman
@@ -2822,6 +2894,7 @@ wolfpack's
 Wolfskin
 wolpertinger
 wolven
+Wolvenhold
 wondertrap
 wonderwalker
 woodful
@@ -2833,6 +2906,7 @@ Wraeclastian
 wraithlord
 wreckingball
 wrigglechaw
+Wulfric
 Wulfsbane
 Wurm
 Wurm's
@@ -2878,11 +2952,13 @@ yorishi
 Yriel
 Yriel's
 ystral
+Ytzara
 yugul
 yuushu
 zacharia
 zacharie
 zaffre
+Zahmir
 zahndethus
 zalatl
 Zalmarath
@@ -2894,10 +2970,12 @@ Zarokh
 zeel
 Zeel's
 Zekoa
+Zelina
 Zerphi
 Zerphi's
 Zhenya
 Zicoatl
 zilquapa
 zipline
+Zolin
 zorioc

@@ -45,6 +45,7 @@ glovesatlasstrint
 GSRoboHoundBellyDamage
 HARMONICMEAN
 helmetatlas
+HuhuGrub
 Incinerateof
 ingame
 intimidating_cry_empowerd_attacks_deal_double
@@ -93,5 +94,6 @@ UniqueFlaskOverhealToGuard1
 UniqueManaScarificeToAllies1
 UniqueModifyableWhileCorrupted1
 UniqueNonherent
+VultureRegurg
 wandatlas
 winepath
