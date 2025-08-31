@@ -32,9 +32,11 @@ Ahkeli
 Ahkeli's
 Ahn
 Ahn's
+Ahns
 ahuana
 ahuatotli
 ailentia
+Ailith
 Ailith's
 akaveesh
 akhara
@@ -61,6 +63,7 @@ aloris
 alsarus
 Amanamu
 Amanamu's
+Amanamus
 amarissa
 amblings
 ambrius
@@ -89,6 +92,7 @@ arachnoscorpions
 arachnoxia
 Arakaali
 Arakaali's
+Arakaalis
 Araku
 Aramil
 Arastas
@@ -159,6 +163,7 @@ atui
 Aturi
 Atziri
 Atziri's
+Atziris
 atzoatl
 augustina
 augyre
@@ -372,6 +377,7 @@ Brambleghast
 bramblejack
 bramblemist
 Bramblesiege
+Brambleslam
 brandsurge
 braom
 bravadi
@@ -571,6 +577,7 @@ Danse
 darbel
 Daresso
 Daresso's
+Daressos
 darkprism
 darkray
 darkscorn
@@ -638,6 +645,7 @@ dhunan
 diablo
 Dialla
 Dialla's
+Diallas
 diamondskin
 Diamora
 Digsite
@@ -743,6 +751,7 @@ egrin
 eihal
 Einhar
 Einhar's
+Einhars
 eiphirio
 ejoris
 Ekbab
@@ -790,6 +799,7 @@ Erian's
 erqi
 ersi
 erythrophagia
+Eshs
 essentia
 estazunti
 estoc
@@ -980,6 +990,7 @@ garuda
 Garuk's
 Garukhan
 Garukhan's
+Garukhans
 gaunts
 gavuum
 gazuul
@@ -1345,6 +1356,7 @@ Kalguuran
 Kalguurans
 Kalisa
 Kalisa's
+Kalisas
 kall
 kalria
 kaltenhalt
@@ -1354,6 +1366,7 @@ Kamasa
 Kamasan
 Kaom
 Kaom's
+Kaoms
 Karash
 kartarus
 karui
@@ -1433,11 +1446,13 @@ ksaret
 kuduku
 kul'gul
 kulemak
+Kulemaks
 Kun
 Kurai
 Kurai's
 Kurgal
 Kurgal's
+Kurgals
 kutec
 kuto
 Kyra
@@ -1740,6 +1755,7 @@ netcode
 nethermancer
 Netol
 Netol's
+Netols
 nevali
 Nevalius
 ngahari
@@ -1891,6 +1907,7 @@ phrecian
 phrecius
 phyia
 phylacteral
+Pietys
 piken
 pikerivet
 pileah
@@ -1997,6 +2014,7 @@ raincaller
 rakango
 rakangos
 rakiata
+Rakiatas
 Rakkar
 Ralakesh
 Ralakesh's
@@ -2059,6 +2077,7 @@ riftwalker
 Rigvald's
 Rigwald
 Rigwald's
+Rigwalds
 rima
 rimedweller
 rin
@@ -2077,6 +2096,7 @@ Roha
 rollem
 Romira
 Romira's
+Romiras
 rongokurai
 Rootdredge
 Rootgrasp
@@ -2471,6 +2491,7 @@ synthete
 Syvora
 tabula
 tacati
+Tacatis
 tahi
 tahsin
 tailsinger
@@ -2508,6 +2529,7 @@ Tawhoan
 Tawm'r
 Tecrod
 Tecrod's
+Tecrods
 tecton
 teklatipitzi
 telvar
@@ -2634,6 +2656,7 @@ tulborn
 tulfall
 Tullina
 Tullina's
+Tuls
 tunnelfiend
 tunneltrap
 tunnelworm
@@ -2672,6 +2695,7 @@ uromoti
 ursaling
 ursus
 uruk
+Uruks
 Utula
 Utula's
 utzaal
@@ -2692,6 +2716,7 @@ vakali
 valai
 Valako
 Valako's
+Valakos
 valdo
 valyrium
 Vandroth
@@ -2700,6 +2725,7 @@ Vanja's
 vanth
 varakath
 Varashta's
+Varashtas
 varhesh
 Varloch
 varrich
@@ -2730,6 +2756,7 @@ victorius
 vilemorph
 Vilenta
 Vilenta's
+Vilentas
 vilislatha
 vincenti
 Vinderi
@@ -2933,6 +2960,7 @@ xixic
 xopec
 Xoph
 Xoph's
+Xophs
 xoplotli
 xuatl
 Xyclucian
@@ -2968,6 +2996,7 @@ Zana's
 zantipi
 Zarka
 Zarokh
+Zarokhs
 zeel
 Zeel's
 Zekoa

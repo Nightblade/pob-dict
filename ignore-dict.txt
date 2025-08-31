@@ -75,6 +75,7 @@ RejuvinationTotem
 Remembrancing
 Reservationwatcher
 ringatlas
+SacrificalOfferingPlayer
 ScorchingRayofImmolation
 SDPS
 Shapeshifted
