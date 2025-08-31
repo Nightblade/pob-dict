@@ -41,6 +41,7 @@ FireballIncusionFire
 FireballIncusionLightning
 FistofWar
 Flameblastof
+flatphysicaldamagevalues
 GenadeExplosion
 glovesatlasdex
 glovesatlasint
