@@ -1,0 +1,45 @@
+name: CSpell dev
+
+on:
+  workflow_dispatch:
+    inputs:
+      repo:
+        description: Which PoB repo to checkout
+        type: choice
+        options:
+        - PathOfBuilding
+        - PathOfBuilding-PoE2
+        default: PathOfBuilding
+
+jobs:
+  spelling:
+    runs-on: ubuntu-latest
+    env:
+      ACTIONS_RUNNER_DEBUG: ${{ vars.ACTIONS_RUNNER_DEBUG }}
+      ACTIONS_STEP_DEBUG: ${{ vars.ACTIONS_STEP_DEBUG }}
+    steps:
+      - name: Checkout dev ${{ inputs.repo }}
+        uses: actions/checkout@v5
+        with:
+          ref: "dev"
+          repository: "PathOfBuildingCommunity/${{ inputs.repo }}"
+
+      - name: Fetch config file and dictionaries
+        env:
+          CONFIG_URL: https://raw.githubusercontent.com/Nightblade/pob-dict/main
+        run:
+          curl --silent --show-error --parallel --remote-name-all
+            ${{ env.CONFIG_URL }}/cspell.json
+            ${{ env.CONFIG_URL }}/pob-dict.txt
+            ${{ env.CONFIG_URL }}/poe-dict.txt
+            ${{ env.CONFIG_URL }}/ignore-dict.txt
+            ${{ env.CONFIG_URL }}/extra-en-dict.txt
+            ${{ env.CONFIG_URL }}/contribs-dict.txt
+
+      - name: Run cspell
+        uses: streetsidesoftware/cspell-action@v7
+        with:
+          files: '**' # needed as workaround for non-incremental runs (overrides in config still work ok)
+          config: "cspell.json"
+          incremental_files_only: ${{ github.event_name != 'workflow_dispatch' }}
+          verbose: true
