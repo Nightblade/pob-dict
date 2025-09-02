@@ -1,30 +1,34 @@
-name: 'CSpell PR Debug'
+name: CSpell PR Debug
 
 on:
   workflow_dispatch:
     inputs:
+      repo:
+        description: Which PoB repo to checkout
+        type: choice
+        options:
+        - PathOfBuilding
+        - PathOfBuilding-PoE2
+        default: PathOfBuilding
       pr_num:
         description: PR Number from POB repo
         required: true
 
 jobs:
-
   spelling:
     runs-on: ubuntu-latest
     env:
-      ORIGIN: PathOfBuildingCommunity/PathOfBuilding
       ACTIONS_RUNNER_DEBUG: ${{ vars.ACTIONS_RUNNER_DEBUG }}
       ACTIONS_STEP_DEBUG: ${{ vars.ACTIONS_STEP_DEBUG }}
     steps:
-
       - name: Add PR link to summary
-        run: echo '[PR ${{ inputs.pr_num }}](http://github.com/${{ env.ORIGIN }}/pull/${{ inputs.pr_num }})' >> $GITHUB_STEP_SUMMARY
+        run: echo '[PR ${{ inputs.pr_num }}](http://github.com/PathOfBuildingCommunity/${{ inputs.repo }}/pull/${{ inputs.pr_num }})' >> $GITHUB_STEP_SUMMARY
 
-      - name: Checkout PR ${{ inputs.pr_num }}
-        uses: actions/checkout@v4
+      - name: Checkout PR ${{ inputs.pr_num }} ${{ inputs.repo }}
+        uses: actions/checkout@v5
         with:
           ref: "refs/pull/${{ inputs.pr_num }}/merge"
-          repository:  ${{ env.ORIGIN }}
+          repository: "PathOfBuildingCommunity/${{ inputs.repo }}"
 
       - name: Fetch config file and dictionaries
         env:
@@ -39,7 +43,7 @@ jobs:
             ${{ env.CONFIG_URL }}/contribs-dict.txt
 
       - name: Run cspell
-        uses: streetsidesoftware/cspell-action@v6
+        uses: streetsidesoftware/cspell-action@v7
         with:
           files: '**' # needed as workaround for non-incremental runs (overrides in config still work ok)
           config: "cspell.json"
