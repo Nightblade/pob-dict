@@ -39,6 +39,7 @@ cond
 conv
 cooldown
 cooldowns
+Cota
 cousine
 cpath
 ctof
