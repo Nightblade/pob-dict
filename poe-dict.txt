@@ -677,6 +677,7 @@ doomlands
 doomsower
 doon
 doppleganger
+Doran
 Doryani
 Doryani's
 Doryanis
@@ -711,6 +712,7 @@ droprate
 droughtspawn
 drox
 druggery
+Drusian
 dryback
 Dualstring
 Dunerunner
@@ -935,6 +937,7 @@ Forgeman
 forgemaster
 Formshifter
 Foulspawn
+Foulspawns
 foxfly
 foxhide
 foxshade
@@ -1453,6 +1456,7 @@ Kurai's
 Kurgal
 Kurgal's
 Kurgals
+Kurtog
 kutec
 kuto
 Kyra
@@ -2262,6 +2266,7 @@ Sione
 Siora
 Siosa
 Siosa's
+Siphoner
 Sirenscale
 Sirrius
 Sirus
@@ -2489,6 +2494,7 @@ Swiftstalker
 swordstorm
 synthete
 Syvora
+Tabna's
 tabula
 tacati
 Tacatis
@@ -2520,6 +2526,7 @@ Tasalio's
 Tasgul
 Tasuni
 Tasuni's
+Taua
 Tavakai
 tavukai
 Tawatawa
@@ -2673,6 +2680,7 @@ uhtred
 Ulaman
 Ulaman's
 Uldurn
+Ulfred
 Ullr
 Ullr's
 ululat
