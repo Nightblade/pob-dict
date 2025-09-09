@@ -207,6 +207,7 @@ balabus
 balah
 balbala
 baleh
+ballistified
 balus
 bameth
 banebrand
@@ -1275,6 +1276,7 @@ incaminion
 incarnatis
 indigon
 Infernalist
+Infernalists
 Infernoclasp
 infernomage
 infernum
@@ -2494,6 +2496,7 @@ Swiftstalker
 swordstorm
 synthete
 Syvora
+Tabana's
 Tabna's
 tabula
 tacati
