@@ -47,6 +47,7 @@ specularity
 subtables
 targetable
 triggerable
+triggerer
 uber
 unallocating
 Unblockable
