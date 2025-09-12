@@ -691,6 +691,7 @@ dragonfang
 dragonfangs
 dragonfire
 dragonscale
+Draiocht
 drakeling
 Drakeskin
 Draven
@@ -1184,6 +1185,7 @@ hellscape
 hellscaping
 hematophagy
 hemmingsworth
+Hengestones
 hephaeus
 Heraldric
 heretech
@@ -1963,6 +1965,7 @@ primalist
 primevals
 primordius
 prismweave
+Proboscite
 proclar
 progressors
 projectilespeed
@@ -2065,6 +2068,7 @@ Repudion
 resourcelogcreate
 resourcelogmainresolve
 resourcelogslowresolve
+respawning
 respec
 restartlessly
 Retchs
@@ -2868,6 +2872,7 @@ webmother
 webspinner
 webweaver
 welakath
+Wellsprites
 wellwing
 welp
 wereclaw
