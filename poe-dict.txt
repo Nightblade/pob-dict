@@ -1322,6 +1322,7 @@ Izaro
 Izaro's
 izioc
 Jadecaster
+Jado
 jaesyn
 jaetai
 Jamanra
@@ -1356,6 +1357,7 @@ kadaris
 kadavrus
 Kahuturoa
 Kaikohuru
+Kaimana
 Kalandra
 Kalandra's
 Kalguur
@@ -1371,6 +1373,7 @@ kaltensoul
 kamaq
 Kamasa
 Kamasan
+Kanu
 Kaom
 Kaom's
 Kaoms
@@ -1537,6 +1540,7 @@ locustcaller
 lokan
 longtooth
 lootfilter
+Lorandis
 Loratta
 lordofthedead
 Lorekeeper
@@ -1567,6 +1571,7 @@ m'uneh
 Maata
 machinarium
 macrotaen
+Madox
 maelström
 Maelströms
 magebane
@@ -1621,6 +1626,7 @@ mastercrafted
 mastercrafting
 mastersapper
 matatl
+Matiki
 Matryoshka
 Matsya
 matua
@@ -2028,6 +2034,7 @@ Rakkar
 Ralakesh
 Ralakesh's
 ramako
+Rangeen
 rania
 raphina
 rasa
@@ -2096,6 +2103,7 @@ ringmail
 ringmaker
 Riona
 Ripwire
+Risu
 ritemaster
 Riverhold
 riverways
@@ -2120,6 +2128,7 @@ rotmother
 rudiarius
 Rudja
 Rugosa
+Ruhaki
 rukuku
 Rumblemarch
 Rumi
@@ -2622,6 +2631,7 @@ tombfist
 Tombshrieker
 Tonqui
 topotante
+Torbik
 torchoak
 Tormenter
 Torrek
@@ -2993,6 +3003,7 @@ Ylfeban
 Ylfeban's
 Ynda
 Ynda's
+Yoon
 yorishi
 Yriel
 Yriel's
