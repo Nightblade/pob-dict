@@ -97,6 +97,7 @@ supporttriggerelementalspellonblock
 supporttriggerfirespellonhit
 SupportUniqueCosprisMaliceColdSpellsCastOn
 TBHellscapePaleLightningBoltSpammableLeft
+TCTwilghtOrderSoldierCharge
 Tornadoof
 triggeredByCospris
 twostonering
