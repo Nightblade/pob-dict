@@ -64,6 +64,7 @@ MinionsAreUndamagable
 Nonpathing
 overheadslamforward
 passiveskillscreen
+passiveskillscreenjewelcircle
 PenanceBrandof
 Perforateof
 perp
