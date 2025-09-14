@@ -868,6 +868,7 @@ filimites
 Firebeam
 fireborn
 firebreath
+Firebreather
 firebuzz
 Fireflower
 Firefury
