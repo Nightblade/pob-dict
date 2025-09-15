@@ -188,6 +188,7 @@ avarius
 Avelyne
 aventail
 axehorn
+Axewielder
 aylardex
 Azak
 azala
@@ -306,6 +307,7 @@ blightspawn
 blightspeaker
 blightwell
 blinkflame
+Blisterboil
 blisterclaw
 blisterfruit
 blisterlord
@@ -398,6 +400,7 @@ brightbeak
 brinecrack
 brinerot
 brinespawn
+Brinesplitter
 Briney
 briskwrap
 bristlebeast
@@ -1166,6 +1169,7 @@ hayoxi
 hazarat
 Headcrusher
 headstaver
+Headtaker
 headwrap
 heartbound
 Heartcarver
@@ -1223,6 +1227,7 @@ honourhome
 hoofprints
 Hookhorror
 hopeshredder
+Hornbearer
 horticrafting
 hortus
 hotbar
@@ -1336,6 +1341,7 @@ jatin
 Javelineer
 jawchaw
 jeinei
+Jellycrab
 jik'shah
 jikeji
 jiquani
@@ -1570,6 +1576,7 @@ Lythara
 m'gaska
 m'uneh
 Maata
+Maceman
 machinarium
 macrotaen
 Madox
@@ -1609,6 +1616,7 @@ manaweave
 mancer
 Manchettes
 Manoki
+Manshrike
 Mantaray
 Maracle
 Marak
@@ -1821,6 +1829,7 @@ Oakbranch
 Oaksworn
 Oathbreaker
 Oathkeeper
+Oathsworn
 Oba
 Oba's
 Obern's
@@ -1926,6 +1935,7 @@ Pietys
 piken
 pikerivet
 pileah
+Pillarcrusher
 Pirasha
 piratebane
 Piscator's
@@ -1940,6 +1950,7 @@ Plaguefinger
 plaguemaw
 plaguemaw's
 plagueretch
+Plaguespreader
 plaguewing
 platemail
 platinia
@@ -2260,6 +2271,7 @@ Shockburst
 Shockchain
 shocknova
 shockproofing
+Shockwarden
 shockwaves
 shortsword
 shrapnelbearer
@@ -2307,6 +2319,7 @@ skullbreaker
 skullcracking
 skullhead
 Skullslinger
+Skulltop
 skyborn
 skycaller
 Skycrown
@@ -2361,6 +2374,7 @@ soulwrest
 southswing
 sparkcaller
 sparkfist
+Spearbearer
 Spearfield
 Spearthrower
 Spearwoman
@@ -2384,6 +2398,7 @@ Spikeward
 Spinebreaker
 spinecrack
 spinecruncher
+Spinefish
 spinefuse
 spinehail
 spinesnap
@@ -2533,6 +2548,7 @@ Tanu
 Taowu
 tapuna
 tarcus
+Tarhulk
 Tarkleigh
 Tarkleigh's
 tarollo
@@ -2606,6 +2622,7 @@ Tibbs
 Tibbs's
 ticaba
 tidebreaker
+Tidecrasher
 Tideseer
 tideshifter
 Tikati
@@ -2687,6 +2704,8 @@ tunneltrap
 tunnelworm
 tupuna
 turong
+Tuskbearer
+Tuskbeast
 Twinclasp
 twinslice
 Twoheaded
@@ -2763,6 +2782,7 @@ Veinslicer
 venarius
 vendigo
 venenum
+Vengewing
 venmur
 venopuncture
 ventarus
@@ -2783,6 +2803,7 @@ vilemorph
 Vilenta
 Vilenta's
 Vilentas
+Vilespit
 vilislatha
 vincenti
 Vinderi
@@ -2858,6 +2879,7 @@ warcries
 warcry
 wardbreaker
 wardog
+Wardrum
 Wargraves
 warhammer
 Warhorn
@@ -2938,6 +2960,7 @@ wintermage
 winterweave
 wiraq
 wiraqucha
+Wisewoman
 witchbane
 witchfire
 witchhunter
