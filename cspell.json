@@ -91,6 +91,8 @@
         "/satisi\\?fied/",
         // ""Strenth"" src/Data/Uniques/Special/Generated.lua
         "/\"Strenth\"/",
+        // "[cthd][ae][ukva]" src/Modules/ModParser.lua
+        "/\\[cthd\\]\\[ae\\]\\[ukva\\]/",
     ],
     "languageSettings": [],
     "reporters": [],
