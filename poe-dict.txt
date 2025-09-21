@@ -2951,6 +2951,7 @@ windripper
 windscream
 windshriek
 winterbite
+winterblast
 winterbringer
 winterclaw
 wintercore
