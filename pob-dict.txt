@@ -232,6 +232,7 @@ twomace
 twomelee
 twosword
 uiimages
+Ulamans
 unalloc
 UsableWhileShapeshifted
 useragent
