@@ -523,6 +523,7 @@ clustertrap
 cogwork
 coldhearted
 coldsnap
+Colm
 compulsor
 coniraya
 Connal
@@ -1739,6 +1740,7 @@ multithrow
 multitrap
 murgeth
 Murkshaft
+Murtagh
 muruk
 mutewind
 myrae
