@@ -63,8 +63,7 @@
         "**/src/Export/Minions/*",
         "**/src/Export/Tree/*",
         "**/src/TreeData/*",
-        "**/manifest.xml",
-        // "**/src/Data/FlavourText.lua"
+        "**/manifest.xml"
     ],
     "allowCompoundWords": false,
     "patterns": [],
