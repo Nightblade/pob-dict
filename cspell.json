@@ -64,7 +64,7 @@
         "**/src/Export/Tree/*",
         "**/src/TreeData/*",
         "**/manifest.xml",
-        "**/src/Data/FlavourText.lua"
+        // "**/src/Data/FlavourText.lua"
     ],
     "allowCompoundWords": false,
     "patterns": [],

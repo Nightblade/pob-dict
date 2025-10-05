@@ -60,6 +60,7 @@ KHTML
 KinahraJump
 LegsGenadeExplosion
 LightningArrowof
+meself
 MinionsAreUndamagable
 MPSTwilightSorcerorFireball
 Nonpathing

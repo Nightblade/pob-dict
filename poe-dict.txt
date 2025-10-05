@@ -11,6 +11,7 @@ achioc
 acidbeak
 actaeo
 actum
+Adamantia
 adamantite
 adderstouch
 Adiyah
@@ -129,6 +130,7 @@ Arn's
 arohongui
 arohungui
 ARPG
+Artair
 artensia
 arteri
 arteth
@@ -626,6 +628,7 @@ deidbell
 deidbellow
 dekhara
 Dekharan
+dekharas
 Delwyn
 dementophobia
 demonfire
@@ -655,6 +658,7 @@ diamondskin
 Diamora
 Digsite
 dimachaeri
+Dimos
 Dionadair
 direblade
 Direstrike
@@ -683,6 +687,7 @@ doomsower
 doon
 doppleganger
 Doran
+Dordalus
 Doryani
 Doryani's
 Doryanis
@@ -803,6 +808,7 @@ Eramir
 Eramir's
 erbix
 erebix
+Erian
 Erian's
 erqi
 ersi
@@ -1214,6 +1220,7 @@ hexwarding
 Hezmana
 Hezmana's
 hezmin
+Hiff
 highdove
 hikatomanga
 Hinekora
@@ -1676,6 +1683,7 @@ miasmeter
 microfreezes
 microtransaction
 microtransactions
+Middengard
 miem
 Mightblood
 mightflay
@@ -1783,6 +1791,7 @@ Netol's
 Netols
 nevali
 Nevalius
+Nezahul
 ngahari
 Ngakanu
 Ngakuramakoi
@@ -2099,6 +2108,7 @@ rheniot
 rhex
 rhexback
 rhoa
+rhoaback
 Rhoahide
 rhoas
 rhodion
@@ -2859,12 +2869,14 @@ Vorana's
 voranas
 Vorici
 Vorici's
+Vorm
 Vornas
 Vorrik
 vsync
 vulcanist
 vulconus
 vulkan
+Wahida
 waikoama
 Waistgate
 waitforpreload
@@ -2985,6 +2997,8 @@ wormblaster
 Wraeclast
 Wraeclastian
 wraithlord
+Wranga
+Wrashmin
 wreckingball
 wrigglechaw
 Wulfric
