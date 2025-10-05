@@ -5,6 +5,7 @@ abberarach
 Abberath
 Abberath's
 abberathine
+Abyssalify
 Abyssals
 Abyssus
 achioc
@@ -642,6 +643,7 @@ Deshar
 Deshret
 Deshret's
 desmarais
+despawned
 despawns
 desync
 Devoto
@@ -1520,6 +1522,7 @@ leyline
 liantra
 libggpk
 lich
+Lichborn
 liches
 lifeforce
 lifegiver
