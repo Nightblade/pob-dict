@@ -73,6 +73,7 @@ Firebolt
 firstword
 flat
 fmtlib
+FONTIN
 freezebg
 friedl
 funcs
