@@ -79,6 +79,7 @@ friedl
 funcs
 gamemode
 geal
+GEMDESCRIPTION
 gepl
 getaccountname
 getsessionid
