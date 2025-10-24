@@ -56,6 +56,7 @@ Algor
 alhamba
 Alira
 Alira's
+Alith
 alivia
 Alkem
 allflame
@@ -951,6 +952,7 @@ forgekeeper
 Forgeman
 forgemaster
 Formshifter
+Foulborn
 Foulspawn
 Foulspawns
 foxfly
@@ -2073,6 +2075,7 @@ rathpith
 ratmother
 rattleback
 Rattlecage
+Raulf
 raulo
 ravenal
 razorglass
@@ -2624,6 +2627,7 @@ Throatcutter
 throatseeker
 Throatslitter
 Thruldana
+Thunderburst
 thundercaller
 thunderfist
 Thundergod
@@ -2963,6 +2967,7 @@ wildwrap
 willclash
 willowgift
 wilorin
+Windburst
 windchaser
 windripper
 windscream

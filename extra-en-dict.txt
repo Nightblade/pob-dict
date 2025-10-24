@@ -18,6 +18,7 @@ debuffs
 eclipsis
 elementalist
 emanant
+Enthalpic
 equippable
 exertable
 greathelm
