@@ -92,6 +92,8 @@
         "/\"Strenth\"/",
         // "[cthd][ae][ukva]" src/Modules/ModParser.lua
         "/\\[cthd\\]\\[ae\\]\\[ukva\\]/",
+        // <<HBGC04>> <<HBGAs>> (Harbinger Glyphs) src/Data/FlavourText.lua
+        "/<<HBG...?.?>>/",
     ],
     "languageSettings": [],
     "reporters": [],

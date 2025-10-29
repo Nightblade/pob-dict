@@ -129,6 +129,7 @@ makensis
 mallah
 malloc
 manatext
+MASTERYALLOC
 matchstring
 Maxroll
 MeDott29

@@ -74,6 +74,7 @@ Ambu
 Ambu's
 anacuacotli
 anaveli
+Andronicus
 Andvarius
 anemina
 Angerfish
@@ -194,6 +195,7 @@ aventail
 axehorn
 Axewielder
 aylardex
+Azadin
 Azak
 azala
 Azarian
@@ -223,6 +225,7 @@ Baran
 Baran's
 baranite
 barbute
+Bardiya
 Bargg
 barius
 barkhul
@@ -571,6 +574,7 @@ Cuachic
 cuebiyari
 Cursecarver
 Cursespeaker's
+Cyaxan
 Cybil
 Cybil's
 cystcaller
@@ -704,6 +708,7 @@ dragonfangs
 dragonfire
 dragonscale
 Draiocht
+Draíocht
 drakeling
 Drakeskin
 Draven
@@ -867,6 +872,7 @@ fateweaver
 fathomstalker
 fearsting
 feastbind
+feathersteps
 felbog
 fellshrine
 felltooth
@@ -1403,6 +1409,7 @@ karukaru
 Kasigi
 Kaso
 Kastov
+Keita
 Keth
 Ketzuli
 keyblade
@@ -1456,6 +1463,7 @@ konu
 Kopec
 Koralus
 korangi
+Korathin
 Korell
 Korell's
 kosis
@@ -2679,6 +2687,7 @@ toxicist
 tradewith
 Trampletoe
 transmutia
+Trapbuilder's
 Trapsetter
 Traptool
 trarthan
@@ -2729,6 +2738,7 @@ Twinclasp
 twinslice
 Twoheaded
 twyzel
+Tyndarus
 tyrannursus
 tzamoto
 tzteosh
@@ -2937,6 +2947,7 @@ wētās
 Wetherdale
 Weylam
 Weylam's
+Weylan
 Weylin
 Weylin's
 Whakano

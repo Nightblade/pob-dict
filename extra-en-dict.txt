@@ -4,10 +4,12 @@ anointable
 arbalists
 arcanist
 bloodthirst
+boobytrapped
 cascadable
 castable
 cauteriser
 Channeler
+Chieftainess
 commandable
 conflagrating
 conflux
