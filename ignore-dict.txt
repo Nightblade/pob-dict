@@ -87,6 +87,7 @@ Shapeshifted
 ShieldInsteadofLife
 skill_charge_matery_skill_speed
 skillgem
+Stacatto
 strjewel
 StunThresholdfromEnergyShield
 SummonBeastialRhoa
