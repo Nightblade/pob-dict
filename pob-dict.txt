@@ -142,6 +142,7 @@ modlist
 movespeed
 mult
 mults
+mutatedunique
 nani
 nehab
 nodecount
