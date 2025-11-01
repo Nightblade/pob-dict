@@ -364,6 +364,7 @@ bonechill
 bonechomp
 bonecruncher
 bonecrusher
+Bonemeld
 bonereaver
 boneshaper
 boneshatter
@@ -2758,6 +2759,7 @@ Ungil
 Ungil's
 ungulath
 Unleashable
+Unlight
 unmen
 unshaping
 unsquelch
@@ -3000,6 +3002,7 @@ witchfire
 witchhunter
 witchhunter's
 Woebearer
+Woespike
 wolfbone
 wolfpack
 wolfpack's
