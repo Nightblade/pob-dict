@@ -23,6 +23,7 @@ BlockedDamageDoesntBypassES
 BloodUltimatium
 bootsatlas
 bootsatlasdexint
+BrequelGrafts
 BurrowerVacuume
 ChinsolDamage
 CritsDontAlways
@@ -113,5 +114,7 @@ UniqueFlaskOverhealToGuard1
 UniqueManaScarificeToAllies1
 UniqueModifyableWhileCorrupted1
 UniqueNonherent
+uulnetol
 wandatlas
 winepath
+YouHavent
