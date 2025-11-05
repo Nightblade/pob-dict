@@ -333,6 +333,7 @@ blooddrinker
 bloodeater
 bloodgrin
 bloodgrip
+Bloodhunger
 bloodmagic
 Bloodnotch
 bloodplay
@@ -403,6 +404,7 @@ breachstones
 breakrib
 breathstealer
 brektov
+Brequel
 Briarpatch
 brightbeak
 brinecrack
@@ -457,6 +459,7 @@ calxipher
 Cameria
 Cameria's
 candlemass
+Carapaced
 carian
 carius
 caso
@@ -512,6 +515,7 @@ chollinger
 cholotl
 chrometouched
 chronomancer
+Chronomancy
 chronophage
 Chunklet
 ciergan
@@ -758,6 +762,7 @@ earthbreaker
 Earthbreaking
 eartheater
 earthshatter
+Earthshattering
 Eber
 Eber's
 echoforge
@@ -830,6 +835,7 @@ estoc
 Eterni
 ethercraft
 eutychus
+Everburning
 Evergrasping
 Evertree
 eviscerator
@@ -921,6 +927,7 @@ flameguard
 flamelord
 flamelords
 Flamepierce
+Flameplating
 flamescale
 flamesight
 flamespitting
@@ -981,6 +988,7 @@ Frostblink's
 frostbolt
 frostbolts
 frostborn
+Frostbound
 frostbreath
 frostburn
 Frostfall
@@ -1098,6 +1106,7 @@ Gorian
 Goroshi
 gorulis
 Gozen
+Graftblood
 grandmastery
 granitecrush
 Grannell's
@@ -1238,6 +1247,7 @@ hikatomanga
 Hinekora
 Hinekora's
 hitboxes
+Hiveborn
 Hoghunt
 hollowpoint
 hollowskull
@@ -1638,6 +1648,7 @@ manastorm
 manaweave
 mancer
 Manchettes
+Maniacism
 Manoki
 Manshrike
 Mantaray
@@ -1716,6 +1727,7 @@ mirageblast
 mirebough
 misclicks
 mishne
+Mistborn
 mistwalker
 mistwall
 mjolner
@@ -2358,6 +2370,7 @@ Slaugh
 slavedriver
 slavedriver's
 slavemaster
+Sleetbound
 Slipstrike
 slitherpinch
 slitherskin
@@ -3014,6 +3027,7 @@ wolpertinger
 wolven
 Wolvenhold
 Wombgift
+Wombgifts
 wondertrap
 wonderwalker
 woodful

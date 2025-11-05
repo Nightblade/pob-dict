@@ -23,7 +23,6 @@ BlockedDamageDoesntBypassES
 BloodUltimatium
 bootsatlas
 bootsatlasdexint
-BrequelGrafts
 BurrowerVacuume
 ChinsolDamage
 CritsDontAlways
@@ -75,6 +74,7 @@ Perforateof
 perp
 pobbin
 PosionSpray
+Propeling
 quiveratlas
 ReaveofRefraction
 referer
@@ -88,8 +88,10 @@ ScorchingRayofImmolation
 SDPS
 Shapeshifted
 ShieldInsteadofLife
+Siezing
 skill_charge_matery_skill_speed
 skillgem
+Spelleweaving
 Stacatto
 strjewel
 StunThresholdfromEnergyShield
@@ -116,5 +118,6 @@ UniqueModifyableWhileCorrupted1
 UniqueNonherent
 uulnetol
 wandatlas
+WarcyProjectiles
 winepath
 YouHavent
