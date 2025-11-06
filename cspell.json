@@ -94,6 +94,8 @@
         "/\\[cthd\\]\\[ae\\]\\[ukva\\]/",
         // <<HBGC04>> <<HBGAs>> (Harbinger Glyphs) src/Data/FlavourText.lua
         "/<<HBG...?.?>>/",
+        // gsub("Amluet", src/Export/Scripts/mapUniqueToFoulborn.lua
+        "/gsub\\(\"Amluet\",/",
     ],
     "languageSettings": [],
     "reporters": [],
@@ -148,7 +150,7 @@
         "!computing-acronyms",
         "!software-term-suggestions",
         "!web-services",
-        //"lua",
+        "lua",
         "cpp",
         "!aws",
         "en_us",
