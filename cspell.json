@@ -208,7 +208,8 @@
         "therefor->therefore",
         "consistant->consistent",
         "dont->don't",
-        "unscaleable->unscalable"
+        "unscaleable->unscalable",
+        "botts->boots"
     ],
     "includeRegExpList": [],
     "loadDefaultConfiguration": true,
