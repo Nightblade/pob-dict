@@ -24,6 +24,8 @@ BloodUltimatium
 bootsatlas
 bootsatlasdexint
 BurrowerVacuume
+CharmEnchange
+CharmUnaffectedby
 ChinsolDamage
 CritsDontAlways
 CritsOnYouDont
@@ -37,6 +39,7 @@ dontSplitEvade
 DoubleStrikeof
 EGSavageGaint
 EnmitysEmbrace
+ExposureonHit
 Exsanguinateof
 FireballIncusionFire
 FireballIncusionLightning
