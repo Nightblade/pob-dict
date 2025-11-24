@@ -1001,6 +1001,7 @@ frostspewing
 frostspout
 Frostwall
 frostweaver
+frostwhirl
 frostwing
 Fulcent
 Fungalmancer
@@ -1050,6 +1051,7 @@ ghasts
 ghorr
 ghostfire
 ghostflame
+ghostfuse
 ghostings
 ghostmarch
 ghostram
@@ -1290,6 +1292,7 @@ iceheart
 icestorm
 icestorms
 icetomb
+icewalker
 iceweaver
 ichimonji
 icius
