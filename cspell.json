@@ -209,7 +209,8 @@
         "consistant->consistent",
         "dont->don't",
         "unscaleable->unscalable",
-        "botts->boots"
+        "botts->boots",
+        "hight->height"
     ],
     "includeRegExpList": [],
     "loadDefaultConfiguration": true,
