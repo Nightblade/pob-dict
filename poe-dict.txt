@@ -1455,6 +1455,7 @@ kirmes
 kishara
 Kitava
 Kitava's
+Kitavan
 Kitoko's
 kiweth
 kiyato
@@ -2292,6 +2293,7 @@ shadowstitch
 shakari
 shambler
 Shankgonne
+shapeshifts
 shardbound
 shardcrown
 sharktooth

@@ -15,6 +15,7 @@ conflagrating
 conflux
 craftable
 critting
+cullable
 debuff
 debuffs
 eclipsis
@@ -70,3 +71,4 @@ unsocket
 untargetable
 Verglas
 wieldable
+wishlisted
