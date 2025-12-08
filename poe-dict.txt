@@ -1586,7 +1586,6 @@ lokan
 longtooth
 lootfilter
 Lorandis
-Loratta
 lordofthedead
 Lorekeeper
 lorekeepers
