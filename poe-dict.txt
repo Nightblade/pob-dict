@@ -288,6 +288,7 @@ blackhowl
 Blackjaw
 blackstar
 blacksteel
+Blackstrider
 bladeback
 bladebarrier
 bladeblast
