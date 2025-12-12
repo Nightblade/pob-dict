@@ -65,6 +65,7 @@ KHTML
 KinahraJump
 LegsGenadeExplosion
 LightningArrowof
+Loratta
 meself
 MinionsAreUndamagable
 MPSTwilightSorcerorFireball
