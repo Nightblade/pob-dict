@@ -523,7 +523,9 @@ ciergan
 cinderswallow
 cinquedea
 cintiq
+Cirel
 Cirel's
+Cirels
 citaqualotl
 citystalker
 clayshaper
@@ -798,6 +800,7 @@ elida
 Elreon
 Elreon's
 Elswyth
+Elvara
 Elzarah
 Emberborn
 embercaller
@@ -1288,6 +1291,7 @@ hyperboreus
 Hyrri
 Hyrri's
 hyseria
+Hysseg's
 hysteriagate
 icebearer
 icebite
@@ -2605,6 +2609,7 @@ Tarhulk
 Tarkleigh
 Tarkleigh's
 tarollo
+Tarth
 Taruk
 Tasalian
 Tasalio
