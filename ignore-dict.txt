@@ -60,6 +60,7 @@ Incinerateof
 ingame
 intimidating_cry_empowerd_attacks_deal_double
 intjewel
+Intricade
 jewelcircle
 KHTML
 KinahraJump
