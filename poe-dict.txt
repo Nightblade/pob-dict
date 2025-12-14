@@ -267,6 +267,8 @@ Bestel
 Bestel's
 betucia
 Bex
+Bhatair's
+Bhatairs
 Bijouborne
 bin'aia
 Bino
@@ -822,6 +824,7 @@ Enezun's
 Enoroa
 Entrailhome
 eoin
+Eonyr's
 EOUTOFMEMORY
 ephij
 ephrexis
@@ -1163,6 +1166,7 @@ Gruthkul
 Gruthkul's
 gryffon
 guatelitzi
+Guatelitzis
 guildmates
 Gulzal
 guraq
@@ -1206,6 +1210,7 @@ hatungo
 havenwood
 haviri
 hayoxi
+Hayoxis
 hazarat
 Headcrusher
 headstaver
@@ -1222,6 +1227,8 @@ heatshiver
 heavydraw
 Hedgewitch
 hedron
+Helbrym
+Helbrym's
 Heldra
 helial
 hellbringer
@@ -1437,11 +1444,14 @@ Kasigi
 Kaso
 Kastov
 Keita
+Kelari
+Kelari's
 Keth
 Ketzuli
 keyblade
 Khari
 Khatal
+Khatals
 khor
 Kiara
 Kiara's
@@ -1764,6 +1774,8 @@ moontouched
 moonwarden
 moosh
 Mordhau
+Morgana's
+Morganas
 morgrants
 mori
 Morior
@@ -1811,6 +1823,7 @@ Natalia
 Nautilord
 Navali
 Navali's
+Navira
 nebria
 nebulis
 nebuloch
@@ -1889,6 +1902,8 @@ Obern's
 obscurantis
 Octoparasite
 ohne
+Oisín's
+Oisins
 Olesya
 Olesya's
 olgosso
@@ -2219,6 +2234,7 @@ Runesmithing
 Rustbowl
 Rustlord
 ruthlessfilter
+Ruzhan
 Ryslatha
 Ryslatha's
 sabatons
@@ -2615,6 +2631,7 @@ Taruk
 Tasalian
 Tasalio
 Tasalio's
+Tasalios
 Tasgul
 Tasuni
 Tasuni's
@@ -3079,6 +3096,7 @@ xenathar
 xenozak
 xesht
 xibaqua
+Xibaquas
 xipocado
 Xirgil
 Xirgil's
@@ -3131,6 +3149,7 @@ Zekoa
 Zelina
 Zerphi
 Zerphi's
+Zerphis
 Zhenya
 Zicoatl
 zilquapa
