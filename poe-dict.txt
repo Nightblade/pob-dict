@@ -520,6 +520,7 @@ Chronomancy
 chronophage
 Chunklet
 ciergan
+Cinderbark
 cinderswallow
 cinquedea
 cintiq
@@ -2916,6 +2917,7 @@ Volkuur's
 Voll
 Voll's
 voltaxic
+Voltfang
 Vorana
 Vorana's
 voranas
