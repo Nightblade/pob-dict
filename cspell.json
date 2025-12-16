@@ -93,6 +93,8 @@
         // ("Amluet","Amulet"):gsub("Botts","Boots")  src/Export/Scripts/mapUniqueToFoulborn.lua
         "/Amluet\",\"Amulet/",
         "/Botts\",\"Boots/",
+        // Assets/itemsseparatorfoil.png [etc]  src/Classes/Tooltip.lua
+        "/Assets\/[a-z]+.png/",
     ],
     "languageSettings": [],
     "reporters": [],
