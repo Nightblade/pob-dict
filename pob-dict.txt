@@ -121,6 +121,7 @@ loadouts
 loadstring
 lowSurr
 lshift
+luacov
 luajit
 luasocket
 mainhand
