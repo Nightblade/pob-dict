@@ -3029,6 +3029,7 @@ wildrunner
 Wildshards
 wildslash
 Wildspeaker
+Wildsurge
 wildwrap
 willclash
 willowgift
