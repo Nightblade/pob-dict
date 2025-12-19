@@ -5,7 +5,6 @@ _ingite
 _momnetum_
 _ominion
 _otherwordly_
-Abandonded
 ABTT
 ABTTAzmeriBasaliskShroud
 AilmentThresholdfromEnergyShield
@@ -13,7 +12,6 @@ amuletatlas
 AreaofEffect
 AtlasCruasderJudgeFadingNova
 AzmeriBasiliskDecapThrust
-beleaugered
 beltatlas
 BladeBlastof
 Bladefallof
