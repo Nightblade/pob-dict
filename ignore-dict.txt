@@ -32,6 +32,7 @@ CycloneofTumult
 DamagevsArmourBrokenEnemies
 dat
 datc
+decrepifying
 DestructiveLinkSkeletonBombadierMinion
 DivineIreof
 dontSplitEvade
@@ -55,6 +56,7 @@ HARMONICMEAN
 helmetatlas
 HuhuGrub
 Incinerateof
+incursionlimb
 ingame
 intimidating_cry_empowerd_attacks_deal_double
 intjewel
