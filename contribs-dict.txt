@@ -6,6 +6,7 @@ acoudray
 admSla
 aidanjryan
 ain9156
+ALameLlama
 aletrop
 AlphaCheese
 ALT-F-X
@@ -33,6 +34,7 @@ BlastedAmerican
 Blitz54
 BlueManiac
 bobanobahoba
+Bobastic
 borisbsv
 brendan-corrigan
 bsthomsen
@@ -60,6 +62,7 @@ ctrpetersen
 czarandy
 dambrisco
 dance
+danielztolnai
 DarkJaslo
 Dav1dde
 DavidBindloss
@@ -221,6 +224,7 @@ nathanrobb
 nbrugger-tgm
 NCHitsman
 nelchael
+nemrod10
 Nerotox
 nessgor
 nexus671
