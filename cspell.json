@@ -63,7 +63,8 @@
         "**/src/Export/Minions/*",
         "**/src/Export/Tree/*",
         "**/src/TreeData/*",
-        "**/manifest.xml"
+        "**/manifest.xml",
+        "**/src/Export/Uniques/ModTextMap.lua"
     ],
     "allowCompoundWords": false,
     "patterns": [],
@@ -95,6 +96,8 @@
         "/Assets\/[a-z]+.png/",
         // "[rR]ules"  src/Classes/TradeQueryRequests.lua
         "/\\[rR\\]ules/",
+        // "[vV]ariant"  src/Export/Scripts/uTextToMods.lua
+        "/\\[vV\\]ariant/",
     ],
     "languageSettings": [],
     "reporters": [],

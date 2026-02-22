@@ -12,6 +12,7 @@ amuletatlas
 AreaofEffect
 AtlasCruasderJudgeFadingNova
 AzmeriBasiliskDecapThrust
+BeastialMinion
 beltatlas
 BladeBlastof
 Bladefallof
@@ -54,6 +55,7 @@ glovesatlasstrint
 GSRoboHoundBellyDamage
 HARMONICMEAN
 helmetatlas
+HitsCantBe
 HuhuGrub
 Incinerateof
 incursionlimb
@@ -65,6 +67,7 @@ jewelcircle
 KHTML
 KinahraJump
 LegsGenadeExplosion
+LifeRegnerationOn
 LightningArrowof
 meself
 MinionsAreUndamagable
