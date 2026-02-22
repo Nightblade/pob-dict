@@ -64,7 +64,7 @@
         "**/src/Export/Tree/*",
         "**/src/TreeData/*",
         "**/manifest.xml",
-        "**/src/Export/Uniques/ModTextMap.lua"
+        "**/src/Export/Uniques/*.lua",
     ],
     "allowCompoundWords": false,
     "patterns": [],
