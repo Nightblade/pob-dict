@@ -80,6 +80,12 @@
         "\\[(hgdf|viar)\\]",
         // "enem[yi]e?s?"  src/Modules/ModParser.lua
         "enem\\[y",
+        // "satisi?fied"  src/Modules/ModParser.lua
+        "satisi\\?fied",
+        // ""Strenth""  src/Data/Uniques/Special/Generated.lua
+        "\"Strenth\"",
+        // "[cthd][ae][ukva]"  src/Modules/ModParser.lua
+        "/\\[cthd\\]\\[ae\\]\\[ukva\\]/",
         // "("Amluet","Amulet"):gsub("Botts","Boots")"  src/Export/Scripts/mapUniqueToFoulborn.lua
         "Amluet\",\"Amulet",
         "Botts\",\"Boots",
