@@ -206,6 +206,7 @@ slidedown
 slideup
 Socketables
 someuser
+SPLITPERSONALITY
 statdesc
 statgroup
 statictt
