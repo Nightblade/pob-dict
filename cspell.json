@@ -91,6 +91,8 @@
         "Botts\",\"Boots",
         // "[rR]ules"  src/Classes/TradeQueryRequests.lua
         "\\[rR\\]ules",
+        // "[vV]ariant"  src/Export/Scripts/uTextToMods.lua
+        "\\[vV\\]ariant",
     ],
     "languageSettings": [],
     "reporters": [],
