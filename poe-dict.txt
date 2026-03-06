@@ -577,6 +577,7 @@ Crowbell
 crowstorm
 crushclaw
 crushclaws
+Cryogenesis
 cryomancer
 cryomantic
 cryophile
