@@ -96,6 +96,7 @@ enizor
 eps1lon
 escristall
 EthanBlazkowicz
+EtherealCarnivore
 Ethrel
 etojuice
 ExaltedShard
