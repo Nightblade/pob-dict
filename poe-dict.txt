@@ -1509,6 +1509,7 @@ kosis
 Koura
 Kraityn
 Kraityn's
+krangle
 krangled
 Kriar
 Kriar's
