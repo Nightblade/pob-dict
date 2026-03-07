@@ -23,6 +23,7 @@ Aequo
 Aerisvane's
 Aeterno
 aetherwind
+Afarud
 afkoff
 Aggorat
 agiel
@@ -226,6 +227,7 @@ Baran's
 baranite
 barbute
 Bardiya
+Bardiyan
 Bargg
 barius
 barkhul
@@ -237,6 +239,7 @@ baselard
 basemetal
 basetype
 basetypes
+Batoor
 Battershout
 battlecharger
 battlehaste
@@ -595,6 +598,7 @@ cystcaller
 Daevata's
 Daggerdancer
 Daggerfoot
+Daiyata
 daluatti
 damoi
 danai
@@ -2120,6 +2124,7 @@ Rangeen
 rania
 raphina
 rasa
+Rashi
 Rashkaldor
 Rashkaldor's
 Ratha's
@@ -2276,6 +2281,7 @@ saqawine
 saresh
 sarina
 sarn
+Sasan
 sawblade
 sawblades
 scaeva
@@ -2401,6 +2407,7 @@ Skycrown
 skyfire
 skyforth
 Skysliver
+Skysunder
 Slaugh
 slavedriver
 slavedriver's
@@ -2737,6 +2744,7 @@ Torrek
 toru
 toruul
 Torvian
+Toryal
 toxicist
 tradewith
 Trampletoe
@@ -2996,6 +3004,7 @@ webspinner
 webweaver
 welakath
 Wellsprites
+Wellwater
 wellwing
 welp
 wereclaw
