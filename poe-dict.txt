@@ -937,6 +937,7 @@ flameborn
 flamebrand
 flamebreath
 flamebringer
+Flamecaller
 flamechaser
 flamecore
 flameguard
@@ -984,6 +985,7 @@ Forgeman
 forgemaster
 Formshifter
 Foulborn
+Foulgrasp
 Foulspawn
 Foulspawns
 foxfly
@@ -1013,6 +1015,7 @@ Frostfire
 frostflower
 frostguard
 frostkeeper
+Frostmage
 frostspewing
 frostspout
 Frostwall
@@ -1193,6 +1196,7 @@ Halani
 Halfsword
 haliotis
 hammerblows
+hammerfall
 hammerstorm
 handcast
 handfinger
@@ -1257,7 +1261,9 @@ hexbinder
 hexblast
 hexclaw
 hexfont
+Hexpass
 hexproof
+Hextoad
 hextouch
 hextouched
 hexwarded
@@ -2938,6 +2944,7 @@ voidsinger
 voidspawn
 voidstone
 voidstones
+Voidstorm
 voidtouched
 voidwalker
 volcanus

@@ -46,6 +46,7 @@ FireballIncusionLightning
 FistofWar
 Flameblastof
 flatphysicaldamagevalues
+Fusilladeof
 GenadeExplosion
 glovesatlasdex
 glovesatlasint
@@ -98,12 +99,14 @@ skill_charge_matery_skill_speed
 skillgem
 Spelleweaving
 Stacatto
+Strikeof
 strjewel
 StunThresholdfromEnergyShield
 SummonBeastialRhoa
 SummonBeastialSnake
 SummonBeastialUrsa
 SumonRagingSpiritMelee
+SupportAnnhilation
 SupportEncumberancePlayer
 SupportReveberatePlayer
 supporttriggerelementalspellonblock
