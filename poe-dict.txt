@@ -526,6 +526,7 @@ chronophage
 Chunklet
 ciergan
 Cinderbark
+Cinderflame
 cinderswallow
 cinquedea
 cintiq
