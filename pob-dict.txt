@@ -132,6 +132,7 @@ malloc
 manatext
 MASTERYALLOC
 matchstring
+maxn
 Maxroll
 MeDott29
 melnichenko
