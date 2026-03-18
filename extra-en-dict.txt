@@ -27,6 +27,7 @@ exertable
 greathelm
 groupless
 indicies
+Jaccard
 Lumbermill
 Magicks
 mana
