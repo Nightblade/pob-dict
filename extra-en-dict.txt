@@ -3,6 +3,7 @@ Additionals
 anointable
 arbalists
 arcanist
+augmentable
 bloodthirst
 boobytrapped
 cascadable
