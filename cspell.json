@@ -59,6 +59,7 @@
         "**/src/Data/TattooPassives.lua",
         "**/src/Data/TimelessJewelData/*",
         "**/src/Data/Uniques/Special/WatchersEye.lua",
+        "**/src/Data/WorldAreas.lua",
         "**/src/Export/Minions/*",
         "**/src/Export/Tree/*",
         "**/src/TreeData/*",
