@@ -23,6 +23,11 @@ BloodUltimatium
 bootsatlas
 bootsatlasdexint
 BurrowerVacuume
+categorybeasts
+categorydemon
+categoryeldritch
+categoryhumanoid
+categoryundead
 CharmEnchange
 CharmUnaffectedby
 ChinsolDamage
@@ -69,6 +74,7 @@ LegsGenadeExplosion
 LightningArrowof
 meself
 MinionsAreUndamagable
+monstercategory
 MPSTwilightSorcerorFireball
 MutatedUniqueAmluet
 Nonpathing
