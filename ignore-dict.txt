@@ -96,6 +96,7 @@ Regurg
 RejuvinationTotem
 Remembrancing
 Reservationwatcher
+reuseaddr
 ringatlas
 SacrificalOfferingPlayer
 ScorchingRayofImmolation
