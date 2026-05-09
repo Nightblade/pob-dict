@@ -45,6 +45,7 @@ cpath
 ctof
 curr
 cwdt
+Damagenode
 damagev
 deadzone
 debil
@@ -148,6 +149,7 @@ mutatedunique
 nani
 nehab
 nodecount
+notrelevant
 nsis
 Oathofthe
 offhandbg
