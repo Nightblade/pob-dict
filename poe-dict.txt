@@ -235,6 +235,7 @@ Barkskin
 Barrageable
 Bartek's
 Barya
+Baryanic
 baselard
 basemetal
 basetype
@@ -1580,6 +1581,7 @@ lessard
 Levinstone
 levioc
 leyline
+Leylines
 liantra
 libggpk
 lich
