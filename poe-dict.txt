@@ -629,6 +629,7 @@ darsia
 dav'nalleous
 davaro
 dawnbreaker
+Dawnlit
 dawnstrider
 deadhand
 deathflutter
@@ -1768,6 +1769,7 @@ mirebough
 misclicks
 mishne
 Mistborn
+Mistbound
 mistwalker
 mistwall
 mjolner
@@ -2121,6 +2123,7 @@ raihara
 railgun
 rainbowstride
 raincaller
+Raindancer
 rakango
 rakangos
 rakiata
@@ -2719,6 +2722,7 @@ thunderstrike
 Tibbs
 Tibbs's
 ticaba
+Tidebound
 tidebreaker
 Tidecrasher
 Tideseer
