@@ -65,6 +65,8 @@ uncancellable
 uncastable
 undamageable
 undeath
+unequip
+unequips
 unfetch
 unfetched
 unfun
