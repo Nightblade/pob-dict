@@ -63,6 +63,7 @@ Unblockable
 unbuffed
 uncancellable
 uncastable
+Uncursed
 undamageable
 undeath
 unequip

@@ -815,6 +815,7 @@ Elvara
 Elzarah
 Emberborn
 embercaller
+Emberglow
 emberkeep
 embermage
 emberstone
@@ -918,6 +919,7 @@ Firebreather
 firebuzz
 Fireflower
 Firefury
+Fireheart
 firehose
 firemage
 Firemages
@@ -2452,6 +2454,7 @@ soulbinder
 Soulbound
 Soulbreaker
 Soulcatcher
+Soulcord
 soulcore
 Soulcores
 Souleater
