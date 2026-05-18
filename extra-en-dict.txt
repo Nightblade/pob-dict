@@ -67,6 +67,7 @@ Uncursed
 undamageable
 undeath
 unequip
+unequipping
 unequips
 unfetch
 unfetched
