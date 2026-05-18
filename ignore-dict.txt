@@ -99,6 +99,7 @@ Reservationwatcher
 reuseaddr
 ringatlas
 SacrificalOfferingPlayer
+satisified
 ScorchingRayofImmolation
 SDPS
 Shapeshifted
