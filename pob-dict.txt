@@ -219,6 +219,7 @@ steamapps
 stenberg
 stro
 summone
+Sumneko
 superparent
 Sust
 szathmáry
