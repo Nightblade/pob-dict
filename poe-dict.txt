@@ -53,6 +53,7 @@ alano
 Alberon
 Alberon's
 alch
+Aldur
 Algor
 alhamba
 Alira
@@ -85,6 +86,7 @@ antalie
 Anundr
 AoE
 AoEs
+Aoife
 Apep
 Apep's
 apocalyptica
@@ -236,6 +238,7 @@ Barrageable
 Bartek's
 Barya
 Baryanic
+Baryas
 baselard
 basemetal
 basetype
@@ -475,6 +478,7 @@ caspiro
 casticus
 Cataphract
 catburglar
+Catha's
 cava
 Cavas
 Cavas's
@@ -578,6 +582,7 @@ crastus
 criticals
 crits
 Crossblade
+crossplay
 Crowbell
 crowstorm
 crushclaw
@@ -848,6 +853,7 @@ ersi
 erythrophagia
 Eshgraft
 Eshs
+Eshtera's
 essentia
 estazunti
 estoc
@@ -1017,6 +1023,7 @@ frostburn
 Frostfall
 frostferno
 Frostfire
+Frostflame
 frostflower
 frostguard
 frostkeeper
@@ -1282,6 +1289,7 @@ hikatomanga
 Hinekora
 Hinekora's
 hitboxes
+Hiveblood
 Hiveborn
 Hoghunt
 hollowpoint
@@ -1611,6 +1619,7 @@ lioneyes
 litanius
 lithomancer
 lithomancy
+Lithomantic
 lithophysa
 Lizardscale
 llyr
@@ -2243,12 +2252,17 @@ runecaster
 Runecraft
 Runecrafting
 runed
+Runefather
 runeflaring
+Runeforged
+Runeforging
 runegleaming
 runegraft
 runegrafting
 runegrafts
 runemaster
+runeshape
+Runeshapes
 runeshining
 runesmithed
 Runesmithing
@@ -2266,6 +2280,7 @@ Sadima's
 saemus
 Saffell
 Saffell's
+Safrin's
 Sagari
 Saitha
 sallazzang
@@ -2418,6 +2433,7 @@ Skulltop
 skyborn
 skycaller
 Skycrown
+Skyfall
 skyfire
 skyforth
 Skysliver
@@ -2519,6 +2535,7 @@ sporeplume
 spriggan
 spriggans
 springleaf
+Spycraft
 stabby
 Staghorn
 stamatis
@@ -2601,6 +2618,7 @@ stridevolf
 striketail
 strongarm
 Strugglescream
+Styrn's
 sulphurspawn
 sumei
 sunblast
@@ -2735,6 +2753,7 @@ Tikiheme
 tilesets
 Timberwolf
 timeclasp
+Timelost
 timestop
 timetwist
 Timeworn
@@ -2890,6 +2909,7 @@ varunastra
 vastir
 vastiri
 Vastweld
+Veilpiercer
 Veinslicer
 venarius
 vendigo
@@ -2974,6 +2994,7 @@ Vorici's
 Vorm
 Vornas
 Vorrik
+Vruun
 vsync
 vulcanist
 vulconus
@@ -3086,6 +3107,7 @@ witchbane
 witchfire
 witchhunter
 witchhunter's
+Witchtoads
 Woebearer
 Woespike
 wolfbone
@@ -3168,6 +3190,7 @@ zacharie
 zaffre
 Zahmir
 zahndethus
+Zaida's
 zalatl
 Zalmarath
 Zana
