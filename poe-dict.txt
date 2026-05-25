@@ -3014,6 +3014,7 @@ warchief
 warcried
 warcries
 warcry
+Wardbound
 wardbreaker
 wardog
 Wardrum
