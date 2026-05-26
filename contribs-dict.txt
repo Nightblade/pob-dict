@@ -10,6 +10,8 @@ ALameLlama
 aletrop
 AlphaCheese
 ALT-F-X
+AndreaBozzo
+Andrew-Klotz
 andrewbelu
 andyli00
 AnSq
@@ -173,6 +175,7 @@ kkienzle
 Kojoley
 kolhell
 krfreak
+krryan
 ksnyder9801
 Kylixen
 laFleuere2
