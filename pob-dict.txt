@@ -127,6 +127,7 @@ lshift
 luacov
 luajit
 luasocket
+luassert
 mainhand
 mainhandbg
 makensis
