@@ -1,4 +1,4 @@
-name: CSpell PR Debug
+name: Spell Checker PR debug
 
 on:
   workflow_dispatch:
@@ -15,7 +15,7 @@ on:
         required: true
 
 jobs:
-  spelling:
+  spellcheck:
     runs-on: ubuntu-latest
     env:
       ACTIONS_RUNNER_DEBUG: ${{ vars.ACTIONS_RUNNER_DEBUG }}
@@ -25,7 +25,7 @@ jobs:
         run: echo '[PR ${{ inputs.pr_num }}](http://github.com/PathOfBuildingCommunity/${{ inputs.repo }}/pull/${{ inputs.pr_num }})' >> $GITHUB_STEP_SUMMARY
 
       - name: Checkout PR ${{ inputs.pr_num }} ${{ inputs.repo }}
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           ref: "refs/pull/${{ inputs.pr_num }}/merge"
           repository: "PathOfBuildingCommunity/${{ inputs.repo }}"
@@ -43,7 +43,7 @@ jobs:
             ${{ env.CONFIG_URL }}/contribs-dict.txt
 
       - name: Run cspell
-        uses: streetsidesoftware/cspell-action@v7
+        uses: streetsidesoftware/cspell-action@v8
         with:
           files: '**' # needed as workaround for non-incremental runs (overrides in config still work ok)
           config: "cspell.json"
