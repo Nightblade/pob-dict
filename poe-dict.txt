@@ -571,6 +571,7 @@ corpsewalker
 Corutino
 Cospri
 Cospri's
+cospris
 Cracklecreep
 Cragbreaker
 cragfall
