@@ -12,6 +12,7 @@ on:
 
 jobs:
   spellcheck:
+    name: Spell Checker - ${{ inputs.repo }}
     runs-on: ubuntu-latest
     env:
       ACTIONS_RUNNER_DEBUG: ${{ vars.ACTIONS_RUNNER_DEBUG }}
@@ -20,7 +21,7 @@ jobs:
       TARGET_REF: dev
     steps:
       - name: Add repo link to summary
-        run: echo '[Repo ${{ inputs.repo }}](http://github.com/PathOfBuildingCommunity/${{ inputs.repo }})' >> $GITHUB_STEP_SUMMARY
+        run: echo 'Repo [${{ inputs.repo }}](http://github.com/PathOfBuildingCommunity/${{ inputs.repo }})' >> $GITHUB_STEP_SUMMARY
 
       - name: Checkout dev ${{ inputs.repo }}
         uses: actions/checkout@v6
@@ -52,7 +53,7 @@ jobs:
       - name: Write results to summary
         if: always() && steps.cspell.outputs.number_of_issues != '0'
         run: |
-          npx cspell "**" --config cspell.json --no-progress --no-summary 2>/dev/null \
+          npx cspell "**" --config cspell.json --no-progress --no-summary 2>&1 \
             | sort \
             | awk -v repo="$TARGET_REPO" -v ref="$TARGET_REF" '
                 match($0, /^([^:]+):([0-9]+):([0-9]+) Unknown word \(([^)]+)\)$/, a) {
