@@ -74,7 +74,6 @@ KHTML
 KinahraJump
 LegsGenadeExplosion
 LightningArrowof
-maxtrace
 meself
 MinionsAreUndamagable
 monstercategory
