@@ -102,8 +102,8 @@
         "\\[rR\\]ules",
         // "[vV]ariant"  src/Export/Scripts/uTextToMods.lua
         "\\[vV\\]ariant",
-        // image filenames  gemhoverimageempty.png
-        "[a-zA-Z0-9_-]+\\.png",
+        // file paths/names  "Assets/itemsseparatorfoil.png"
+        "(\"|')(Assets|Art|TreeData)[a-z0-9_\/%\\.]+(png|jpe?g|webp)(\"|')",
     ],
     "languageSettings": [],
     "reporters": [],
