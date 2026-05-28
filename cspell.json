@@ -78,7 +78,7 @@
     "patterns": [],
     "ignoreRegExpList": [
         // Colour hex codes  (eg ^xADAA47)
-        "\\^x[\\w]{6}",
+        "\\^x[0-9a-fA-F]{6}",
         // "manifeste?", "leeche?"  src/Modules/ModParser.lua
         "(manifeste|leeche)\\?",
         // "]econds"  src/Data/Uniques/Special/Generated.lua
