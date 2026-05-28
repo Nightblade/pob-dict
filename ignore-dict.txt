@@ -29,6 +29,7 @@ categorydemon
 categoryeldritch
 categoryhumanoid
 categoryundead
+chance_rollovercapped
 ChargedDashof
 CharmEnchange
 CharmUnaffectedby
@@ -105,6 +106,8 @@ SacrificalOfferingPlayer
 satisified
 ScorchingRayofImmolation
 SDPS
+setoption
+settimeout
 Shapeshifted
 ShieldInsteadofLife
 Siezing

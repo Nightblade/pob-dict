@@ -290,6 +290,7 @@ Bitterbloom
 bitterdream
 blackblooded
 Blackbraid
+blackfire
 blackflame
 blackgleam
 blackhole
@@ -1296,6 +1297,7 @@ Hoghunt
 hollowpoint
 hollowskull
 Holten
+Homeguard
 Honourhold
 honourhome
 hoofprints
@@ -1702,6 +1704,7 @@ manaweave
 mancer
 Manchettes
 Maniacism
+Mannan's
 Manoki
 Manshrike
 Mantaray
@@ -1975,6 +1978,7 @@ oskarm
 osmea
 ossecati
 Osseodon
+Oswin
 otairo
 otesha
 outlevel
