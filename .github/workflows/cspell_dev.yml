@@ -1,4 +1,4 @@
-name: Spellcheck PoB's repo
+name: Spellcheck PoB repo
 on:
   workflow_dispatch:
     inputs:
