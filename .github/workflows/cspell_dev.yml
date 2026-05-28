@@ -19,7 +19,7 @@ jobs:
       ACTIONS_STEP_DEBUG: ${{ vars.ACTIONS_STEP_DEBUG }}
     steps:
       - name: Checkout dev ${{ inputs.repo }}
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           ref: "dev"
           repository: "PathOfBuildingCommunity/${{ inputs.repo }}"
@@ -37,7 +37,7 @@ jobs:
             ${{ env.CONFIG_URL }}/contribs-dict.txt
 
       - name: Run cspell
-        uses: streetsidesoftware/cspell-action@v7
+        uses: streetsidesoftware/cspell-action@v8
         with:
           files: '**' # needed as workaround for non-incremental runs (overrides in config still work ok)
           config: "cspell.json"
