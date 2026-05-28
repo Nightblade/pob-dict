@@ -29,7 +29,7 @@ categorydemon
 categoryeldritch
 categoryhumanoid
 categoryundead
-ChargedDashofProjectionStage
+ChargedDashof
 CharmEnchange
 CharmUnaffectedby
 ChinsolDamage
