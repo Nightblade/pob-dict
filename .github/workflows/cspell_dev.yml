@@ -1,4 +1,4 @@
-name: CSpell dev
+name: Spell Checker test
 
 on:
   workflow_dispatch:
@@ -12,7 +12,7 @@ on:
         default: PathOfBuilding
 
 jobs:
-  spelling:
+  spellcheck:
     runs-on: ubuntu-latest
     env:
       ACTIONS_RUNNER_DEBUG: ${{ vars.ACTIONS_RUNNER_DEBUG }}
