@@ -72,6 +72,7 @@
         "**/src/Data/ModImplicit.lua",
         "**/src/Data/ModScourge.lua",
         "**/src/Data/ModSynthesis.lua",
+        "**/src/Data/ModEnchantment.lua",
     ],
     "allowCompoundWords": false,
     "patterns": [],
