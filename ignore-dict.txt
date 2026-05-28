@@ -12,6 +12,7 @@ amuletatlas
 AreaofEffect
 AtlasCruasderJudgeFadingNova
 AzmeriBasiliskDecapThrust
+BADP
 beltatlas
 BladeBlastof
 Bladefallof
