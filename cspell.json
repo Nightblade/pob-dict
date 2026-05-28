@@ -102,10 +102,6 @@
         "\\[rR\\]ules",
         // "[vV]ariant"  src/Export/Scripts/uTextToMods.lua
         "\\[vV\\]ariant",
-        // Very long words TODO: Experimental, needs testing
-        // "[a-zA-Z]{40,}",
-        // image filenames  CharacterAscendancy_orbit_intermediateactive9.png
-        "[a-zA-Z0-9_-]+\\.png",
     ],
     "languageSettings": [],
     "reporters": [],
