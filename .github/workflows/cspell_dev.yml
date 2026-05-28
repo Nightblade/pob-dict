@@ -12,7 +12,6 @@ on:
 
 jobs:
   spellcheck:
-    name: Spell Checker - ${{ inputs.repo }}
     runs-on: ubuntu-latest
     env:
       ACTIONS_RUNNER_DEBUG: ${{ vars.ACTIONS_RUNNER_DEBUG }}
