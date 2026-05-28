@@ -18,6 +18,9 @@ jobs:
       ACTIONS_RUNNER_DEBUG: ${{ vars.ACTIONS_RUNNER_DEBUG }}
       ACTIONS_STEP_DEBUG: ${{ vars.ACTIONS_STEP_DEBUG }}
     steps:
+      - name: Add repo link to summary
+        run: echo '[Repo ${{ inputs.repo }}](http://github.com/PathOfBuildingCommunity/${{ inputs.repo }})' >> $GITHUB_STEP_SUMMARY
+
       - name: Checkout dev ${{ inputs.repo }}
         uses: actions/checkout@v6
         with:
