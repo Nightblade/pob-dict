@@ -53,18 +53,5 @@ jobs:
       - name: Write results to summary
         if: always() && steps.cspell.outputs.number_of_issues != '0'
         run: |
-          npx cspell "**" --config cspell.json --no-progress --no-summary 2>&1 \
-            | sort \
-            | awk -v repo="$TARGET_REPO" -v ref="$TARGET_REF" '
-                match($0, /^([^:]+):([0-9]+):([0-9]+) Unknown word \(([^)]+)\)$/, a) {
-                  url = "https://github.com/" repo "/blob/" ref "/" a[1] "#L" a[2]
-                  printf "| [%s](%s) | %s | %s |\n", a[1], url, a[2], a[4]
-                }
-              ' > /tmp/cspell_rows.txt
-
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "## Unknown Words (${{ steps.cspell.outputs.number_of_issues }} issues in ${{ steps.cspell.outputs.number_of_files_with_issues }} files)" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "| File | Line | Word |" >> $GITHUB_STEP_SUMMARY
-          echo "|------|------|------|" >> $GITHUB_STEP_SUMMARY
-          cat /tmp/cspell_rows.txt >> $GITHUB_STEP_SUMMARY
+          set -x
+          npx cspell "**" --config cspell.json --no-progress --no-summary 2>&1
