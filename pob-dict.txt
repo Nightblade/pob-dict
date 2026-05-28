@@ -82,6 +82,7 @@ funcs
 gamemode
 geal
 GEMDESCRIPTION
+GEMINFO
 gepl
 getaccountname
 getsessionid
