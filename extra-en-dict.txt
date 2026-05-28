@@ -67,6 +67,7 @@ targetable
 triggerable
 triggerer
 uber
+unallocate
 unallocating
 unanointed
 Unblockable
