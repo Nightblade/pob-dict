@@ -29,6 +29,7 @@ categorydemon
 categoryeldritch
 categoryhumanoid
 categoryundead
+ChargedDashofProjectionStage
 CharmEnchange
 CharmUnaffectedby
 ChinsolDamage
@@ -73,6 +74,7 @@ KHTML
 KinahraJump
 LegsGenadeExplosion
 LightningArrowof
+maxtrace
 meself
 MinionsAreUndamagable
 monstercategory

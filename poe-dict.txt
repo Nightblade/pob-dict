@@ -2626,6 +2626,7 @@ sunblast
 sunbleached
 suncaller
 sundance
+sunfire
 sunprism
 sunspire
 sunspite
