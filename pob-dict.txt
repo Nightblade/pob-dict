@@ -204,6 +204,7 @@ scorchbg
 selectchar
 setfenv
 setopt
+setpause
 shockbg
 showtitlebarname
 skillpopup
