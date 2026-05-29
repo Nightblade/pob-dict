@@ -43,6 +43,8 @@ datc
 decrepifying
 DestructiveLinkSkeletonBombadierMinion
 DivineIreof
+DMGTHORNS
+DMGTHORNSBASE
 dontSplitEvade
 DoubleStrikeof
 EGSavageGaint
