@@ -103,7 +103,7 @@
         // "[vV]ariant"  src/Export/Scripts/uTextToMods.lua
         "\\[vV\\]ariant",
         // file paths/names  "Assets/itemsseparatorfoil.png"
-        "(\"|')(Assets|Art|TreeData)[a-z0-9_\/%\\.]+(png|jpe?g|webp)(\"|')",
+        "(\"|')[a-z0-9_\/%\\.]+(png|jpe?g|webp)(\"|')",
     ],
     "languageSettings": [],
     "reporters": [],
