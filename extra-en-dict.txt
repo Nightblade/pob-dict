@@ -34,6 +34,8 @@ indicies
 interactable
 inversed
 Jaccard
+jowel
+jowels
 Lumbermill
 Magicks
 mana
