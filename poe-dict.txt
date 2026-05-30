@@ -791,7 +791,9 @@ Eber's
 echoforge
 echoist
 edryd
+Edyrn
 Edyrn's
+Edyrns
 eedaiak
 eelskin
 Eeshta
@@ -1470,6 +1472,7 @@ karukaru
 Kasigi
 Kaso
 Kastov
+Katla
 Keita
 Kelari
 Kelari's
@@ -1516,6 +1519,7 @@ knightmaster
 knockback
 knucklegnaw
 kole
+Kolr
 Kondo
 Kondo's
 kondor
@@ -2266,6 +2270,7 @@ runegraft
 runegrafting
 runegrafts
 runemaster
+Runeseeker
 runeshape
 Runeshapes
 runeshining
@@ -2390,6 +2395,7 @@ shockwaves
 shortsword
 shrapnelbearer
 Shyaba
+Sidereus
 Sidhebite
 sidhebreath
 siegebreaker
@@ -2735,6 +2741,7 @@ thrillsteel
 Throatcutter
 throatseeker
 Throatslitter
+Thrud
 Thruldana
 Thunderburst
 thundercaller
