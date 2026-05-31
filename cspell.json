@@ -140,7 +140,7 @@
             "name": "contribs-dict",
             "path": "./contribs-dict.txt",
             "description": "Contributor's names dictionary",
-            "addWords": true,
+            "addWords": false,
             "noSuggest": true
         }
     ],
