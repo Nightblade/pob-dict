@@ -216,6 +216,7 @@ Bahlak
 balabus
 balah
 balbala
+Balbalakh
 baleh
 ballistified
 balus
@@ -365,6 +366,7 @@ bloodwing
 Blueflame
 blunderbore
 bluntslag
+Bodach
 bodyswap
 bodythief
 Bogfelled
@@ -517,6 +519,7 @@ chestplate
 Chetza
 chiara
 chillcaller
+Chillproof
 chimeral
 chimerals
 chimerascale
@@ -555,6 +558,7 @@ coldhearted
 coldsnap
 Colm
 compulsor
+Conall
 coniraya
 Connal
 convocated
@@ -750,6 +754,7 @@ dreadspire
 dreadstone
 dreadsurge
 dreadwheel
+Dreamcatcher
 dreamfeather
 dreamquest
 drillneck
@@ -967,6 +972,7 @@ flamesight
 flamespitting
 flamestrider
 flametosser
+Flamewalker
 flameweaver
 flameweeper
 flamewood
@@ -980,6 +986,7 @@ fleetfoot
 fleetfreak
 fleshbinding
 fleshcrafter
+Fleshcrafting
 flesheater
 flesheaters
 fleshmelter
@@ -995,6 +1002,7 @@ flickerstrike
 flockmate
 FMOD
 Foaga
+Forcewave
 forgeguard
 Forgehammer
 forgekeeper
@@ -1036,6 +1044,7 @@ frostkeeper
 Frostmage
 frostspewing
 frostspout
+Frostwalker
 Frostwall
 frostweaver
 frostwhirl
@@ -1345,6 +1354,7 @@ icetomb
 icewalker
 iceweaver
 ichimonji
+Ichlotl's
 icius
 Igguran
 igna
@@ -1815,6 +1825,7 @@ moontouched
 moonwarden
 moosh
 Mordhau
+Morgana
 Morgana's
 Morganas
 morgrants
@@ -2318,6 +2329,7 @@ Sandworm
 sandworn
 Sanguimancer
 sanguimancy
+Sanguimantic
 sanguis
 Santoni
 Saphira
@@ -2474,6 +2486,7 @@ Snakewood
 snowblind
 snowcaller
 snowforged
+Snowpiercer
 softcore
 softwareaudio
 soilmaker
@@ -2599,6 +2612,7 @@ stormblast
 stormblood
 stormborn
 stormbrand
+Stormbreaker
 stormbrewer
 stormburst
 stormcall
@@ -2627,6 +2641,7 @@ stormstrider
 stormstruck
 Stormsurge
 stormtouched
+Stormwalker
 stormwall
 stormweaver
 stranglecharm
@@ -2638,6 +2653,7 @@ stridevolf
 striketail
 strongarm
 Strugglescream
+Stylebender
 Styrn's
 Styrns
 sulphurspawn
@@ -2738,6 +2754,7 @@ thistlesage
 thornback
 thornflesh
 thornfruit
+Thornhide
 thornmaul
 thornmaw
 thornrunner

@@ -14,6 +14,7 @@ Chieftainess
 commandable
 conflagrating
 conflux
+Counterstancing
 craftable
 critting
 cullable
@@ -27,9 +28,12 @@ elementalist
 emanant
 Enthalpic
 equippable
+Evocational
 exertable
 greathelm
 groupless
+Headshot
+Honourless
 indicies
 interactable
 inversed
@@ -40,6 +44,7 @@ Lumbermill
 Magicks
 mana
 nerfed
+Otherworldy
 Overencumbrance
 pathing
 pearlescent
@@ -56,6 +61,7 @@ respecialisation
 royale
 scion
 scry
+Scrying
 shapeshift
 shockwave
 Shortbow
@@ -73,6 +79,7 @@ unallocate
 unallocating
 unanointed
 Unblockable
+Unbothering
 unbreaking
 unbuffed
 uncancellable
@@ -89,8 +96,11 @@ unfun
 uniques
 Unsavored
 unshattered
+Unsight
 unsocket
 untargetable
 Verglas
+Waterskin
+Weakspot
 wieldable
 wishlisted

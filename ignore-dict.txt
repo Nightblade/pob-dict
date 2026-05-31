@@ -13,6 +13,7 @@ AreaofEffect
 AtlasCruasderJudgeFadingNova
 AzmeriBasiliskDecapThrust
 BADP
+Beastial
 beltatlas
 BladeBlastof
 Bladefallof
@@ -103,6 +104,7 @@ Remembrancing
 Reservationwatcher
 reuseaddr
 ringatlas
+Ruinic
 SacrificalOfferingPlayer
 satisified
 ScorchingRayofImmolation
