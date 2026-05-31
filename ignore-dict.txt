@@ -131,6 +131,7 @@ SupportReveberatePlayer
 supporttriggerelementalspellonblock
 supporttriggerfirespellonhit
 TCTwilghtOrderSoldierCharge
+Testling
 Tornadoof
 triggeredByCospris
 twostonering
