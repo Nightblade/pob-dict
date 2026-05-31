@@ -480,6 +480,7 @@ casticus
 Cataphract
 catburglar
 Catha's
+Cathas
 cava
 Cavas
 Cavas's
@@ -843,6 +844,7 @@ Enoroa
 Entrailhome
 eoin
 Eonyr's
+Eonyrs
 EOUTOFMEMORY
 ephij
 ephrexis
@@ -1254,6 +1256,7 @@ Hedgewitch
 hedron
 Helbrym
 Helbrym's
+Helbryms
 Heldra
 helial
 hellbringer
@@ -1738,12 +1741,14 @@ Mawdun
 maxarius
 mazarine
 Maztli
+Mazus
 meatgrinder
 mechalarm
 mecharach
 medi-drone
 Medved
 Medved's
+Medveds
 Meginord
 Meginord's
 Mektul
@@ -1817,6 +1822,7 @@ mori
 Morior
 morpher
 Mórrigan
+Morrigans
 morsu
 mortalbane
 mortalconviction
@@ -1949,6 +1955,7 @@ olof
 Oloton
 Olroth
 Olroth's
+Olroths
 Olrovasara
 omeyocan
 omniphobia
@@ -1998,6 +2005,7 @@ oyra
 Oyun
 Oyun's
 packhound
+Packleader
 painforged
 painseeker
 pallias
@@ -2551,6 +2559,7 @@ stabby
 Staghorn
 stamatis
 stantinus
+Starborn
 Starcaller
 starfall
 starforge
@@ -2630,6 +2639,7 @@ striketail
 strongarm
 Strugglescream
 Styrn's
+Styrns
 sulphurspawn
 sumei
 sunblast
@@ -2855,6 +2865,7 @@ tyrannursus
 tzamoto
 tzteosh
 uhtred
+Uhtreds
 Ulaman
 Ulaman's
 Uldurn
@@ -3008,6 +3019,7 @@ Vorm
 Vornas
 Vorrik
 Vruun
+Vruuns
 vsync
 vulcanist
 vulconus
