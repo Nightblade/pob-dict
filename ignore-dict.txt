@@ -69,7 +69,6 @@ helmetatlas
 HuhuGrub
 Incinerateof
 incursionlimb
-Inevitablity
 ingame
 intimidating_cry_empowerd_attacks_deal_double
 intjewel
@@ -144,6 +143,7 @@ UniqueManaScarificeToAllies1
 UniqueModifyableWhileCorrupted1
 UniqueNonherent
 uulnetol
+VruunsInevitablity
 wandatlas
 WarcyProjectiles
 winepath
