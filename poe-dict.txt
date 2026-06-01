@@ -281,6 +281,7 @@ Bijouborne
 bin'aia
 Bino
 Bino's
+Biostatic
 bircus
 Bisco
 Bisco's
@@ -864,6 +865,7 @@ ersi
 erythrophagia
 Eshgraft
 Eshs
+Eshtera
 Eshtera's
 essentia
 estazunti
@@ -1435,6 +1437,7 @@ Javelineer
 jawchaw
 jeinei
 Jellycrab
+jingakh
 jik'shah
 jikeji
 jiquani
@@ -2017,6 +2020,7 @@ Oyun
 Oyun's
 packhound
 Packleader
+paquates
 painforged
 painseeker
 pallias
@@ -2178,6 +2182,7 @@ rasa
 Rashi
 Rashkaldor
 Rashkaldor's
+Ratha
 Ratha's
 Rathbreaker
 Rathorn
@@ -2289,6 +2294,7 @@ runegraft
 runegrafting
 runegrafts
 runemaster
+Runemastered
 Runeseeker
 runeshape
 Runeshapes
@@ -2309,6 +2315,7 @@ Sadima's
 saemus
 Saffell
 Saffell's
+Safrin
 Safrin's
 Sagari
 Saitha
@@ -2370,6 +2377,7 @@ Sentari's
 sephirot
 Septimus
 Serath
+Seren
 Serle
 Serle's
 serpentscale
@@ -2675,6 +2683,7 @@ surgefiend
 susara
 sutrus
 Svalinn
+Sventura
 swiftbrand
 Swiftstalker
 swordstorm
@@ -2989,6 +2998,7 @@ Viridi
 Viridi's
 visceris
 Vitali
+Vitalic
 vitorica
 Vivici
 vivinsect
@@ -3234,6 +3244,7 @@ zaffre
 Zahmir
 zahndethus
 Zaida's
+Zaitema
 zalatl
 Zalmarath
 Zana

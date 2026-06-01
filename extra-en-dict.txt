@@ -40,6 +40,7 @@ inversed
 Jaccard
 jowel
 jowels
+lessers
 Lumbermill
 Magicks
 mana

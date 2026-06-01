@@ -69,6 +69,7 @@ helmetatlas
 HuhuGrub
 Incinerateof
 incursionlimb
+Inevitablity
 ingame
 intimidating_cry_empowerd_attacks_deal_double
 intjewel
@@ -114,6 +115,7 @@ settimeout
 Shapeshifted
 ShieldInsteadofLife
 Siezing
+Singlular
 skill_charge_matery_skill_speed
 skillgem
 Spelleweaving
