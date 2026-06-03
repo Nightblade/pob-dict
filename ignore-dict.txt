@@ -48,6 +48,7 @@ DMGTHORNS
 DMGTHORNSBASE
 dontSplitEvade
 DoubleStrikeof
+DrivebyCharge
 EGSavageGaint
 EnmitysEmbrace
 ExposureonHit
