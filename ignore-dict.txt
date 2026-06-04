@@ -35,6 +35,7 @@ ChargedDashof
 CharmEnchange
 CharmUnaffectedby
 ChinsolDamage
+corge
 CritsDontAlways
 CritsOnYouDont
 CycloneofTumult
@@ -59,11 +60,13 @@ FistofWar
 Flameblastof
 flatphysicaldamagevalues
 Fusilladeof
+garply
 GenadeExplosion
 glovesatlasdex
 glovesatlasint
 glovesatlasstr
 glovesatlasstrint
+grault
 GSRoboHoundBellyDamage
 HARMONICMEAN
 helmetatlas
