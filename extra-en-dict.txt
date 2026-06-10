@@ -59,6 +59,7 @@ Replayability
 respawn
 respawned
 respecialisation
+rollable
 royale
 scion
 scry

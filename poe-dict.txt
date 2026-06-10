@@ -1137,6 +1137,7 @@ goatman
 goatmen
 goatqueen
 goblinedge
+godmode
 godslayer
 Goldcast
 goldhoof
@@ -1437,9 +1438,9 @@ Javelineer
 jawchaw
 jeinei
 Jellycrab
-jingakh
 jik'shah
 jikeji
+jingakh
 jiquani
 Jiquanis
 jodin
@@ -2020,7 +2021,6 @@ Oyun
 Oyun's
 packhound
 Packleader
-paquates
 painforged
 painseeker
 pallias
@@ -2028,6 +2028,7 @@ pandemonius
 panquetzaliztli
 panthera
 paquate
+paquates
 paradisae
 paradoxica
 Paradoxicas
