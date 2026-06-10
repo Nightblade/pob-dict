@@ -252,6 +252,7 @@ battlemage
 battlemages
 bazira
 bazur
+Beamcaster
 beartraps
 beastcraft
 beastcrafted
@@ -975,6 +976,8 @@ flamespitting
 flamestrider
 flametosser
 Flamewalker
+Flamewaller
+Flamewalls
 flameweaver
 flameweeper
 flamewood
@@ -1626,6 +1629,7 @@ lifeforce
 lifegiver
 lifeleech
 lifesprig
+Lifestealer
 lifetap
 lightbane
 lightbeam
@@ -2510,6 +2514,7 @@ Sothotep
 soulbinder
 Soulbound
 Soulbreaker
+Soulcano
 Soulcatcher
 Soulcord
 soulcore
@@ -2518,6 +2523,7 @@ Souleater
 souleye
 soulfeast
 soulfire
+Soulflame
 soulkeeper
 soulmourn
 soulraker
@@ -2857,6 +2863,7 @@ tripyxis
 triskeriaki
 trisula
 trix
+trollable
 trolltimber
 trypanon
 tsarsk
