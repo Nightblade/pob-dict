@@ -6,6 +6,7 @@ arcanist
 augmentable
 bloodthirst
 boobytrapped
+bossness
 cascadable
 castable
 cauteriser
