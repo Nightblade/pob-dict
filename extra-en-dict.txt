@@ -74,6 +74,7 @@ specularity
 substate
 subtables
 targetable
+toggleable
 triggerable
 triggerer
 uber
