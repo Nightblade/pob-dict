@@ -24,6 +24,7 @@ BlockedDamageDoesntBypassES
 BloodUltimatium
 bootsatlas
 bootsatlasdexint
+BossSulpurGas
 BurrowerVacuume
 categorybeasts
 categorydemon
