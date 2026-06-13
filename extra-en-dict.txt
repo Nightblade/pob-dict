@@ -79,6 +79,7 @@ toggleable
 triggerable
 triggerer
 uber
+unaccelerated
 unallocate
 unallocating
 unanointed
