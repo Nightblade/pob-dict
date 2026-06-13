@@ -82,7 +82,9 @@ jewelcircle
 KHTML
 KinahraJump
 LegsGenadeExplosion
+LifeonKill
 LightningArrowof
+ManaonKill
 meself
 MinionsAreUndamagable
 monstercategory
@@ -101,6 +103,7 @@ PosionSpray
 Propeling
 Purityof
 quiveratlas
+RageonHit
 ReaveofRefraction
 recalcs
 referer
