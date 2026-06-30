@@ -1,4 +1,6 @@
 name: Spellcheck PoB repo
+run-name: Spellcheck ${{ inputs.repo }} repo
+
 on:
   workflow_dispatch:
     inputs:
@@ -12,6 +14,7 @@ on:
 
 jobs:
   spellcheck:
+    name: Spellcheck ${{ inputs.repo }} repo
     runs-on: ubuntu-latest
     env:
       ACTIONS_RUNNER_DEBUG: ${{ vars.ACTIONS_RUNNER_DEBUG }}
