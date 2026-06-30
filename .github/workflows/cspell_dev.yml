@@ -1,5 +1,5 @@
 name: Spellcheck PoB repo
-run-name: Spellcheck ${{ inputs.repo }} repo
+run-name: Spellcheck ${{ inputs.repo == 'PathOfBuilding-PoE2' && 'PoB2' || 'PoB' }} repo
 
 on:
   workflow_dispatch:
@@ -14,7 +14,7 @@ on:
 
 jobs:
   spellcheck:
-    name: Spellcheck ${{ inputs.repo }} repo
+    name: Spellcheck ${{ inputs.repo == 'PathOfBuilding-PoE2' && 'PoB2' || 'PoB' }} repo
     runs-on: ubuntu-latest
     env:
       ACTIONS_RUNNER_DEBUG: ${{ vars.ACTIONS_RUNNER_DEBUG }}
