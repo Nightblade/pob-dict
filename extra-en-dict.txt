@@ -33,6 +33,7 @@ Evocational
 exertable
 greathelm
 groupless
+handwrap
 Headshot
 Honourless
 indicies
