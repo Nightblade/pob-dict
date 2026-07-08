@@ -73,6 +73,7 @@ GSRoboHoundBellyDamage
 HARMONICMEAN
 helmetatlas
 HuhuGrub
+ImplicitUnaffectedby
 Incinerateof
 incursionlimb
 ingame
@@ -113,6 +114,7 @@ Regurg
 RejuvinationTotem
 Remembrancing
 Reservationwatcher
+ResistancesImplict
 reuseaddr
 ringatlas
 Ruinic

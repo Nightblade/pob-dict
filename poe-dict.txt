@@ -446,6 +446,7 @@ Brughor
 bruteforce
 Brylla
 Brynhand's
+Brynhands
 Bugbot
 burtok
 Bynden
@@ -1347,6 +1348,7 @@ Hyrri
 Hyrri's
 hyseria
 Hysseg's
+Hyssegs
 hysteriagate
 icebearer
 icebite
@@ -2301,6 +2303,7 @@ runegrafts
 runemaster
 Runemastered
 Runeseeker
+Runeseekers
 runeshape
 Runeshapes
 runeshining
