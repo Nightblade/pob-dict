@@ -127,6 +127,7 @@ lowSurr
 lshift
 luacov
 luajit
+luarocks
 luasocket
 luassert
 mainhand
