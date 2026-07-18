@@ -94,6 +94,7 @@ MPSTwilightSorcerorFireball
 MutatedUniqueAmluet
 Nonpathing
 onlineleague
+oulborn
 overheadslamforward
 passiveskillscreen
 passiveskillscreenjewelcircle
