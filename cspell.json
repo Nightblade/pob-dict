@@ -25,7 +25,7 @@
         "**/docker-compose.yml",
         "**/src/Export/Scripts/passivetree.lua",
         /* ************************ Auto-generated files from here down ************************ */
-        // "**/src/Data/Bases/*",
+        "**/src/Data/Bases/*",
         "**/src/Data/ModScalability.lua",
         "**/src/Data/ClusterJewels.lua",
         "**/src/Data/Costs.lua",
