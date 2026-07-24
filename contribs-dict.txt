@@ -3,6 +3,7 @@
 a3person
 abashurov
 acoudray
+AdamZ-8113
 admSla
 aidanjryan
 ain9156
@@ -19,6 +20,7 @@ AnSq
 Antaresque
 Antorell
 APXEOLOG
+apYdr6uxv
 Ariacell
 arielrahamim
 aron-w
@@ -136,6 +138,7 @@ H2NCH2COOH
 ha107642
 HashBR
 haugenc
+hducati
 hdwatts
 HeffU
 Helyos96
@@ -175,6 +178,7 @@ karlji
 Kayella
 kayokalinauskas
 Kenishi
+KenManDev
 Kerberos9
 KillerMZE
 kisiex
@@ -340,6 +344,7 @@ Sinured
 slaren
 Smita
 Solofme
+soratidus999
 Soulprayer79
 Spawnbroker
 spawnie-no-oni
