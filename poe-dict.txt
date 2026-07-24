@@ -2366,6 +2366,7 @@ scissorblades
 Scornflux
 scourgelord
 screenshake
+Seablister
 seaborn
 seaglass
 Searot
@@ -2567,6 +2568,7 @@ Spinefish
 spinefuse
 spinehail
 spinesnap
+Spinesnatch
 Spinesnatcher
 Spinestorm
 spiritblade
