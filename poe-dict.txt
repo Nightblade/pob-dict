@@ -423,6 +423,7 @@ Brequel
 Briarpatch
 brightbeak
 brinecrack
+Brinehook
 brinerot
 brinespawn
 Brinesplitter
@@ -2720,6 +2721,7 @@ Tane's
 Tāne's
 Tangletongue
 tangmazu
+Tanky
 tantalo
 Tanu
 Taowu
@@ -3109,6 +3111,7 @@ webmother
 webspinner
 webweaver
 welakath
+Wellhook
 Wellsprites
 Wellwater
 wellwing
