@@ -354,6 +354,7 @@ bloodplay
 bloodpriest
 bloodpriests
 bloodreap
+Bloodrend
 Bloodrite
 bloodscent
 bloodscouring
@@ -603,6 +604,7 @@ cryomancer
 cryomantic
 cryophile
 crystalarium
+Crystalfall
 crystalising
 crystalskin
 Cuachic
@@ -1232,6 +1234,7 @@ Halfsword
 haliotis
 hammerblows
 hammerfall
+Hammerfalls
 hammerstorm
 handcast
 handfinger
@@ -1573,6 +1576,7 @@ krugg
 Krutog
 kruug
 ksaret
+Ktash
 kuduku
 kul'gul
 kulemak
@@ -3282,4 +3286,5 @@ Zicoatl
 zilquapa
 zipline
 Zolin
+Zorath
 zorioc
