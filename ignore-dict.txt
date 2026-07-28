@@ -9,6 +9,7 @@ ABTT
 ABTTAzmeriBasaliskShroud
 AilmentThresholdfromEnergyShield
 amuletatlas
+ANNOINT
 AreaofEffect
 AtlasCruasderJudgeFadingNova
 AzmeriBasiliskDecapThrust
