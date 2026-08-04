@@ -63,6 +63,7 @@ dmgattacks
 dmgboth
 dmgspells
 downloadcharlist
+Draugurflames
 dropdowns
 edvinas
 Egor
