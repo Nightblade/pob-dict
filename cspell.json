@@ -98,6 +98,9 @@
         "\"Strenth\"",
         // [cthd][ae][ukva]  (2)  src/Modules/ModParser.lua
         "\\[cthd\\]\\[ae\\]\\[ukva\\]",
+        // ("Amluet","Amulet"):gsub("Botts","Boots")  (1)  src/Export/Scripts/mapUniqueToFoulborn.lua
+        "\\(\"Amluet\"",
+        "\\(\"Botts\"",
         // [vV]ariant  (1)  src/Export/Scripts/uTextToMods.lua
         "\\[vV\\]ariant",
         // (file paths/names)  (*)  "Assets/itemsseparatorfoil.png"
