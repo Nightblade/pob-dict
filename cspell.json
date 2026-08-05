@@ -77,33 +77,33 @@
     "allowCompoundWords": false,
     "patterns": [],
     "ignoreRegExpList": [
-        // Colour hex codes  (eg ^xADAA47)
+        // RegExps must be in quotes and any escape characters doubled.
+        // Comment syntax is mostly: <text to match  ... | (description)>  <(PoB version * = both)>  [path/filename]
+
+        // (Colour hex codes eg ^xADAA47)  (*)
         "\\^x[0-9a-fA-F]{6}",
-        // "manifeste?", "leeche?"  src/Modules/ModParser.lua
+        // manifeste?  leeche?  (*)  src/Modules/ModParser.lua
         "(manifeste|leeche)\\?",
-        // "]econds"  src/Data/Uniques/Special/Generated.lua
+        // ]econds  (1)  src/Data/Uniques/Special/Generated.lua
         "\\]econds",
-        // "immun["  src/Modules/ModParser.lua
+        // immun[  (*)  src/Modules/ModParser.lua
         "immun\\[",
-        // "[hgdf]", "[viar]"  src/Modules/ModParser.lua
+        // [hgdf]  [viar]  (*)  src/Modules/ModParser.lua
         "\\[(hgdf|viar)\\]",
-        // "enem[yi]e?s?"  src/Modules/ModParser.lua
+        // enem[y  (*)  src/Modules/ModParser.lua
         "enem\\[y",
-        // "satisi?fied"  src/Modules/ModParser.lua
+        // satisi?fied  (2)  src/Modules/ModParser.lua
         "satisi\\?fied",
-        // ""Strenth""  src/Data/Uniques/Special/Generated.lua
+        // "Strenth"  (2)  src/Data/Uniques/Special/Generated.lua
         "\"Strenth\"",
-        // "[cthd][ae][ukva]"  src/Modules/ModParser.lua
+        // [cthd][ae][ukva]  (2)  src/Modules/ModParser.lua
         "\\[cthd\\]\\[ae\\]\\[ukva\\]",
-        // "("Amluet","Amulet"):gsub("Botts","Boots")"  src/Export/Scripts/mapUniqueToFoulborn.lua
-        "Amluet\",\"Amulet",
-        "Botts\",\"Boots",
-        // "[rR]ules"  src/Classes/TradeQueryRequests.lua
-        "\\[rR\\]ules",
-        // "[vV]ariant"  src/Export/Scripts/uTextToMods.lua
+        // [vV]ariant  (1)  src/Export/Scripts/uTextToMods.lua
         "\\[vV\\]ariant",
-        // file paths/names  "Assets/itemsseparatorfoil.png"
+        // (file paths/names)  (*)  "Assets/itemsseparatorfoil.png"
         "(\"|')[a-z0-9_\/%\\.]+(png|jpe?g|webp)(\"|')",
+        // "ABYS"  "ABYN"  "ASCS"  (1)  src/Modules/DataAbyssJewelLookUpTableHelper.lua
+        "\"A(BY[SN]|SCS)\"",
     ],
     "languageSettings": [],
     "reporters": [],
