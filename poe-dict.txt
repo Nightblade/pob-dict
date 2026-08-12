@@ -2693,6 +2693,7 @@ suncaller
 sundance
 sunfire
 sunprism
+Sunscald
 sunspire
 sunspite
 Sunsplinter
