@@ -91,6 +91,7 @@ unbreaking
 unbuffed
 uncancellable
 uncastable
+unconstructed
 Uncursed
 undamageable
 undeath
