@@ -86,6 +86,7 @@ GEMDESCRIPTION
 GEMINFO
 gepl
 getaccountname
+getfenv
 getsessionid
 ggpk
 giflib
