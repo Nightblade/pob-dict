@@ -90,6 +90,7 @@ LightningArrowof
 ManaonKill
 meself
 MinionsAreUndamagable
+ModLGOHIgnited
 monstercategory
 MPSTwilightSorcerorFireball
 MutatedUniqueAmluet
