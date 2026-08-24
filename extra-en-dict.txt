@@ -102,6 +102,7 @@ unfetch
 unfetched
 unfun
 uniques
+UNPARSEABLE
 Unsavored
 unshattered
 Unsight
