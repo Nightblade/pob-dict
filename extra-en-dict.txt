@@ -93,6 +93,7 @@ uncancellable
 uncastable
 unconstructed
 Uncursed
+uncustomised
 undamageable
 undeath
 unequip
