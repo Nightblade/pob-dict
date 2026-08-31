@@ -51,6 +51,7 @@ Otherworldy
 Overencumbrance
 pathing
 pearlescent
+pinnable
 popout
 popouts
 progenesis
