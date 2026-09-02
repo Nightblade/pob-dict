@@ -23,6 +23,7 @@ debuff
 Debuffed
 debuffs
 desynced
+downlevels
 dreadnaught
 eclipsis
 elementalist
@@ -92,6 +93,7 @@ unbreaking
 unbuffed
 uncancellable
 uncastable
+uncomposed
 unconstructed
 Uncursed
 uncustomised
