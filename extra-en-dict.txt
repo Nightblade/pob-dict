@@ -66,6 +66,7 @@ respawn
 respawned
 respecialisation
 rollable
+rollup
 royale
 scion
 scry
