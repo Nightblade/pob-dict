@@ -47,6 +47,7 @@ lessers
 Lumbermill
 Magicks
 mana
+merc
 nerfed
 Otherworldy
 Overencumbrance
@@ -91,6 +92,7 @@ Unblockable
 Unbothering
 unbreaking
 unbuffed
+uncalculated
 uncancellable
 uncastable
 uncomposed
@@ -105,6 +107,9 @@ unequips
 unfetch
 unfetched
 unfun
+ungzipped
+unhire
+unhired
 uniques
 UNPARSEABLE
 Unsavored

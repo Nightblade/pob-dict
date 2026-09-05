@@ -803,6 +803,7 @@ earthshatter
 Earthshattering
 Eber
 Eber's
+ebers
 echoforge
 echoist
 edryd
@@ -1523,6 +1524,7 @@ kiloava
 Kimbey
 Kinarha
 kineticism
+kineticist
 kingsguard
 Kingsmarch
 kinslayer
@@ -3103,6 +3105,7 @@ warhammer
 Warhorn
 warmaster
 warpick
+warpriest
 warstaff
 warstaffs
 warstave

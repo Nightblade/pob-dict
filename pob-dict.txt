@@ -109,6 +109,7 @@ intelli
 ipairs
 ipresolve
 itemlevel
+itemset
 keybind
 khronos
 kolf

@@ -1,3 +1,4 @@
+// cspell: disable
 {
     "language": "en-GB,en",
     "enabled": true,
@@ -16,7 +17,6 @@
         "*.zip",
         ".git",
         ".gitattributes",
-        "**/cspell.json",
         "**/runtime/*",
         "**/src/Builds/*",
         "**/src/Export/spec.lua",
@@ -73,6 +73,8 @@
         "**/src/Data/ModScourge.lua",
         "**/src/Data/ModSynthesis.lua",
         "**/src/Data/ModEnchantment.lua",
+        "**/src/Data/Mercenaries.lua",
+        "**/src/Data/MercenaryStatMap.lua",
     ],
     "allowCompoundWords": false,
     "patterns": [],
