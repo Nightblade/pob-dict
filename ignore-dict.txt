@@ -88,6 +88,7 @@ LegsGenadeExplosion
 LifeonKill
 LightningArrowof
 ManaonKill
+MeleeStrikesMaraduerPhys
 meself
 MinionsAreUndamagable
 ModLGOHIgnited
@@ -102,6 +103,7 @@ passiveskillscreen
 passiveskillscreenjewelcircle
 PenanceBrandof
 Perforateof
+permanenet_mercenary
 perp
 pobbin
 PosionSpray

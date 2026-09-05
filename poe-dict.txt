@@ -210,6 +210,7 @@ Azmadi
 azmeri
 azmerian
 azmerians
+azrus
 azyran
 Backburner
 baeclast
@@ -2294,6 +2295,7 @@ rudiarius
 Rudja
 Rugosa
 Ruhaki
+ruktara
 rukuku
 Rumblemarch
 Rumi
@@ -2813,6 +2815,7 @@ thunderfist
 Thundergod
 thunderguard
 thunderhand
+thunderquiver
 thundersight
 thunderskull
 Thunderstep
@@ -3074,6 +3077,7 @@ Vorici
 Vorici's
 Vorm
 Vornas
+vorneka
 Vorrik
 Vruun
 Vruuns

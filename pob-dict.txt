@@ -26,6 +26,7 @@ brushwith
 bxor
 cardbeard
 casttime
+cdef
 centerduelist
 centermarauder
 centerranger
@@ -139,6 +140,7 @@ makensis
 mallah
 malloc
 manatext
+manyshot
 MASTERYALLOC
 matchstring
 maxmcode
