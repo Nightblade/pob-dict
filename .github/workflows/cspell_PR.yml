@@ -59,8 +59,8 @@ jobs:
             | awk -v repo="$TARGET_REPO" -v ref="$TARGET_REF" '
                 match($0, /^([^:]+):([0-9]+):([0-9]+) - Unknown word \(([^)]+)\)$/, a) {
                   url = "https://github.com/" repo "/blob/" ref "/" a[1] "#L" a[2]
-                  printf "| [%s](%s) | %s | %s |\n", a[1], url, a[2], a[4] >> "/tmp/cspell_rows.txt"
-                  printf "%s:%s\n", a[1], a[2] >> "/tmp/cspell_plain.txt"
+                  printf "| [%s](%s) | %s:%s | %s |\n", a[1], url, a[2], a[3], a[4] >> "/tmp/cspell_rows.txt"
+                  printf "%s:%s:%s\n", a[1], a[2], a[3] >> "/tmp/cspell_plain.txt"
                   issues++
                   files[a[1]] = 1
                 }
