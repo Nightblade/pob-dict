@@ -23,7 +23,6 @@ jobs:
       ACTIONS_RUNNER_DEBUG: ${{ vars.ACTIONS_RUNNER_DEBUG }}
       ACTIONS_STEP_DEBUG: ${{ vars.ACTIONS_STEP_DEBUG }}
       TARGET_REPO: PathOfBuildingCommunity/${{ inputs.repo }}
-      TARGET_REF: pull/${{ inputs.pr_num }}/head
     steps:
       - name: Add PR link to summary
         run: echo '[PR ${{ inputs.pr_num }}](http://github.com/PathOfBuildingCommunity/${{ inputs.repo }}/pull/${{ inputs.pr_num }})' >> $GITHUB_STEP_SUMMARY
@@ -33,6 +32,10 @@ jobs:
         with:
           ref: "refs/pull/${{ inputs.pr_num }}/merge"
           repository: "PathOfBuildingCommunity/${{ inputs.repo }}"
+
+      - name: Get HEAD SHA
+        id: head
+        run: echo "sha=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
 
       - name: Fetch config file and dictionaries
         env:
@@ -48,6 +51,8 @@ jobs:
 
       - name: Run cspell and write results to summary
         id: cspell
+        env:
+          TARGET_REF: ${{ steps.head.outputs.sha }}
         run: |
           npx cspell "**" --config cspell.json --no-progress --no-summary 2>&1 \
             | sort \
