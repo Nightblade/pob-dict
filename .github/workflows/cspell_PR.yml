@@ -1,5 +1,5 @@
 name: Spellcheck PR
-run-name: Spellcheck PR ${{ inputs.pr_num }} ${{ inputs.repo == 'PathOfBuilding-PoE2' && 'PoB2' || 'PoB' }} repo
+run-name: Spellcheck PR ${{ inputs.pr_num }} ${{ inputs.repo == 'PathOfBuilding-PoE2' && 'PoB2' || 'PoB' }}
 
 on:
   workflow_dispatch:
@@ -17,13 +17,13 @@ on:
 
 jobs:
   spellcheck:
-    name: Spellcheck PR ${{ inputs.pr_num }} ${{ inputs.repo == 'PathOfBuilding-PoE2' && 'PoB2' || 'PoB' }} repo
+    name: Spellcheck PR ${{ inputs.pr_num }} ${{ inputs.repo == 'PathOfBuilding-PoE2' && 'PoB2' || 'PoB' }}
     runs-on: ubuntu-latest
     env:
       ACTIONS_RUNNER_DEBUG: ${{ vars.ACTIONS_RUNNER_DEBUG }}
       ACTIONS_STEP_DEBUG: ${{ vars.ACTIONS_STEP_DEBUG }}
       TARGET_REPO: PathOfBuildingCommunity/${{ inputs.repo }}
-      TARGET_REF: refs/pull/${{ inputs.pr_num }}/head
+      TARGET_REF: pull/${{ inputs.pr_num }}/head
     steps:
       - name: Add PR link to summary
         run: echo '[PR ${{ inputs.pr_num }}](http://github.com/PathOfBuildingCommunity/${{ inputs.repo }}/pull/${{ inputs.pr_num }})' >> $GITHUB_STEP_SUMMARY
