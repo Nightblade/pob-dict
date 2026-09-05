@@ -1,4 +1,5 @@
-name: Spell Checker PR debug
+name: Spellcheck PR
+run-name: Spellcheck PR ${{ inputs.pr_num }} ${{ inputs.repo == 'PathOfBuilding-PoE2' && 'PoB2' || 'PoB' }} repo
 
 on:
   workflow_dispatch:
@@ -16,10 +17,13 @@ on:
 
 jobs:
   spellcheck:
+    name: Spellcheck PR ${{ inputs.pr_num }} ${{ inputs.repo == 'PathOfBuilding-PoE2' && 'PoB2' || 'PoB' }} repo
     runs-on: ubuntu-latest
     env:
       ACTIONS_RUNNER_DEBUG: ${{ vars.ACTIONS_RUNNER_DEBUG }}
       ACTIONS_STEP_DEBUG: ${{ vars.ACTIONS_STEP_DEBUG }}
+      TARGET_REPO: PathOfBuildingCommunity/${{ inputs.repo }}
+      TARGET_REF: refs/pull/${{ inputs.pr_num }}/head
     steps:
       - name: Add PR link to summary
         run: echo '[PR ${{ inputs.pr_num }}](http://github.com/PathOfBuildingCommunity/${{ inputs.repo }}/pull/${{ inputs.pr_num }})' >> $GITHUB_STEP_SUMMARY
@@ -42,10 +46,43 @@ jobs:
             ${{ env.CONFIG_URL }}/extra-en-dict.txt
             ${{ env.CONFIG_URL }}/contribs-dict.txt
 
-      - name: Run cspell
-        uses: streetsidesoftware/cspell-action@v8
-        with:
-          files: '**' # needed as workaround for non-incremental runs (overrides in config still work ok)
-          config: "cspell.json"
-          incremental_files_only: ${{ github.event_name != 'workflow_dispatch' }}
-          verbose: true
+      - name: Run cspell and write results to summary
+        id: cspell
+        run: |
+          npx cspell "**" --config cspell.json --no-progress --no-summary 2>&1 \
+            | sort \
+            | awk -v repo="$TARGET_REPO" -v ref="$TARGET_REF" '
+                match($0, /^([^:]+):([0-9]+):([0-9]+) - Unknown word \(([^)]+)\)$/, a) {
+                  url = "https://github.com/" repo "/blob/" ref "/" a[1] "#L" a[2]
+                  printf "| [%s](%s) | %s | %s |\n", a[1], url, a[2], a[4] >> "/tmp/cspell_rows.txt"
+                  printf "%s:%s\n", a[1], a[2] >> "/tmp/cspell_plain.txt"
+                  issues++
+                  files[a[1]] = 1
+                }
+                END {
+                  print issues > "/tmp/cspell_issues.txt"
+                  print length(files) > "/tmp/cspell_file_count.txt"
+                }
+              '
+
+          issues=$(cat /tmp/cspell_issues.txt 2>/dev/null || echo 0)
+          file_count=$(cat /tmp/cspell_file_count.txt 2>/dev/null || echo 0)
+
+          echo "number_of_issues=$issues" >> $GITHUB_OUTPUT
+          echo "number_of_files_with_issues=$file_count" >> $GITHUB_OUTPUT
+
+          if [ "$issues" != "0" ]; then
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "## Unknown Words ($issues issues in $file_count files)" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "| File | Line | Word |" >> $GITHUB_STEP_SUMMARY
+            echo "|------|------|------|" >> $GITHUB_STEP_SUMMARY
+            cat /tmp/cspell_rows.txt >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "## Unknown Word Locations" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            cat /tmp/cspell_plain.txt >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+          fi
+
