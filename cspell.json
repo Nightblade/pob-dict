@@ -75,6 +75,7 @@
         "**/src/Data/ModEnchantment.lua",
         "**/src/Data/Mercenaries.lua",
         "**/src/Data/MercenaryStatMap.lua",
+        "**/src/Data/ModRunes.lua",
     ],
     "allowCompoundWords": false,
     "patterns": [],
