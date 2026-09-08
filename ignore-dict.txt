@@ -46,6 +46,7 @@ DamagevsArmourBrokenEnemies
 dat
 datc
 decrepifying
+DeepwaterTatttoo
 DestructiveLinkSkeletonBombadierMinion
 DivineIreof
 DMGTHORNS

@@ -1095,6 +1095,7 @@ gazuul
 gehennix
 Geis
 Gelida
+Gemcraft
 Gemcrust
 gemcutter
 gemcutter's
@@ -1321,6 +1322,7 @@ highdove
 hikatomanga
 Hinekora
 Hinekora's
+Hinekoras
 hitboxes
 Hiveblood
 Hiveborn
@@ -1504,6 +1506,7 @@ karukaru
 Kasigi
 Kaso
 Kastov
+Katakohi's
 Katla
 Keita
 Kelari
@@ -1784,6 +1787,7 @@ Medved's
 Medveds
 Meginord
 Meginord's
+meginords
 Mektul
 Meltwax
 melur
@@ -1880,6 +1884,7 @@ murgeth
 Murkshaft
 Murtagh
 muruk
+Mushrune
 mutewind
 myrae
 Myris
@@ -1961,6 +1966,7 @@ nonunique
 nopatch
 nopreload
 Northpaw
+Novamark
 novynn
 nubuck
 Nuro
@@ -2552,6 +2558,7 @@ soulseeker
 soulstealer
 soulstunning
 soulthirst
+Soulwick
 soulwrest
 southswing
 sparkcaller
@@ -2770,6 +2777,7 @@ Tecrod's
 Tecrods
 tecton
 teklatipitzi
+Telesia's
 telvar
 Tempestology
 temu
@@ -2924,6 +2932,7 @@ tzamoto
 tzteosh
 uhtred
 Uhtreds
+Ukatoa's
 Ulaman
 Ulaman's
 Uldurn
@@ -3068,6 +3077,7 @@ Volkuur
 Volkuur's
 Voll
 Voll's
+volls
 voltaxic
 Voltfang
 Vorana
@@ -3196,6 +3206,7 @@ witchbane
 witchfire
 witchhunter
 witchhunter's
+Witchmark
 Witchtoads
 Woebearer
 Woespike
