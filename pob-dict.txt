@@ -211,6 +211,7 @@ RFES
 RGBWA
 Ribel
 rshift
+RUNEINFLUENCED
 sapbg
 schar
 scorchbg
