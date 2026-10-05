@@ -181,6 +181,7 @@ pastebin
 pastebinp
 perc
 perma
+pobarchives
 pobb
 pobc
 poedb
