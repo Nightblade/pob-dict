@@ -110,6 +110,8 @@
         "(\"|')[a-z0-9_\/%\\.]+(png|jpe?g|webp)(\"|')",
         // "ABYS"  "ABYN"  "ASCS"  (1)  src/Modules/DataAbyssJewelLookUpTableHelper.lua
         "\"A(BY[SN]|SCS)\"",
+        // blinde?d  (1)  src/Modules/ModParser.lua
+        "blinde\\?d",
     ],
     "languageSettings": [],
     "reporters": [],
