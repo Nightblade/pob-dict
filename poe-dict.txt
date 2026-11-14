@@ -1,3 +1,5 @@
+*of*
+*the*
 A'alai
 Abaxoth
 Abaxoth's
@@ -183,6 +185,7 @@ Aul's
 aulen
 aurabot
 aurafix
+aurel*
 aurelianus
 aurid
 auriot
@@ -225,6 +228,7 @@ balus
 bameth
 banebrand
 Bangled
+banner*
 Bannerbearing
 baracus
 Baran
@@ -431,6 +435,7 @@ brinerot
 brinespawn
 Brinesplitter
 Briney
+bringer*
 briskwrap
 bristlebeast
 Bristleboar
@@ -452,6 +457,7 @@ Brylla
 Brynhand's
 Brynhands
 Bugbot
+bundle*
 burtok
 Bynden
 Byrnabas
@@ -527,6 +533,7 @@ chestpiece
 chestplate
 Chetza
 chiara
+chill*
 chillcaller
 Chillproof
 chimeral
@@ -562,6 +569,7 @@ clientside
 clobberclaw
 cloudwhisper
 clustertrap
+coagulation*
 cogwork
 coldhearted
 coldsnap
@@ -805,6 +813,7 @@ Earthbreaking
 eartheater
 earthshatter
 Earthshattering
+eater*
 Eber
 Eber's
 ebers
@@ -819,6 +828,7 @@ eelskin
 Eeshta
 Effigial
 effigon
+effigy*
 egrin
 eihal
 Einhar
@@ -1154,6 +1164,7 @@ goatman
 goatmen
 goatqueen
 goblinedge
+goddess*
 godmode
 godslayer
 Goldcast
@@ -1164,6 +1175,7 @@ Goldwork
 Goldworked
 goldwyrm
 golemancer
+golemic
 golemsblood
 Gomin
 gorebreaker
@@ -1249,6 +1261,7 @@ hammerstorm
 handcast
 handfinger
 hapihapi
+harbinger*
 Hardleather
 Hargan
 Hargan's
@@ -1397,6 +1410,7 @@ Imperius
 implicits
 impresence
 incaminion
+incarnation*
 incarnatis
 indigon
 Infernalist
@@ -1800,6 +1814,7 @@ mercutio
 meritania
 meritarus
 merveil
+messenger*
 Messer
 metacraft
 metacrafting
@@ -1948,6 +1963,7 @@ nightbringer
 nighteater
 nightgrip
 Nighthowl
+nightmare*
 Nightscale
 nightsight
 nightstalker
@@ -2456,6 +2472,7 @@ Shockwarden
 shockwaves
 shortsword
 shrapnelbearer
+shredder*
 Shyaba
 Sidereus
 Sidhebite
@@ -2725,6 +2742,8 @@ Svalinn
 Sventura
 swiftbrand
 Swiftstalker
+sword*
+swordmaster
 swordstorm
 synthete
 Synthflesh
