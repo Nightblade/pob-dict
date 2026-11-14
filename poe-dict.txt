@@ -760,6 +760,8 @@ dreadarc
 dreadbeak
 Dreadfist
 dreadforge
+dreadmaiden
+dreadmaidens
 dreadmore
 dreadspire
 dreadstone
