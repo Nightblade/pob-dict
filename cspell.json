@@ -123,8 +123,7 @@
             "name": "poe-dict",
             "path": "./poe-dict.txt",
             "description": "Path of Exile dictionary",
-            "addWords": true,
-            "useCompounds": true
+            "addWords": true
         },
         {
             "name": "pob-dict",
