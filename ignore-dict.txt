@@ -12,8 +12,10 @@ amuletatlas
 ANNOINT
 AreaofEffect
 AtlasCruasderJudgeFadingNova
+AureltheHungry
 AzmeriBasiliskDecapThrust
 BADP
+BannerofLunaris
 Beastial
 beltatlas
 BladeBlastof
@@ -26,6 +28,8 @@ BloodUltimatium
 bootsatlas
 bootsatlasdexint
 BossSulpurGas
+BringerofBlood
+BundleofWoe
 BurrowerVacuume
 categorybeasts
 categorydemon
@@ -37,7 +41,9 @@ chance_rollovercapped
 ChargedDashof
 CharmEnchange
 CharmUnaffectedby
+ChilloftheMountain
 ChinsolDamage
+CoagulationofGore
 corge
 CritsDontAlways
 CritsOnYouDont
@@ -51,9 +57,12 @@ DestructiveLinkSkeletonBombadierMinion
 DivineIreof
 DMGTHORNS
 DMGTHORNSBASE
+DoedretheVile
 dontSplitEvade
 DoubleStrikeof
 DrivebyCharge
+EaterofWorlds
+EffigyofFear
 EGSavageGaint
 EnmitysEmbrace
 ExposureonHit
@@ -70,6 +79,7 @@ glovesatlasdex
 glovesatlasint
 glovesatlasstr
 glovesatlasstrint
+GoddessofPurity
 grault
 GSRoboHoundBellyDamage
 HARMONICMEAN
@@ -89,8 +99,10 @@ LegsGenadeExplosion
 LifeonKill
 LightningArrowof
 ManaonKill
+MarceustheDefaced
 MeleeStrikesMaraduerPhys
 meself
+MessengeroftheDesert
 MinionsAreUndamagable
 ModLGOHIgnited
 monstercategory
@@ -132,6 +144,8 @@ setoption
 settimeout
 Shapeshifted
 ShieldInsteadofLife
+ShredderofGladiators
+ShreikerEihal
 Siezing
 Singlular
 skill_charge_matery_skill_speed
@@ -150,6 +164,7 @@ SupportEncumberancePlayer
 SupportReveberatePlayer
 supporttriggerelementalspellonblock
 supporttriggerfirespellonhit
+SwordofLunaris
 TCTwilghtOrderSoldierCharge
 Testling
 Tornadoof
@@ -162,6 +177,10 @@ UniqueManaScarificeToAllies1
 UniqueModifyableWhileCorrupted1
 UniqueNonherent
 uulnetol
+VisceraHarbingerof
+VisceraIncarnationof
+VisceraNightmareof
+VisceraQuru
 VruunsInevitablity
 wandatlas
 WarcyProjectiles
