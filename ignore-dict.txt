@@ -132,7 +132,6 @@ setoption
 settimeout
 Shapeshifted
 ShieldInsteadofLife
-ShreikerEihal
 Siezing
 Singlular
 skill_charge_matery_skill_speed
@@ -163,7 +162,6 @@ UniqueManaScarificeToAllies1
 UniqueModifyableWhileCorrupted1
 UniqueNonherent
 uulnetol
-VisceraQuru
 VruunsInevitablity
 wandatlas
 WarcyProjectiles

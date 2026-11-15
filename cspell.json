@@ -77,7 +77,7 @@
         "**/src/Data/MercenaryStatMap.lua",
         "**/src/Data/ModRunes.lua",
     ],
-    "allowCompoundWords": true,
+    "allowCompoundWords": false,
     "patterns": [],
     "ignoreRegExpList": [
         // RegExps must be in quotes and any escape characters doubled.
@@ -123,8 +123,7 @@
             "name": "poe-dict",
             "path": "./poe-dict.txt",
             "description": "Path of Exile dictionary",
-            "addWords": true,
-            "useCompounds": true
+            "addWords": true
         },
         {
             "name": "pob-dict",
@@ -143,8 +142,7 @@
             "name": "extra-en-dict",
             "path": "./extra-en-dict.txt",
             "description": "Extra English dictionary",
-            "addWords": true,
-            "useCompounds": true
+            "addWords": true
         },
         {
             "name": "contribs-dict",

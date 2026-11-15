@@ -183,7 +183,6 @@ Aul's
 aulen
 aurabot
 aurafix
-aurel*
 aurelianus
 aurid
 auriot
@@ -1165,7 +1164,6 @@ Goldwork
 Goldworked
 goldwyrm
 golemancer
-golemic
 golemsblood
 Gomin
 gorebreaker
@@ -2727,7 +2725,6 @@ Svalinn
 Sventura
 swiftbrand
 Swiftstalker
-swordmaster
 swordstorm
 synthete
 Synthflesh
