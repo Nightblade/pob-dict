@@ -77,7 +77,7 @@
         "**/src/Data/MercenaryStatMap.lua",
         "**/src/Data/ModRunes.lua",
     ],
-    "allowCompoundWords": false,
+    "allowCompoundWords": true,
     "patterns": [],
     "ignoreRegExpList": [
         // RegExps must be in quotes and any escape characters doubled.
