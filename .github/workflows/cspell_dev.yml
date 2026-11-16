@@ -33,7 +33,7 @@ jobs:
 
       - name: Fetch config file and dictionaries
         env:
-          CONFIG_URL: https://raw.githubusercontent.com/Nightblade/pob-dict/main
+          CONFIG_URL: https://raw.githubusercontent.com/Nightblade/pob-dict/cspell_test
         run:
           curl --silent --show-error --parallel --remote-name-all
             ${{ env.CONFIG_URL }}/cspell.json
