@@ -81,47 +81,39 @@
     "patterns": [],
     "ignoreRegExpList": [
         // RegExps must be in quotes and any escape characters doubled.
+        // Comment syntax is mostly: <text to match  ... | (description)>  <(PoB version * = both)>  [path/filename]
 
-        // Colour hex codes
-        // ^xADAA47
-        "\\^x[0-9a-f]{6}\\b",
-
-        // File paths/names
-        // RELIC = "Assets/itemsseparatorfoil.png",
-        "(\"|')[a-z0-9_%./-]+\\.(png|jpe?g|webp)(\"|')",
-
-        // Lua pattern syntax: words split by [...] or %class
-        // gsub("[fF]or 4 ?[Ss]econds On Hit", "")
-        // ["immun[ei]t?y? to elemental ailments while on consecrated ground"]
-        // ["non%-vaal strike skills target (%d+) additional nearby enem[yi]e?s?"]
-        // line:match("{[vV]ariant:([%d,.]+)}")
-        // { "(rare or unique enem%a+) within [%d%.]+ metres?", "%1 nearby" }
-        "(\\b[a-z]+)?(\\[[a-z]+\\]|%[acdglpsuwxz])[a-z?]*\\b",
-
-        // Lua pattern syntax: optional '?' quantifiers
-        // ["manifeste?d? dancing dervishe?s? disables both weapon slots"]
-        // ["leeche?s? ([%d%.]+)%% of (%a+) damage as mana"]
-        // ["attribute requirements of gems can be satisi?fied by your highest attribute"]
-        "\\b[a-z]+\\?[a-z]*\\b",
-
-        // ["^skills [hgdf][aei][vari][eln] "]
-        "\\[(hgdf|vari)\\]",
-
-        // ["^minions [cthd][ae][ukva][sel]e? "]
-        "\\[cthd\\]\\[ae\\]\\[ukva\\]",
-
-        // gsub("Strenth", "Strength")
+        // (Colour hex codes eg ^xADAA47)  (*)
+        "\\^x[0-9a-fA-F]{6}",
+        // manifeste?  leeche?  (*)  src/Modules/ModParser.lua
+        "(manifeste|leeche)\\?",
+        // ]econds  (1)  src/Data/Uniques/Special/Generated.lua
+        "\\]econds",
+        // immun[  (*)  src/Modules/ModParser.lua
+        "immun\\[",
+        // [hgdf]  [viar]  (*)  src/Modules/ModParser.lua
+        "\\[(hgdf|viar)\\]",
+        // enem[y  (*)  src/Modules/ModParser.lua
+        "enem\\[y",
+        // satisi?fied  (2)  src/Modules/ModParser.lua
+        "satisi\\?fied",
+        // "Strenth"  (2)  src/Data/Uniques/Special/Generated.lua
         "\"Strenth\"",
-
-        // ("Amluet","Amulet"):gsub("Botts","Boots")
-        // :gsub("Amluet","Amulet"):gsub("Botts","Boots")
+        // [cthd][ae][ukva]  (2)  src/Modules/ModParser.lua
+        "\\[cthd\\]\\[ae\\]\\[ukva\\]",
+        // ("Amluet","Amulet"):gsub("Botts","Boots")  (1)  src/Export/Scripts/mapUniqueToFoulborn.lua
         "\\(\"Amluet\"",
         "\\(\"Botts\"",
-
-        // "ABYS"
-        // "ABYN"
-        // "ASCS"
+        // [vV]ariant  (1)  src/Export/Scripts/uTextToMods.lua
+        "\\[vV\\]ariant",
+        // (file paths/names)  (*)  "Assets/itemsseparatorfoil.png"
+        "(\"|')[a-z0-9_/%\\.]+(png|jpe?g|webp)(\"|')",
+        // "ABYS"  "ABYN"  "ASCS"  (1)  src/Modules/DataAbyssJewelLookUpTableHelper.lua
         "\"A(BY[SN]|SCS)\"",
+        // blinde?d  (1)  src/Modules/ModParser.lua
+        "blinde\\?d",
+        // enem%a  (1)  src/Modules/ModParser.lua
+        "enem%a",
     ],
     "languageSettings": [],
     "reporters": [],
