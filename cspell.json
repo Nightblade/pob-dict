@@ -112,6 +112,8 @@
         "\"A(BY[SN]|SCS)\"",
         // blinde?d  (1)  src/Modules/ModParser.lua
         "blinde\\?d",
+        // enem%a  (1)  src/Modules/ModParser.lua
+        "enem%a",
     ],
     "languageSettings": [],
     "reporters": [],
