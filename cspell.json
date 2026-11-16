@@ -96,7 +96,7 @@
         // ["non%-vaal strike skills target (%d+) additional nearby enem[yi]e?s?"]
         // line:match("{[vV]ariant:([%d,.]+)}")
         // { "(rare or unique enem%a+) within [%d%.]+ metres?", "%1 nearby" }
-        "\\b[a-z]*(\\[[a-z]+\\]|%[acdglpsuwxz])[a-z?]*\\b",
+        "(\\b[a-z]+)?(\\[[a-z]+\\]|%[acdglpsuwxz])[a-z?]*\\b",
 
         // Lua pattern syntax: multi-word alternation character sets
         // ["^skills [hgdf][aei][vari][eln] "]
