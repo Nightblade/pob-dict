@@ -84,7 +84,7 @@
 
         // Colour hex codes
         // ^xADAA47
-        "\\^x[0-9a-f]{6}",
+        "\\^x[0-9a-f]{6}\\b",
 
         // File paths/names
         // RELIC = "Assets/itemsseparatorfoil.png",
