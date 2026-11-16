@@ -84,7 +84,7 @@
         // Comment syntax is mostly: <text to match  ... | (description)>  <(PoB version * = both)>  [path/filename]
 
         // (Colour hex codes eg ^xADAA47)  (*)
-        "\\^x[0-9a-fA-F]{6}",
+        "\\^x[0-9a-fA-F]{6}\\b",
         // manifeste?  leeche?  (*)  src/Modules/ModParser.lua
         "(manifeste|leeche)\\?",
         // ]econds  (1)  src/Data/Uniques/Special/Generated.lua
