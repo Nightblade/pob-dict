@@ -1853,6 +1853,7 @@ Mongrelmaster
 Moonbender
 Moonbender's
 moondrops
+moonfall
 moonsorrow
 moontouched
 moonwarden
@@ -3214,6 +3215,7 @@ witchbane
 witchfire
 witchhunter
 witchhunter's
+witchhunters
 Witchmark
 Witchtoads
 Woebearer
