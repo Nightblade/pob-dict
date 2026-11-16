@@ -1168,6 +1168,7 @@ golemancer
 Golemic
 golemsblood
 Gomin
+goreblossom
 gorebreaker
 goredrill
 Goregirdle
