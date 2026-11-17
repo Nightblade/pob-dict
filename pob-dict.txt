@@ -199,6 +199,7 @@ pureftpd
 pyro
 quals
 realloc
+recalc
 recov
 reduct
 regen
