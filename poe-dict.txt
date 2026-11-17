@@ -292,6 +292,7 @@ Bisco's
 bismuthplated
 bitterbind
 bitterblade
+bitterblood
 Bitterbloom
 bitterdream
 blackblooded
@@ -323,6 +324,7 @@ blass
 blastchain
 bleeter
 blightblade
+blightcore
 Blightheart
 Blightmaster
 blightraise
@@ -330,6 +332,7 @@ blightreach
 blightspawn
 blightspeaker
 blightwell
+blightworm
 blinkflame
 Blisterboil
 blisterclaw
@@ -1782,6 +1785,7 @@ maulhead
 Mawdun
 maxarius
 mazarine
+mazcotl
 Maztli
 Mazus
 meatgrinder
@@ -1893,6 +1897,7 @@ Murtagh
 muruk
 Mushrune
 mutewind
+mycotic
 myrae
 Myris
 Myrk's
