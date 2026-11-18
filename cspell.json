@@ -76,6 +76,7 @@
         "**/src/Data/Mercenaries.lua",
         "**/src/Data/MercenaryStatMap.lua",
         "**/src/Data/ModRunes.lua",
+        "**/src/Data/Viscera.lua",
     ],
     "allowCompoundWords": false,
     "patterns": [],
