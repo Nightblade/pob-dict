@@ -784,6 +784,7 @@ drox
 druggery
 Drusian
 dryback
+dualstrike
 Dualstring
 Dunerunner
 Dunkelhalt
@@ -987,6 +988,7 @@ flamelord
 flamelords
 Flamepierce
 Flameplating
+flamequiver
 flamescale
 flamesight
 flamespitting

@@ -75,6 +75,7 @@ shapeshift
 shockwave
 Shortbow
 socketable
+socketless
 spaghettification
 spammable
 specularity
