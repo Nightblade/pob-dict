@@ -235,7 +235,8 @@
         "dont->don't",
         "unscaleable->unscalable",
         "botts->boots",
-        "hight->height"
+        "hight->height",
+        "visiblity->visibility",
     ],
     "includeRegExpList": [],
     "loadDefaultConfiguration": true,
