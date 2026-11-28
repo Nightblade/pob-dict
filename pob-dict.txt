@@ -27,6 +27,7 @@ bxor
 cardbeard
 casttime
 cdef
+CDPATH
 centerduelist
 centermarauder
 centerranger
