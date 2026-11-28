@@ -2,7 +2,7 @@
 
 # pob-dict
 
-Dictionaries and [Code Spell Checker](https://cspell.org/) (CSpell) config files for [Path Of Building Community](https://github.com/PathOfBuildingCommunity/PathOfBuilding) (PoB) code development.
+Dictionaries and [Code Spell Checker](https://cspell.org/) (CSpell) config files for [Path Of Building (Community)](https://github.com/PathOfBuildingCommunity/PathOfBuilding) and [Path Of Building-PoE2 (Community)](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2) code development.  *"PoB"* is used here to refer to either repo.
 
 ## Components
 
@@ -24,7 +24,7 @@ All `*-dict.txt` files contain a single word per line, `LF`-terminated, sorted a
 
 Copy `docs/spellcheck.yml` to `.github/workflows/` in the PoB repo.
 
-This workflow runs from the PoB repo and pulls files from this repo as needed, keeping the PoB repo uncluttered. By default it checks only changes in PRs against the `dev` branch. You can also trigger it manually to run a full check against a specific branch, tag, or SHA.
+This workflow triggers on pushes and PRs to `dev`, downloading the necessary files from this repo. You can also run it manually to check a specific branch, tag, or SHA.
 
 ### VSCode <sup><sub>(optional)</sub></sup>
 
